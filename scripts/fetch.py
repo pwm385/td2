@@ -51,6 +51,41 @@ def fetch_html(date: str | None, retries: int = 2) -> str:
     raise RuntimeError(f"抓取失败: {last}")
 
 
+ICON_DIR = ROOT / "assets" / "icons"
+ICON_BASE = "https://prototrack.gg"
+_icon_cache: dict[str, str | None] = {}
+
+
+def icon_for(src: str | None) -> str | None:
+    """把页面的图标路径 (/assets/division2/gear/mask.png) 下载到本地并返回相对路径。"""
+    if not src:
+        return None
+    if src in _icon_cache:
+        return _icon_cache[src]
+    path = src.split("?")[0]
+    prefix = "/assets/division2/"
+    if not path.startswith(prefix):
+        _icon_cache[src] = None
+        return None
+    rel = path[len(prefix):]
+    local = ICON_DIR / rel
+    if not local.exists():
+        local.parent.mkdir(parents=True, exist_ok=True)
+        try:
+            req = urllib.request.Request(ICON_BASE + path, headers={
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+                "Referer": "https://prototrack.gg/target-loot/target-loot.php?view=escalation",
+            })
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                local.write_bytes(resp.read())
+        except Exception as e:                       # noqa: BLE001
+            print(f"[图标失败] {path}: {e}", file=sys.stderr)
+            _icon_cache[src] = None
+            return None
+    _icon_cache[src] = f"assets/icons/{rel}"
+    return _icon_cache[src]
+
+
 def build_day(html: str, resolver: Resolver) -> dict:
     parsed = page_parser.parse_escalation(html)
     if not parsed.get("missions"):
@@ -71,6 +106,8 @@ def build_day(html: str, resolver: Resolver) -> dict:
             "last_seen": item.get("last_seen_date"),
             "last_seen_en": item.get("last_seen_en"),
             "priority": bool(item.get("priority")),
+            "loot_src": item.get("loot_src"),
+            "icon": icon_for(item.get("loot_src")),
         }
 
     missions = []
@@ -173,8 +210,11 @@ def rebuild_index(resolver: Resolver | None = None) -> None:
                 "loot_en": en,
                 "loot_cn": row.get("loot_cn"),
                 "category": row.get("category"),
+                "icon": row.get("icon"),
                 "dates": [],
             })
+            if row.get("icon") and not it.get("icon"):
+                it["icon"] = row["icon"]
             if row.get("loot_cn") and not it.get("loot_cn"):
                 it["loot_cn"] = row["loot_cn"]
             it["dates"].append({"date": d.get("date"), "appearances": row.get("appearances")})

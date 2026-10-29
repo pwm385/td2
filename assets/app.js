@@ -61,25 +61,33 @@ function lootCell(r) {
   const name = esc(r.loot_cn).replace(/※$/, "");
   return name + (r.uncertain ? '<span class="cat" title="译名待确认">※</span>' : "");
 }
+function iconTag(r, size) {
+  if (!r.icon) return "";
+  return '<img class="ico" loading="lazy" alt="" src="' + esc(r.icon) + '">';
+}
 function missionCard(m) {
   const cat = { brand: "品牌", set: "套装", slot: "部位", unknown: "未分类" }[m.category] || "";
-  return '<div class="card">' +
-    '<div class="row1">' +
-      (m.priority ? '<span class="pri" title="重点">★</span>' : "") +
-      '<span class="mission">' + esc(m.mission_cn || m.mission) + "</span>" +
-      (m.faction_cn ? '<span class="faction">' + esc(m.faction_cn) + "</span>" : "") +
+  return '<div class="card item">' + iconTag(m) +
+    '<div class="body">' +
+      '<div class="row1">' +
+        (m.priority ? '<span class="pri" title="重点">★</span>' : "") +
+        '<span class="mission">' + esc(m.mission_cn || m.mission) + "</span>" +
+        (m.faction_cn ? '<span class="faction">' + esc(m.faction_cn) + "</span>" : "") +
+      "</div>" +
+      '<div class="loot">' + lootCell(m) + '<span class="cat">' + esc(cat) + "</span></div>" +
+      '<div class="meta">出现 ' + (m.appearances ?? "-") + " 次 · 上次 " + agoText(m.last_seen) +
+        (m.last_seen ? "（" + esc(m.last_seen) + "）" : "") + "</div>" +
     "</div>" +
-    '<div class="loot">' + lootCell(m) + '<span class="cat">' + esc(cat) + "</span></div>" +
-    '<div class="meta">出现 ' + (m.appearances ?? "-") + " 次 · 上次 " + agoText(m.last_seen) +
-      (m.last_seen ? "（" + esc(m.last_seen) + "）" : "") + "</div>" +
   "</div>";
 }
 function cacheCard(c) {
   const cat = { brand: "品牌", set: "套装", slot: "部位", unknown: "未分类" }[c.category] || "";
-  return '<div class="card">' +
-    '<div class="row1"><span class="mission">' + esc(c.name_cn || c.name) + "</span></div>" +
-    '<div class="loot">' + lootCell(c) + '<span class="cat">' + esc(cat) + "</span></div>" +
-    '<div class="meta">出现 ' + (c.appearances ?? "-") + " 次 · 上次 " + agoText(c.last_seen) + "</div>" +
+  return '<div class="card item">' + iconTag(c) +
+    '<div class="body">' +
+      '<div class="row1"><span class="mission">' + esc(c.name_cn || c.name) + "</span></div>" +
+      '<div class="loot">' + lootCell(c) + '<span class="cat">' + esc(cat) + "</span></div>" +
+      '<div class="meta">出现 ' + (c.appearances ?? "-") + " 次 · 上次 " + agoText(c.last_seen) + "</div>" +
+    "</div>" +
   "</div>";
 }
 
@@ -130,7 +138,7 @@ async function initItem() {
     const hit = items.filter((it) => !kw || (it.loot_cn || "").toLowerCase().includes(kw) || (it.loot_en || "").toLowerCase().includes(kw));
     if (!hit.length) { out.innerHTML = '<p class="empty">没有匹配的掉落</p>'; return; }
     out.innerHTML = hit.slice(0, 60).map((it, i) =>
-      '<div class="card"><div class="item-row" data-i="' + i + '">' +
+      '<div class="card"><div class="item-row" data-i="' + i + '">' + iconTag(it) +
         '<div class="n"><div class="loot" style="margin:0">' + (it.loot_cn ? esc(it.loot_cn) : '<span style="color:var(--bad)">' + esc(it.loot_en) + "</span>") +
         '</div><div class="c">' + esc(it.loot_en) + " · 出现 " + it.dates.length + " 天</div></div>" +
         '<div class="c">' + (it.dates.length ? it.dates[it.dates.length - 1].date.slice(5) : "") + "</div>" +
