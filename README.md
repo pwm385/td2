@@ -1,10 +1,12 @@
 # 全境封锁2 · 每日定向掉落
 
 > **在线地址：<https://pwm385.github.io/td2/>** （GitHub Pages 托管）
+>
+> ![预览](docs/preview.png)
 
-
-一个纯静态的掉落查询站：每天北京时间 16:05 自动抓取 prototrack.gg 的数据，
-生成 JSON 提交回仓库，Cloudflare Pages 自动重新部署。**没有后端、没有数据库、没有服务器。**
+一个纯静态的掉落查询站：每天北京时间 16:00 换轮后（16:05 / 17:05 / 18:05 / 19:05 各跑一次兜底），
+GitHub Actions 自动抓取 prototrack.gg 的数据，生成 JSON 提交回仓库，GitHub Pages 自动重新部署。
+**没有后端、没有数据库、没有服务器。**
 
 ## 它能干什么
 
