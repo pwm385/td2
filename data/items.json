@@ -769,6 +769,26 @@
    ]
   },
   {
+   "loot_en": "Airaldi Holdings",
+   "loot_cn": "阿尔拉蒂企业",
+   "category": "brand",
+   "icon": "assets/icons/brandsets/airaldiholdings.png",
+   "dates": [
+    {
+     "date": "2026-10-11",
+     "appearances": 13
+    },
+    {
+     "date": "2026-10-25",
+     "appearances": 14
+    },
+    {
+     "date": "2026-10-30",
+     "appearances": 16
+    }
+   ]
+  },
+  {
    "loot_en": "Hard Wired",
    "loot_cn": "硬连线※",
    "category": "set",
@@ -949,6 +969,22 @@
    ]
   },
   {
+   "loot_en": "Kneepads",
+   "loot_cn": "护膝",
+   "category": "slot",
+   "icon": "assets/icons/gear/kneepads.png",
+   "dates": [
+    {
+     "date": "2026-10-02",
+     "appearances": 30
+    },
+    {
+     "date": "2026-10-30",
+     "appearances": 32
+    }
+   ]
+  },
+  {
    "loot_en": "SMGs",
    "loot_cn": "冲锋枪",
    "category": "slot",
@@ -1029,6 +1065,22 @@
    ]
   },
   {
+   "loot_en": "Ongoing Directive",
+   "loot_cn": "持续指令※",
+   "category": "set",
+   "icon": "assets/icons/gearsets/ongoingdirective.png",
+   "dates": [
+    {
+     "date": "2026-10-08",
+     "appearances": 13
+    },
+    {
+     "date": "2026-10-30",
+     "appearances": 15
+    }
+   ]
+  },
+  {
    "loot_en": "Walker, Harris & Co",
    "loot_cn": "沃克与哈里斯企业",
    "category": "brand",
@@ -1061,22 +1113,6 @@
    ]
   },
   {
-   "loot_en": "Airaldi Holdings",
-   "loot_cn": "阿尔拉蒂企业",
-   "category": "brand",
-   "icon": "assets/icons/brandsets/airaldiholdings.png",
-   "dates": [
-    {
-     "date": "2026-10-11",
-     "appearances": 13
-    },
-    {
-     "date": "2026-10-25",
-     "appearances": 14
-    }
-   ]
-  },
-  {
    "loot_en": "Shiny Monkey Gear",
    "loot_cn": "亮猴装备※",
    "category": "brand",
@@ -1088,6 +1124,22 @@
     },
     {
      "date": "2026-10-17",
+     "appearances": 10
+    }
+   ]
+  },
+  {
+   "loot_en": "Belstone Armory",
+   "loot_cn": "贝尔斯通军火",
+   "category": "brand",
+   "icon": "assets/icons/brandsets/belstonearmory.png",
+   "dates": [
+    {
+     "date": "2026-10-16",
+     "appearances": 8
+    },
+    {
+     "date": "2026-10-30",
      "appearances": 10
     }
    ]
@@ -1161,18 +1213,6 @@
    ]
   },
   {
-   "loot_en": "Kneepads",
-   "loot_cn": "护膝",
-   "category": "slot",
-   "icon": "assets/icons/gear/kneepads.png",
-   "dates": [
-    {
-     "date": "2026-10-02",
-     "appearances": 30
-    }
-   ]
-  },
-  {
    "loot_en": "Umbra Initiative",
    "loot_cn": "暗影行动※",
    "category": "set",
@@ -1229,18 +1269,6 @@
     {
      "date": "2026-10-05",
      "appearances": 7
-    }
-   ]
-  },
-  {
-   "loot_en": "Ongoing Directive",
-   "loot_cn": "持续指令※",
-   "category": "set",
-   "icon": "assets/icons/gearsets/ongoingdirective.png",
-   "dates": [
-    {
-     "date": "2026-10-08",
-     "appearances": 13
     }
    ]
   },
@@ -1337,18 +1365,6 @@
     {
      "date": "2026-10-16",
      "appearances": 11
-    }
-   ]
-  },
-  {
-   "loot_en": "Belstone Armory",
-   "loot_cn": "贝尔斯通军火",
-   "category": "brand",
-   "icon": "assets/icons/brandsets/belstonearmory.png",
-   "dates": [
-    {
-     "date": "2026-10-16",
-     "appearances": 8
     }
    ]
   },
@@ -1469,6 +1485,42 @@
     {
      "date": "2026-10-27",
      "appearances": 13
+    }
+   ]
+  },
+  {
+   "loot_en": "Wyvern Wear",
+   "loot_cn": "飞龙纺织",
+   "category": "brand",
+   "icon": "assets/icons/brandsets/wyvernwear.png",
+   "dates": [
+    {
+     "date": "2026-10-30",
+     "appearances": 14
+    }
+   ]
+  },
+  {
+   "loot_en": "Murakami Industries",
+   "loot_cn": "村上工业",
+   "category": "brand",
+   "icon": "assets/icons/brandsets/murakamiindustries.png",
+   "dates": [
+    {
+     "date": "2026-10-30",
+     "appearances": 16
+    }
+   ]
+  },
+  {
+   "loot_en": "Pistols",
+   "loot_cn": "手枪",
+   "category": "slot",
+   "icon": "assets/icons/weapons/pistol.png",
+   "dates": [
+    {
+     "date": "2026-10-30",
+     "appearances": 22
     }
    ]
   }

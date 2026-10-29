@@ -86,6 +86,15 @@ def icon_for(src: str | None) -> str | None:
     return _icon_cache[src]
 
 
+def expected_day() -> str:
+    """这一轮该记在哪一天：每天 16:00（北京）换轮，16:00 之后算"明天"那轮。"""
+    now = beijing_now()
+    day = now.date()
+    if now.hour >= 16:
+        day = day + timedelta(days=1)
+    return day.isoformat()
+
+
 def build_day(html: str, resolver: Resolver) -> dict:
     parsed = page_parser.parse_escalation(html)
     if not parsed.get("missions"):
@@ -132,6 +141,7 @@ def build_day(html: str, resolver: Resolver) -> dict:
 
     return {
         "date": parsed.get("loot_date"),
+        "page_date": parsed.get("loot_date"),
         "fetched_at": beijing_now().isoformat(timespec="seconds"),
         "updated": parsed.get("last_updated"),
         "rotation_week": parsed.get("rotation_week"),
@@ -245,7 +255,7 @@ def main() -> int:
         today = beijing_now().date()
         targets = [(today - timedelta(days=i)).isoformat() for i in range(args.days)]
     else:
-        targets = [args.date]
+        targets = [args.date or expected_day()]
 
     written = 0
     skipped = 0
@@ -264,9 +274,21 @@ def main() -> int:
         except Exception as e:                       # noqa: BLE001
             print(f"[失败] {day or 'today'}: {e}", file=sys.stderr)
             continue
-        out_date = data.get("date") or day or beijing_now().date().isoformat()
+        out_date = day or expected_day()
         data["date"] = out_date
         out_path = DATA / f"{out_date}.json"
+        # 源站可能还没换轮（内容仍是上一轮）→ 不写，等下一次定时任务
+        if not out_path.exists():
+            prev_path = DATA / f"{(datetime.fromisoformat(out_date) - timedelta(days=1)).date().isoformat()}.json"
+            if prev_path.exists():
+                try:
+                    prev = json.loads(prev_path.read_text(encoding="utf-8"))
+                except Exception:                    # noqa: BLE001
+                    prev = None
+                if prev and _same_except_stamp(prev, data):
+                    print(f"[未更新] {out_date} 源站还是上一轮的配置，本次不写")
+                    skipped += 1
+                    continue
         # 内容没变就别写（避免每天多出只有 fetched_at 变化的无意义提交）
         if out_path.exists():
             try:
