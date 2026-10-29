@@ -108,6 +108,13 @@ def write_json(path: Path, obj: dict) -> None:
     path.write_text(json.dumps(obj, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
 
 
+def _same_except_stamp(a: dict, b: dict) -> bool:
+    """比较两份日数据，忽略抓取时间戳。"""
+    def strip(d: dict) -> dict:
+        return {k: v for k, v in d.items() if k != "fetched_at"}
+    return strip(a) == strip(b)
+
+
 def restamp(day: dict, resolver: Resolver) -> bool:
     """用当前名字表重新解析历史数据（改了 names.py 后无需重新抓取）。"""
     changed = False
@@ -142,11 +149,19 @@ def rebuild_index(resolver: Resolver | None = None) -> None:
         days.append(day)
 
     days.sort(key=lambda d: d.get("date") or "", reverse=True)
-    index = {
-        "latest": days[0].get("date") if days else None,
-        "dates": [d.get("date") for d in days if d.get("date")],
-        "updated_at": beijing_now().isoformat(timespec="seconds"),
-    }
+    latest = days[0].get("date") if days else None
+    dates = [d.get("date") for d in days if d.get("date")]
+    stamp = beijing_now().isoformat(timespec="seconds")
+    old_index = DATA / "index.json"
+    if old_index.exists():
+        try:
+            old = json.loads(old_index.read_text(encoding="utf-8"))
+            # 数据没变就沿用旧的更新时间，避免每次运行都产生无意义提交
+            if old.get("latest") == latest and old.get("dates") == dates and old.get("updated_at"):
+                stamp = old["updated_at"]
+        except Exception:                            # noqa: BLE001
+            pass
+    index = {"latest": latest, "dates": dates, "updated_at": stamp}
 
     items: dict[str, dict] = {}
     for d in sorted(days, key=lambda x: x.get("date") or ""):
@@ -211,7 +226,18 @@ def main() -> int:
             continue
         out_date = data.get("date") or day or beijing_now().date().isoformat()
         data["date"] = out_date
-        write_json(DATA / f"{out_date}.json", data)
+        out_path = DATA / f"{out_date}.json"
+        # 内容没变就别写（避免每天多出只有 fetched_at 变化的无意义提交）
+        if out_path.exists():
+            try:
+                old = json.loads(out_path.read_text(encoding="utf-8"))
+            except Exception:                        # noqa: BLE001
+                old = None
+            if old and _same_except_stamp(old, data):
+                print(f"[无变化] {out_date}")
+                skipped += 1
+                continue
+        write_json(out_path, data)
         written += 1
         miss = " 待补全:" + ",".join(data["unknown_names"]) if data["unknown_names"] else ""
         print(f"[OK] {out_date}  任务 {len(data['missions'])}  缓存 {len(data['caches'])}{miss}")
