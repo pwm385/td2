@@ -1,0 +1,108 @@
+{
+ "date": "2026-10-09",
+ "fetched_at": "2026-10-29T10:22:19+08:00",
+ "updated": "09 Oct · 10:01",
+ "rotation_week": {
+  "start": "2026-10-06",
+  "end": "2026-10-12"
+ },
+ "missions": [
+  {
+   "loot_en": "Walker, Harris & Co",
+   "loot_cn": "沃克与哈里斯企业",
+   "category": "brand",
+   "uncertain": false,
+   "appearances": 14,
+   "last_seen": "2026-09-15",
+   "last_seen_en": "24 days ago",
+   "priority": false,
+   "mission": "Pathway Park",
+   "mission_cn": "路径公园",
+   "faction": "Cleaners",
+   "faction_cn": "清洁工"
+  },
+  {
+   "loot_en": "Hana-U Corporation",
+   "loot_cn": "哈瑙公司",
+   "category": "brand",
+   "uncertain": false,
+   "appearances": 14,
+   "last_seen": "2026-09-30",
+   "last_seen_en": "9 days ago",
+   "priority": false,
+   "mission": "Camp White Oak",
+   "mission_cn": "白橡树营地",
+   "faction": "Black Tusk",
+   "faction_cn": "暗牙"
+  },
+  {
+   "loot_en": "Grupo Sombra S.A.",
+   "loot_cn": "影子军团股份有限公司",
+   "category": "brand",
+   "uncertain": false,
+   "appearances": 11,
+   "last_seen": "2026-09-16",
+   "last_seen_en": "23 days ago",
+   "priority": false,
+   "mission": "Grand Washington Hotel",
+   "mission_cn": "华盛顿大酒店",
+   "faction": "Hyenas",
+   "faction_cn": "鬣狗"
+  },
+  {
+   "loot_en": "Petrov Defense Group",
+   "loot_cn": "彼得罗夫防御集团",
+   "category": "brand",
+   "uncertain": false,
+   "appearances": 13,
+   "last_seen": "2026-09-22",
+   "last_seen_en": "17 days ago",
+   "priority": false,
+   "mission": "Jefferson Trade Center",
+   "mission_cn": "杰斐逊贸易中心",
+   "faction": "Hyenas",
+   "faction_cn": "鬣狗"
+  },
+  {
+   "loot_en": "Heartbreaker",
+   "loot_cn": "碎心者※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 8,
+   "last_seen": "2026-10-06",
+   "last_seen_en": "3 days ago",
+   "priority": false,
+   "mission": "Federal Emergency Bunker",
+   "mission_cn": "联邦紧急掩体",
+   "faction": "Outcasts",
+   "faction_cn": "流亡者"
+  }
+ ],
+ "caches": [
+  {
+   "loot_en": "Chest Pieces",
+   "loot_cn": "护甲",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 23,
+   "last_seen": "2026-10-03",
+   "last_seen_en": "6 days ago",
+   "priority": false,
+   "name": "Prototype Gear Cache",
+   "name_cn": "原型装备缓存"
+  },
+  {
+   "loot_en": "MMRs",
+   "loot_cn": "精确射手步枪",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 21,
+   "last_seen": "2026-10-03",
+   "last_seen_en": "6 days ago",
+   "priority": false,
+   "name": "Prototype Weapon Cache",
+   "name_cn": "原型武器缓存"
+  }
+ ],
+ "unknown_names": []
+}

@@ -1,0 +1,108 @@
+{
+ "date": "2026-10-02",
+ "fetched_at": "2026-10-29T10:22:47+08:00",
+ "updated": "02 Oct · 10:01",
+ "rotation_week": {
+  "start": "2026-09-29",
+  "end": "2026-10-05"
+ },
+ "missions": [
+  {
+   "loot_en": "Unit Alloys",
+   "loot_cn": "联合合金※",
+   "category": "brand",
+   "uncertain": true,
+   "appearances": 14,
+   "last_seen": "2026-09-25",
+   "last_seen_en": "7 days ago",
+   "priority": false,
+   "mission": "The Art Museum",
+   "mission_cn": "艺术博物馆",
+   "faction": "Rikers",
+   "faction_cn": "赖克斯帮"
+  },
+  {
+   "loot_en": "Tipping Scales",
+   "loot_cn": "倾斜天平",
+   "category": "set",
+   "uncertain": false,
+   "appearances": 13,
+   "last_seen": "2026-09-24",
+   "last_seen_en": "8 days ago",
+   "priority": false,
+   "mission": "Capitol Building",
+   "mission_cn": "国会大厦",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  },
+  {
+   "loot_en": "Concentrated Company",
+   "loot_cn": "精锐连※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 13,
+   "last_seen": "2026-09-14",
+   "last_seen_en": "18 days ago",
+   "priority": false,
+   "mission": "Jefferson Plaza",
+   "mission_cn": "杰斐逊广场",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  },
+  {
+   "loot_en": "Skill Mods",
+   "loot_cn": "技能模块※",
+   "category": "slot",
+   "uncertain": true,
+   "appearances": 12,
+   "last_seen": "2026-09-04",
+   "last_seen_en": "28 days ago",
+   "priority": false,
+   "mission": "Lincoln Memorial",
+   "mission_cn": "林肯纪念堂",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  },
+  {
+   "loot_en": "Core Strength",
+   "loot_cn": "核心力量※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 13,
+   "last_seen": "2026-09-28",
+   "last_seen_en": "4 days ago",
+   "priority": false,
+   "mission": "Federal Emergency Bunker",
+   "mission_cn": "联邦紧急掩体",
+   "faction": "Outcasts",
+   "faction_cn": "流亡者"
+  }
+ ],
+ "caches": [
+  {
+   "loot_en": "Kneepads",
+   "loot_cn": "护膝",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 30,
+   "last_seen": "2026-09-27",
+   "last_seen_en": "5 days ago",
+   "priority": false,
+   "name": "Prototype Gear Cache",
+   "name_cn": "原型装备缓存"
+  },
+  {
+   "loot_en": "SMGs",
+   "loot_cn": "冲锋枪",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 22,
+   "last_seen": "2026-09-25",
+   "last_seen_en": "7 days ago",
+   "priority": false,
+   "name": "Prototype Weapon Cache",
+   "name_cn": "原型武器缓存"
+  }
+ ],
+ "unknown_names": []
+}

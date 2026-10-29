@@ -1,0 +1,108 @@
+{
+ "date": "2026-10-07",
+ "fetched_at": "2026-10-29T10:22:27+08:00",
+ "updated": "07 Oct · 10:02",
+ "rotation_week": {
+  "start": "2026-10-06",
+  "end": "2026-10-12"
+ },
+ "missions": [
+  {
+   "loot_en": "Ortiz: Reficere",
+   "loot_cn": "奥提兹：重塑※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 9,
+   "last_seen": "2026-09-15",
+   "last_seen_en": "22 days ago",
+   "priority": false,
+   "mission": "Pathway Park",
+   "mission_cn": "路径公园",
+   "faction": "Cleaners",
+   "faction_cn": "清洁工"
+  },
+  {
+   "loot_en": "True Patriot",
+   "loot_cn": "真爱国者※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 12,
+   "last_seen": "2026-09-17",
+   "last_seen_en": "20 days ago",
+   "priority": false,
+   "mission": "Camp White Oak",
+   "mission_cn": "白橡树营地",
+   "faction": "Black Tusk",
+   "faction_cn": "暗牙"
+  },
+  {
+   "loot_en": "Overlord Armaments",
+   "loot_cn": "霸主军备公司",
+   "category": "brand",
+   "uncertain": false,
+   "appearances": 8,
+   "last_seen": "2026-08-07",
+   "last_seen_en": "61 days ago",
+   "priority": false,
+   "mission": "Grand Washington Hotel",
+   "mission_cn": "华盛顿大酒店",
+   "faction": "Hyenas",
+   "faction_cn": "鬣狗"
+  },
+  {
+   "loot_en": "Tipping Scales",
+   "loot_cn": "倾斜天平",
+   "category": "set",
+   "uncertain": false,
+   "appearances": 14,
+   "last_seen": "2026-10-02",
+   "last_seen_en": "5 days ago",
+   "priority": false,
+   "mission": "Jefferson Trade Center",
+   "mission_cn": "杰斐逊贸易中心",
+   "faction": "Hyenas",
+   "faction_cn": "鬣狗"
+  },
+  {
+   "loot_en": "Foundry Bulwark",
+   "loot_cn": "铸城壁垒※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 6,
+   "last_seen": "2026-09-20",
+   "last_seen_en": "17 days ago",
+   "priority": false,
+   "mission": "Federal Emergency Bunker",
+   "mission_cn": "联邦紧急掩体",
+   "faction": "Outcasts",
+   "faction_cn": "流亡者"
+  }
+ ],
+ "caches": [
+  {
+   "loot_en": "Holsters",
+   "loot_cn": "枪套",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 22,
+   "last_seen": "2026-09-23",
+   "last_seen_en": "14 days ago",
+   "priority": false,
+   "name": "Prototype Gear Cache",
+   "name_cn": "原型装备缓存"
+  },
+  {
+   "loot_en": "Shotguns",
+   "loot_cn": "霰弹枪",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 26,
+   "last_seen": "2026-09-30",
+   "last_seen_en": "7 days ago",
+   "priority": false,
+   "name": "Prototype Weapon Cache",
+   "name_cn": "原型武器缓存"
+  }
+ ],
+ "unknown_names": []
+}

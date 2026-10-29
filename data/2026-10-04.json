@@ -1,0 +1,108 @@
+{
+ "date": "2026-10-04",
+ "fetched_at": "2026-10-29T10:22:39+08:00",
+ "updated": "04 Oct · 10:01",
+ "rotation_week": {
+  "start": "2026-09-29",
+  "end": "2026-10-05"
+ },
+ "missions": [
+  {
+   "loot_en": "Assault Rifle",
+   "loot_cn": "突击步枪",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 7,
+   "last_seen": "2026-09-03",
+   "last_seen_en": "31 days ago",
+   "priority": false,
+   "mission": "The Art Museum",
+   "mission_cn": "艺术博物馆",
+   "faction": "Rikers",
+   "faction_cn": "赖克斯帮"
+  },
+  {
+   "loot_en": "Gear Mods",
+   "loot_cn": "装备模块※",
+   "category": "slot",
+   "uncertain": true,
+   "appearances": 18,
+   "last_seen": "2026-10-01",
+   "last_seen_en": "3 days ago",
+   "priority": false,
+   "mission": "Capitol Building",
+   "mission_cn": "国会大厦",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  },
+  {
+   "loot_en": "Hunters Fury",
+   "loot_cn": "猎人之怒※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 6,
+   "last_seen": "2026-09-10",
+   "last_seen_en": "24 days ago",
+   "priority": false,
+   "mission": "Jefferson Plaza",
+   "mission_cn": "杰斐逊广场",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  },
+  {
+   "loot_en": "Gila Guard",
+   "loot_cn": "毒蜥守卫队",
+   "category": "brand",
+   "uncertain": false,
+   "appearances": 11,
+   "last_seen": "2026-09-26",
+   "last_seen_en": "8 days ago",
+   "priority": false,
+   "mission": "Lincoln Memorial",
+   "mission_cn": "林肯纪念堂",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  },
+  {
+   "loot_en": "Backpack",
+   "loot_cn": "背包",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 9,
+   "last_seen": "2026-09-21",
+   "last_seen_en": "13 days ago",
+   "priority": false,
+   "mission": "Federal Emergency Bunker",
+   "mission_cn": "联邦紧急掩体",
+   "faction": "Outcasts",
+   "faction_cn": "流亡者"
+  }
+ ],
+ "caches": [
+  {
+   "loot_en": "Masks",
+   "loot_cn": "面具",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 27,
+   "last_seen": "2026-09-30",
+   "last_seen_en": "4 days ago",
+   "priority": false,
+   "name": "Prototype Gear Cache",
+   "name_cn": "原型装备缓存"
+  },
+  {
+   "loot_en": "Assault Rifles",
+   "loot_cn": "突击步枪",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 19,
+   "last_seen": "2026-09-03",
+   "last_seen_en": "31 days ago",
+   "priority": false,
+   "name": "Prototype Weapon Cache",
+   "name_cn": "原型武器缓存"
+  }
+ ],
+ "unknown_names": []
+}

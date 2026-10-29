@@ -1,0 +1,111 @@
+{
+ "date": "2026-10-16",
+ "fetched_at": "2026-10-29T10:21:49+08:00",
+ "updated": "16 Oct · 10:01",
+ "rotation_week": {
+  "start": "2026-10-13",
+  "end": "2026-10-19"
+ },
+ "missions": [
+  {
+   "loot_en": "Eclipse Protocol",
+   "loot_cn": "日蚀协议※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 11,
+   "last_seen": "2026-09-26",
+   "last_seen_en": "20 days ago",
+   "priority": false,
+   "mission": "Stranded Tanker",
+   "mission_cn": "搁浅油轮",
+   "faction": "Cleaners",
+   "faction_cn": "清洁工"
+  },
+  {
+   "loot_en": "Belstone Armory",
+   "loot_cn": "贝尔斯通军火",
+   "category": "brand",
+   "uncertain": false,
+   "appearances": 8,
+   "last_seen": "2026-09-13",
+   "last_seen_en": "33 days ago",
+   "priority": false,
+   "mission": "ViewPoint Museum",
+   "mission_cn": "观点博物馆",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  },
+  {
+   "loot_en": "Future Initiative",
+   "loot_cn": "未来行动※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 11,
+   "last_seen": "2026-09-28",
+   "last_seen_en": "18 days ago",
+   "priority": false,
+   "mission": "Jefferson Trade Center",
+   "mission_cn": "杰斐逊贸易中心",
+   "faction": "Hyenas",
+   "faction_cn": "鬣狗"
+  },
+  {
+   "loot_en": "Richter & Kaiser GmbH",
+   "loot_cn": null,
+   "category": "unknown",
+   "uncertain": false,
+   "appearances": 9,
+   "last_seen": "2026-09-02",
+   "last_seen_en": "44 days ago",
+   "priority": false,
+   "mission": "Bank Headquarters",
+   "mission_cn": "银行总部",
+   "faction": "Hyenas",
+   "faction_cn": "鬣狗"
+  },
+  {
+   "loot_en": "Royal Works",
+   "loot_cn": null,
+   "category": "unknown",
+   "uncertain": false,
+   "appearances": 12,
+   "last_seen": "2026-09-26",
+   "last_seen_en": "20 days ago",
+   "priority": false,
+   "mission": "DCD Headquarters",
+   "mission_cn": "DCD 总部",
+   "faction": "Outcasts",
+   "faction_cn": "流亡者"
+  }
+ ],
+ "caches": [
+  {
+   "loot_en": "Chest Pieces",
+   "loot_cn": "护甲",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 27,
+   "last_seen": "2026-10-14",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "name": "Prototype Gear Cache",
+   "name_cn": "原型装备缓存"
+  },
+  {
+   "loot_en": "Shotguns",
+   "loot_cn": "霰弹枪",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 29,
+   "last_seen": "2026-10-15",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "name": "Prototype Weapon Cache",
+   "name_cn": "原型武器缓存"
+  }
+ ],
+ "unknown_names": [
+  "Richter & Kaiser GmbH",
+  "Royal Works"
+ ]
+}

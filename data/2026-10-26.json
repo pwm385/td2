@@ -1,0 +1,108 @@
+{
+ "date": "2026-10-26",
+ "fetched_at": "2026-10-29T10:21:08+08:00",
+ "updated": "26 Oct · 09:01",
+ "rotation_week": {
+  "start": "2026-10-20",
+  "end": "2026-10-26"
+ },
+ "missions": [
+  {
+   "loot_en": "Ortiz Exuro",
+   "loot_cn": "奥提兹：燃烬",
+   "category": "set",
+   "uncertain": false,
+   "appearances": 8,
+   "last_seen": "2026-09-18",
+   "last_seen_en": "38 days ago",
+   "priority": false,
+   "mission": "Liberty Island",
+   "mission_cn": "自由岛",
+   "faction": "Black Tusk",
+   "faction_cn": "暗牙"
+  },
+  {
+   "loot_en": "5.11 Tactical",
+   "loot_cn": "5.11 战术",
+   "category": "brand",
+   "uncertain": false,
+   "appearances": 16,
+   "last_seen": "2026-10-22",
+   "last_seen_en": "4 days ago",
+   "priority": false,
+   "mission": "Potomac Event Center",
+   "mission_cn": "波托马克活动中心",
+   "faction": "Outcasts",
+   "faction_cn": "流亡者"
+  },
+  {
+   "loot_en": "Gila Guard",
+   "loot_cn": "毒蜥守卫队",
+   "category": "brand",
+   "uncertain": false,
+   "appearances": 13,
+   "last_seen": "2026-10-20",
+   "last_seen_en": "6 days ago",
+   "priority": false,
+   "mission": "American History Museum",
+   "mission_cn": "美国历史博物馆",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  },
+  {
+   "loot_en": "Concentrated Company",
+   "loot_cn": "精锐连※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 16,
+   "last_seen": "2026-10-17",
+   "last_seen_en": "9 days ago",
+   "priority": true,
+   "mission": "Jefferson Plaza",
+   "mission_cn": "杰斐逊广场",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  },
+  {
+   "loot_en": "Foundry Bulwark",
+   "loot_cn": "铸城壁垒※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 8,
+   "last_seen": "2026-10-20",
+   "last_seen_en": "6 days ago",
+   "priority": false,
+   "mission": "Air & Space Museum",
+   "mission_cn": "航空航天博物馆",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  }
+ ],
+ "caches": [
+  {
+   "loot_en": "Holsters",
+   "loot_cn": "枪套",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 23,
+   "last_seen": "2026-10-07",
+   "last_seen_en": "19 days ago",
+   "priority": false,
+   "name": "Prototype Gear Cache",
+   "name_cn": "原型装备缓存"
+  },
+  {
+   "loot_en": "LMGs",
+   "loot_cn": "轻机枪",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 20,
+   "last_seen": "2026-10-23",
+   "last_seen_en": "3 days ago",
+   "priority": false,
+   "name": "Prototype Weapon Cache",
+   "name_cn": "原型武器缓存"
+  }
+ ],
+ "unknown_names": []
+}

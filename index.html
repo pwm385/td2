@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>全境封锁2 · 定向掉落</title>
+<meta name="theme-color" content="#f6f7f9">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body data-page="today">
+<div class="wrap">
+  <header class="top">
+    <div class="grow">
+      <h1>全境封锁2 · 定向掉落</h1>
+      <div class="sub">
+        <span>北京 <b id="clock-bj">--</b></span>
+        <span>距 16:00 重置 <b id="countdown">--</b></span>
+        <span>数据更新 <b id="data-updated">--</b></span>
+      </div>
+    </div>
+    <button class="icon-btn" id="btn-theme" title="切换深色/浅色">☾</button>
+  </header>
+  <nav class="tabs">
+    <a href="./" class="on">今日</a>
+    <a href="history.html">历史</a>
+    <a href="item.html">查询</a>
+  </nav>
+  <div id="banners"></div>
+  <h2>今日任务 <span id="pill-date" style="color:var(--accent)"></span></h2>
+  <div id="today"><p class="empty">加载中…</p></div>
+  <h2>每日缓存</h2>
+  <div id="caches"><p class="empty">加载中…</p></div>
+  <footer>
+    数据来自 <a href="https://prototrack.gg/target-loot/target-loot.php?view=escalation" target="_blank" rel="noopener">prototrack.gg</a>（社区站，只读）<br>
+    恶化任务与两个缓存均为每日 16:00（北京）轮换 · 本站玩家自制，非官方
+  </footer>
+</div>
+<script src="assets/app.js"></script>
+</body>
+</html>

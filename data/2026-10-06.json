@@ -1,0 +1,108 @@
+{
+ "date": "2026-10-06",
+ "fetched_at": "2026-10-29T10:22:31+08:00",
+ "updated": "06 Oct · 10:03",
+ "rotation_week": {
+  "start": "2026-10-06",
+  "end": "2026-10-12"
+ },
+ "missions": [
+  {
+   "loot_en": "Imminence Armaments",
+   "loot_cn": "灾祸装备",
+   "category": "brand",
+   "uncertain": false,
+   "appearances": 13,
+   "last_seen": "2026-09-30",
+   "last_seen_en": "6 days ago",
+   "priority": false,
+   "mission": "Pathway Park",
+   "mission_cn": "路径公园",
+   "faction": "Cleaners",
+   "faction_cn": "清洁工"
+  },
+  {
+   "loot_en": "Heartbreaker",
+   "loot_cn": "碎心者※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 7,
+   "last_seen": "2026-09-29",
+   "last_seen_en": "7 days ago",
+   "priority": false,
+   "mission": "Camp White Oak",
+   "mission_cn": "白橡树营地",
+   "faction": "Black Tusk",
+   "faction_cn": "暗牙"
+  },
+  {
+   "loot_en": "SMG",
+   "loot_cn": "冲锋枪",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 12,
+   "last_seen": "2026-09-25",
+   "last_seen_en": "11 days ago",
+   "priority": false,
+   "mission": "Grand Washington Hotel",
+   "mission_cn": "华盛顿大酒店",
+   "faction": "Hyenas",
+   "faction_cn": "鬣狗"
+  },
+  {
+   "loot_en": "Holster",
+   "loot_cn": "枪套",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 12,
+   "last_seen": "2026-09-30",
+   "last_seen_en": "6 days ago",
+   "priority": false,
+   "mission": "Jefferson Trade Center",
+   "mission_cn": "杰斐逊贸易中心",
+   "faction": "Hyenas",
+   "faction_cn": "鬣狗"
+  },
+  {
+   "loot_en": "Providence Defense",
+   "loot_cn": "天命防御公司",
+   "category": "brand",
+   "uncertain": false,
+   "appearances": 14,
+   "last_seen": "2026-09-20",
+   "last_seen_en": "16 days ago",
+   "priority": false,
+   "mission": "Federal Emergency Bunker",
+   "mission_cn": "联邦紧急掩体",
+   "faction": "Outcasts",
+   "faction_cn": "流亡者"
+  }
+ ],
+ "caches": [
+  {
+   "loot_en": "Masks",
+   "loot_cn": "面具",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 29,
+   "last_seen": "2026-10-05",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "name": "Prototype Gear Cache",
+   "name_cn": "原型装备缓存"
+  },
+  {
+   "loot_en": "Rifles",
+   "loot_cn": "步枪",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 25,
+   "last_seen": "2026-10-05",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "name": "Prototype Weapon Cache",
+   "name_cn": "原型武器缓存"
+  }
+ ],
+ "unknown_names": []
+}

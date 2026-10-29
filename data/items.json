@@ -1,0 +1,1397 @@
+{
+ "items": [
+  {
+   "loot_en": "Masks",
+   "loot_cn": "面具",
+   "category": "slot",
+   "dates": [
+    {
+     "date": "2026-09-30",
+     "appearances": 26
+    },
+    {
+     "date": "2026-10-04",
+     "appearances": 27
+    },
+    {
+     "date": "2026-10-05",
+     "appearances": 28
+    },
+    {
+     "date": "2026-10-06",
+     "appearances": 29
+    },
+    {
+     "date": "2026-10-17",
+     "appearances": 30
+    },
+    {
+     "date": "2026-10-18",
+     "appearances": 31
+    },
+    {
+     "date": "2026-10-22",
+     "appearances": 32
+    },
+    {
+     "date": "2026-10-24",
+     "appearances": 33
+    },
+    {
+     "date": "2026-10-25",
+     "appearances": 34
+    },
+    {
+     "date": "2026-10-28",
+     "appearances": 35
+    },
+    {
+     "date": "2026-10-29",
+     "appearances": 36
+    }
+   ]
+  },
+  {
+   "loot_en": "Gloves",
+   "loot_cn": "手套",
+   "category": "slot",
+   "dates": [
+    {
+     "date": "2026-10-10",
+     "appearances": 24
+    },
+    {
+     "date": "2026-10-13",
+     "appearances": 25
+    },
+    {
+     "date": "2026-10-15",
+     "appearances": 12
+    },
+    {
+     "date": "2026-10-15",
+     "appearances": 26
+    },
+    {
+     "date": "2026-10-20",
+     "appearances": 27
+    },
+    {
+     "date": "2026-10-21",
+     "appearances": 13
+    },
+    {
+     "date": "2026-10-21",
+     "appearances": 28
+    },
+    {
+     "date": "2026-10-23",
+     "appearances": 29
+    },
+    {
+     "date": "2026-10-27",
+     "appearances": 30
+    }
+   ]
+  },
+  {
+   "loot_en": "Chest Pieces",
+   "loot_cn": "护甲",
+   "category": "slot",
+   "dates": [
+    {
+     "date": "2026-10-01",
+     "appearances": 21
+    },
+    {
+     "date": "2026-10-03",
+     "appearances": 22
+    },
+    {
+     "date": "2026-10-09",
+     "appearances": 23
+    },
+    {
+     "date": "2026-10-11",
+     "appearances": 24
+    },
+    {
+     "date": "2026-10-12",
+     "appearances": 25
+    },
+    {
+     "date": "2026-10-14",
+     "appearances": 26
+    },
+    {
+     "date": "2026-10-16",
+     "appearances": 27
+    },
+    {
+     "date": "2026-10-19",
+     "appearances": 28
+    }
+   ]
+  },
+  {
+   "loot_en": "Rifles",
+   "loot_cn": "步枪",
+   "category": "slot",
+   "dates": [
+    {
+     "date": "2026-10-01",
+     "appearances": 23
+    },
+    {
+     "date": "2026-10-05",
+     "appearances": 24
+    },
+    {
+     "date": "2026-10-06",
+     "appearances": 25
+    },
+    {
+     "date": "2026-10-08",
+     "appearances": 26
+    },
+    {
+     "date": "2026-10-13",
+     "appearances": 27
+    },
+    {
+     "date": "2026-10-17",
+     "appearances": 28
+    },
+    {
+     "date": "2026-10-21",
+     "appearances": 29
+    },
+    {
+     "date": "2026-10-27",
+     "appearances": 30
+    }
+   ]
+  },
+  {
+   "loot_en": "Shotguns",
+   "loot_cn": "霰弹枪",
+   "category": "slot",
+   "dates": [
+    {
+     "date": "2026-09-30",
+     "appearances": 25
+    },
+    {
+     "date": "2026-10-07",
+     "appearances": 26
+    },
+    {
+     "date": "2026-10-12",
+     "appearances": 27
+    },
+    {
+     "date": "2026-10-15",
+     "appearances": 28
+    },
+    {
+     "date": "2026-10-16",
+     "appearances": 29
+    },
+    {
+     "date": "2026-10-22",
+     "appearances": 30
+    },
+    {
+     "date": "2026-10-25",
+     "appearances": 31
+    }
+   ]
+  },
+  {
+   "loot_en": "Assault Rifles",
+   "loot_cn": "突击步枪",
+   "category": "slot",
+   "dates": [
+    {
+     "date": "2026-10-04",
+     "appearances": 19
+    },
+    {
+     "date": "2026-10-10",
+     "appearances": 20
+    },
+    {
+     "date": "2026-10-11",
+     "appearances": 21
+    },
+    {
+     "date": "2026-10-14",
+     "appearances": 22
+    },
+    {
+     "date": "2026-10-18",
+     "appearances": 23
+    },
+    {
+     "date": "2026-10-28",
+     "appearances": 24
+    },
+    {
+     "date": "2026-10-29",
+     "appearances": 25
+    }
+   ]
+  },
+  {
+   "loot_en": "Imminence Armaments",
+   "loot_cn": "灾祸装备",
+   "category": "brand",
+   "dates": [
+    {
+     "date": "2026-09-30",
+     "appearances": 12
+    },
+    {
+     "date": "2026-10-06",
+     "appearances": 13
+    },
+    {
+     "date": "2026-10-13",
+     "appearances": 14
+    },
+    {
+     "date": "2026-10-23",
+     "appearances": 15
+    },
+    {
+     "date": "2026-10-27",
+     "appearances": 16
+    }
+   ]
+  },
+  {
+   "loot_en": "Holster",
+   "loot_cn": "枪套",
+   "category": "slot",
+   "dates": [
+    {
+     "date": "2026-09-30",
+     "appearances": 11
+    },
+    {
+     "date": "2026-10-06",
+     "appearances": 12
+    },
+    {
+     "date": "2026-10-18",
+     "appearances": 13
+    },
+    {
+     "date": "2026-10-28",
+     "appearances": 14
+    },
+    {
+     "date": "2026-10-29",
+     "appearances": 15
+    }
+   ]
+  },
+  {
+   "loot_en": "Ortiz: Reficere",
+   "loot_cn": "奥提兹：重塑※",
+   "category": "set",
+   "dates": [
+    {
+     "date": "2026-10-07",
+     "appearances": 9
+    },
+    {
+     "date": "2026-10-22",
+     "appearances": 10
+    },
+    {
+     "date": "2026-10-25",
+     "appearances": 11
+    },
+    {
+     "date": "2026-10-28",
+     "appearances": 12
+    },
+    {
+     "date": "2026-10-29",
+     "appearances": 13
+    }
+   ]
+  },
+  {
+   "loot_en": "Gear Mods",
+   "loot_cn": "装备模块※",
+   "category": "slot",
+   "dates": [
+    {
+     "date": "2026-10-01",
+     "appearances": 17
+    },
+    {
+     "date": "2026-10-04",
+     "appearances": 18
+    },
+    {
+     "date": "2026-10-05",
+     "appearances": 19
+    },
+    {
+     "date": "2026-10-14",
+     "appearances": 20
+    }
+   ]
+  },
+  {
+   "loot_en": "Tipping Scales",
+   "loot_cn": "倾斜天平",
+   "category": "set",
+   "dates": [
+    {
+     "date": "2026-10-02",
+     "appearances": 13
+    },
+    {
+     "date": "2026-10-07",
+     "appearances": 14
+    },
+    {
+     "date": "2026-10-28",
+     "appearances": 15
+    },
+    {
+     "date": "2026-10-29",
+     "appearances": 16
+    }
+   ]
+  },
+  {
+   "loot_en": "Concentrated Company",
+   "loot_cn": "精锐连※",
+   "category": "set",
+   "dates": [
+    {
+     "date": "2026-10-02",
+     "appearances": 13
+    },
+    {
+     "date": "2026-10-11",
+     "appearances": 14
+    },
+    {
+     "date": "2026-10-17",
+     "appearances": 15
+    },
+    {
+     "date": "2026-10-26",
+     "appearances": 16
+    }
+   ]
+  },
+  {
+   "loot_en": "Tip of the Spear",
+   "loot_cn": "矛尖※",
+   "category": "set",
+   "dates": [
+    {
+     "date": "2026-10-03",
+     "appearances": 14
+    },
+    {
+     "date": "2026-10-10",
+     "appearances": 15
+    },
+    {
+     "date": "2026-10-11",
+     "appearances": 16
+    },
+    {
+     "date": "2026-10-24",
+     "appearances": 17
+    }
+   ]
+  },
+  {
+   "loot_en": "Gila Guard",
+   "loot_cn": "毒蜥守卫队",
+   "category": "brand",
+   "dates": [
+    {
+     "date": "2026-10-04",
+     "appearances": 11
+    },
+    {
+     "date": "2026-10-20",
+     "appearances": 12
+    },
+    {
+     "date": "2026-10-26",
+     "appearances": 13
+    },
+    {
+     "date": "2026-10-27",
+     "appearances": 14
+    }
+   ]
+  },
+  {
+   "loot_en": "SMG",
+   "loot_cn": "冲锋枪",
+   "category": "slot",
+   "dates": [
+    {
+     "date": "2026-10-06",
+     "appearances": 12
+    },
+    {
+     "date": "2026-10-08",
+     "appearances": 13
+    },
+    {
+     "date": "2026-10-15",
+     "appearances": 14
+    },
+    {
+     "date": "2026-10-19",
+     "appearances": 15
+    }
+   ]
+  },
+  {
+   "loot_en": "Petrov Defense Group",
+   "loot_cn": "彼得罗夫防御集团",
+   "category": "brand",
+   "dates": [
+    {
+     "date": "2026-10-09",
+     "appearances": 13
+    },
+    {
+     "date": "2026-10-10",
+     "appearances": 14
+    },
+    {
+     "date": "2026-10-19",
+     "appearances": 15
+    },
+    {
+     "date": "2026-10-20",
+     "appearances": 16
+    }
+   ]
+  },
+  {
+   "loot_en": "5.11 Tactical",
+   "loot_cn": "5.11 战术",
+   "category": "brand",
+   "dates": [
+    {
+     "date": "2026-10-12",
+     "appearances": 13
+    },
+    {
+     "date": "2026-10-20",
+     "appearances": 14
+    },
+    {
+     "date": "2026-10-22",
+     "appearances": 15
+    },
+    {
+     "date": "2026-10-26",
+     "appearances": 16
+    }
+   ]
+  },
+  {
+   "loot_en": "Body Armor",
+   "loot_cn": "护甲",
+   "category": "slot",
+   "dates": [
+    {
+     "date": "2026-10-12",
+     "appearances": 15
+    },
+    {
+     "date": "2026-10-13",
+     "appearances": 16
+    },
+    {
+     "date": "2026-10-17",
+     "appearances": 17
+    },
+    {
+     "date": "2026-10-24",
+     "appearances": 18
+    }
+   ]
+  },
+  {
+   "loot_en": "Electrique",
+   "loot_cn": "电气※",
+   "category": "set",
+   "dates": [
+    {
+     "date": "2026-09-30",
+     "appearances": 15
+    },
+    {
+     "date": "2026-10-08",
+     "appearances": 16
+    },
+    {
+     "date": "2026-10-24",
+     "appearances": 17
+    }
+   ]
+  },
+  {
+   "loot_en": "Unit Alloys",
+   "loot_cn": "联合合金※",
+   "category": "brand",
+   "dates": [
+    {
+     "date": "2026-10-02",
+     "appearances": 14
+    },
+    {
+     "date": "2026-10-28",
+     "appearances": 15
+    },
+    {
+     "date": "2026-10-29",
+     "appearances": 16
+    }
+   ]
+  },
+  {
+   "loot_en": "Habsburg Guard",
+   "loot_cn": "哈布斯堡禁卫",
+   "category": "brand",
+   "dates": [
+    {
+     "date": "2026-10-03",
+     "appearances": 13
+    },
+    {
+     "date": "2026-10-22",
+     "appearances": 14
+    },
+    {
+     "date": "2026-10-24",
+     "appearances": 15
+    }
+   ]
+  },
+  {
+   "loot_en": "MMRs",
+   "loot_cn": "精确射手步枪",
+   "category": "slot",
+   "dates": [
+    {
+     "date": "2026-10-03",
+     "appearances": 20
+    },
+    {
+     "date": "2026-10-09",
+     "appearances": 21
+    },
+    {
+     "date": "2026-10-24",
+     "appearances": 22
+    }
+   ]
+  },
+  {
+   "loot_en": "Negotiators Dilemma",
+   "loot_cn": "谈判者困境※",
+   "category": "set",
+   "dates": [
+    {
+     "date": "2026-10-05",
+     "appearances": 4
+    },
+    {
+     "date": "2026-10-15",
+     "appearances": 5
+    },
+    {
+     "date": "2026-10-25",
+     "appearances": 6
+    }
+   ]
+  },
+  {
+   "loot_en": "Heartbreaker",
+   "loot_cn": "碎心者※",
+   "category": "set",
+   "dates": [
+    {
+     "date": "2026-10-06",
+     "appearances": 7
+    },
+    {
+     "date": "2026-10-09",
+     "appearances": 8
+    },
+    {
+     "date": "2026-10-20",
+     "appearances": 9
+    }
+   ]
+  },
+  {
+   "loot_en": "Providence Defense",
+   "loot_cn": "天命防御公司",
+   "category": "brand",
+   "dates": [
+    {
+     "date": "2026-10-06",
+     "appearances": 14
+    },
+    {
+     "date": "2026-10-08",
+     "appearances": 15
+    },
+    {
+     "date": "2026-10-14",
+     "appearances": 16
+    }
+   ]
+  },
+  {
+   "loot_en": "True Patriot",
+   "loot_cn": "真爱国者※",
+   "category": "set",
+   "dates": [
+    {
+     "date": "2026-10-07",
+     "appearances": 12
+    },
+    {
+     "date": "2026-10-17",
+     "appearances": 13
+    },
+    {
+     "date": "2026-10-21",
+     "appearances": 14
+    }
+   ]
+  },
+  {
+   "loot_en": "Overlord Armaments",
+   "loot_cn": "霸主军备公司",
+   "category": "brand",
+   "dates": [
+    {
+     "date": "2026-10-07",
+     "appearances": 8
+    },
+    {
+     "date": "2026-10-12",
+     "appearances": 9
+    },
+    {
+     "date": "2026-10-27",
+     "appearances": 10
+    }
+   ]
+  },
+  {
+   "loot_en": "Foundry Bulwark",
+   "loot_cn": "铸城壁垒※",
+   "category": "set",
+   "dates": [
+    {
+     "date": "2026-10-07",
+     "appearances": 6
+    },
+    {
+     "date": "2026-10-20",
+     "appearances": 7
+    },
+    {
+     "date": "2026-10-26",
+     "appearances": 8
+    }
+   ]
+  },
+  {
+   "loot_en": "Grupo Sombra S.A.",
+   "loot_cn": "影子军团股份有限公司",
+   "category": "brand",
+   "dates": [
+    {
+     "date": "2026-10-09",
+     "appearances": 11
+    },
+    {
+     "date": "2026-10-15",
+     "appearances": 12
+    },
+    {
+     "date": "2026-10-27",
+     "appearances": 13
+    }
+   ]
+  },
+  {
+   "loot_en": "Hard Wired",
+   "loot_cn": "硬连线※",
+   "category": "set",
+   "dates": [
+    {
+     "date": "2026-10-11",
+     "appearances": 15
+    },
+    {
+     "date": "2026-10-13",
+     "appearances": 16
+    },
+    {
+     "date": "2026-10-24",
+     "appearances": 17
+    }
+   ]
+  },
+  {
+   "loot_en": "Breaking Point",
+   "loot_cn": "极限点※",
+   "category": "set",
+   "dates": [
+    {
+     "date": "2026-10-14",
+     "appearances": 12
+    },
+    {
+     "date": "2026-10-19",
+     "appearances": 13
+    },
+    {
+     "date": "2026-10-22",
+     "appearances": 14
+    }
+   ]
+  },
+  {
+   "loot_en": "Future Initiative",
+   "loot_cn": "未来行动※",
+   "category": "set",
+   "dates": [
+    {
+     "date": "2026-10-16",
+     "appearances": 11
+    },
+    {
+     "date": "2026-10-21",
+     "appearances": 12
+    },
+    {
+     "date": "2026-10-23",
+     "appearances": 13
+    }
+   ]
+  },
+  {
+   "loot_en": "Kneepad",
+   "loot_cn": "护膝",
+   "category": "slot",
+   "dates": [
+    {
+     "date": "2026-10-17",
+     "appearances": 7
+    },
+    {
+     "date": "2026-10-18",
+     "appearances": 8
+    },
+    {
+     "date": "2026-10-25",
+     "appearances": 9
+    }
+   ]
+  },
+  {
+   "loot_en": "LMGs",
+   "loot_cn": "轻机枪",
+   "category": "slot",
+   "dates": [
+    {
+     "date": "2026-10-19",
+     "appearances": 18
+    },
+    {
+     "date": "2026-10-23",
+     "appearances": 19
+    },
+    {
+     "date": "2026-10-26",
+     "appearances": 20
+    }
+   ]
+  },
+  {
+   "loot_en": "Hana-U Corporation",
+   "loot_cn": "哈瑙公司",
+   "category": "brand",
+   "dates": [
+    {
+     "date": "2026-09-30",
+     "appearances": 13
+    },
+    {
+     "date": "2026-10-09",
+     "appearances": 14
+    }
+   ]
+  },
+  {
+   "loot_en": "Rigger",
+   "loot_cn": "索具工※",
+   "category": "set",
+   "dates": [
+    {
+     "date": "2026-10-01",
+     "appearances": 8
+    },
+    {
+     "date": "2026-10-21",
+     "appearances": 9
+    }
+   ]
+  },
+  {
+   "loot_en": "Legatus S.p.A.",
+   "loot_cn": "雷加图斯※",
+   "category": "brand",
+   "dates": [
+    {
+     "date": "2026-10-01",
+     "appearances": 15
+    },
+    {
+     "date": "2026-10-08",
+     "appearances": 16
+    }
+   ]
+  },
+  {
+   "loot_en": "Skill Mods",
+   "loot_cn": "技能模块※",
+   "category": "slot",
+   "dates": [
+    {
+     "date": "2026-10-02",
+     "appearances": 12
+    },
+    {
+     "date": "2026-10-14",
+     "appearances": 13
+    }
+   ]
+  },
+  {
+   "loot_en": "Core Strength",
+   "loot_cn": "核心力量※",
+   "category": "set",
+   "dates": [
+    {
+     "date": "2026-10-02",
+     "appearances": 13
+    },
+    {
+     "date": "2026-10-03",
+     "appearances": 14
+    }
+   ]
+  },
+  {
+   "loot_en": "SMGs",
+   "loot_cn": "冲锋枪",
+   "category": "slot",
+   "dates": [
+    {
+     "date": "2026-10-02",
+     "appearances": 22
+    },
+    {
+     "date": "2026-10-20",
+     "appearances": 23
+    }
+   ]
+  },
+  {
+   "loot_en": "Assault Rifle",
+   "loot_cn": "突击步枪",
+   "category": "slot",
+   "dates": [
+    {
+     "date": "2026-10-04",
+     "appearances": 7
+    },
+    {
+     "date": "2026-10-25",
+     "appearances": 8
+    }
+   ]
+  },
+  {
+   "loot_en": "Mask",
+   "loot_cn": "面具",
+   "category": "slot",
+   "dates": [
+    {
+     "date": "2026-10-05",
+     "appearances": 10
+    },
+    {
+     "date": "2026-10-18",
+     "appearances": 11
+    }
+   ]
+  },
+  {
+   "loot_en": "Badger Tuff",
+   "loot_cn": "贝哲陶夫",
+   "category": "brand",
+   "dates": [
+    {
+     "date": "2026-10-05",
+     "appearances": 12
+    },
+    {
+     "date": "2026-10-23",
+     "appearances": 13
+    }
+   ]
+  },
+  {
+   "loot_en": "Holsters",
+   "loot_cn": "枪套",
+   "category": "slot",
+   "dates": [
+    {
+     "date": "2026-10-07",
+     "appearances": 22
+    },
+    {
+     "date": "2026-10-26",
+     "appearances": 23
+    }
+   ]
+  },
+  {
+   "loot_en": "Walker, Harris & Co",
+   "loot_cn": "沃克与哈里斯企业",
+   "category": "brand",
+   "dates": [
+    {
+     "date": "2026-10-09",
+     "appearances": 14
+    },
+    {
+     "date": "2026-10-13",
+     "appearances": 15
+    }
+   ]
+  },
+  {
+   "loot_en": "Edelweiss GPz",
+   "loot_cn": null,
+   "category": "unknown",
+   "dates": [
+    {
+     "date": "2026-10-10",
+     "appearances": 7
+    },
+    {
+     "date": "2026-10-12",
+     "appearances": 8
+    }
+   ]
+  },
+  {
+   "loot_en": "Airaldi Holdings",
+   "loot_cn": "阿尔拉蒂企业",
+   "category": "brand",
+   "dates": [
+    {
+     "date": "2026-10-11",
+     "appearances": 13
+    },
+    {
+     "date": "2026-10-25",
+     "appearances": 14
+    }
+   ]
+  },
+  {
+   "loot_en": "Shiny Monkey Gear",
+   "loot_cn": null,
+   "category": "unknown",
+   "dates": [
+    {
+     "date": "2026-10-15",
+     "appearances": 9
+    },
+    {
+     "date": "2026-10-17",
+     "appearances": 10
+    }
+   ]
+  },
+  {
+   "loot_en": "Royal Works",
+   "loot_cn": null,
+   "category": "unknown",
+   "dates": [
+    {
+     "date": "2026-10-16",
+     "appearances": 12
+    },
+    {
+     "date": "2026-10-22",
+     "appearances": 13
+    }
+   ]
+  },
+  {
+   "loot_en": "Alps Summit Armaments",
+   "loot_cn": "阿尔卑斯山峰军事",
+   "category": "brand",
+   "dates": [
+    {
+     "date": "2026-10-28",
+     "appearances": 9
+    },
+    {
+     "date": "2026-10-29",
+     "appearances": 10
+    }
+   ]
+  },
+  {
+   "loot_en": "Measured Assembly",
+   "loot_cn": "度量装配※",
+   "category": "set",
+   "dates": [
+    {
+     "date": "2026-09-30",
+     "appearances": 12
+    }
+   ]
+  },
+  {
+   "loot_en": "Brazos de Arcabuz",
+   "loot_cn": "阿卡布兹之臂※",
+   "category": "brand",
+   "dates": [
+    {
+     "date": "2026-10-01",
+     "appearances": 8
+    }
+   ]
+  },
+  {
+   "loot_en": "Shotgun",
+   "loot_cn": "霰弹枪",
+   "category": "slot",
+   "dates": [
+    {
+     "date": "2026-10-01",
+     "appearances": 16
+    }
+   ]
+  },
+  {
+   "loot_en": "Kneepads",
+   "loot_cn": "护膝",
+   "category": "slot",
+   "dates": [
+    {
+     "date": "2026-10-02",
+     "appearances": 30
+    }
+   ]
+  },
+  {
+   "loot_en": "Umbra Initiative",
+   "loot_cn": "暗影行动※",
+   "category": "set",
+   "dates": [
+    {
+     "date": "2026-10-03",
+     "appearances": 10
+    }
+   ]
+  },
+  {
+   "loot_en": "Urban Lookout",
+   "loot_cn": "城市瞭望※",
+   "category": "set",
+   "dates": [
+    {
+     "date": "2026-10-03",
+     "appearances": 11
+    }
+   ]
+  },
+  {
+   "loot_en": "Hunters Fury",
+   "loot_cn": "猎人之怒※",
+   "category": "set",
+   "dates": [
+    {
+     "date": "2026-10-04",
+     "appearances": 6
+    }
+   ]
+  },
+  {
+   "loot_en": "Backpack",
+   "loot_cn": "背包",
+   "category": "slot",
+   "dates": [
+    {
+     "date": "2026-10-04",
+     "appearances": 9
+    }
+   ]
+  },
+  {
+   "loot_en": "Hotshot",
+   "loot_cn": "神枪手※",
+   "category": "set",
+   "dates": [
+    {
+     "date": "2026-10-05",
+     "appearances": 7
+    }
+   ]
+  },
+  {
+   "loot_en": "Ongoing Directive",
+   "loot_cn": "持续指令※",
+   "category": "set",
+   "dates": [
+    {
+     "date": "2026-10-08",
+     "appearances": 13
+    }
+   ]
+  },
+  {
+   "loot_en": "Backpacks",
+   "loot_cn": "背包",
+   "category": "slot",
+   "dates": [
+    {
+     "date": "2026-10-08",
+     "appearances": 24
+    }
+   ]
+  },
+  {
+   "loot_en": "China Light Industries",
+   "loot_cn": "中国光能工业公司",
+   "category": "brand",
+   "dates": [
+    {
+     "date": "2026-10-10",
+     "appearances": 6
+    }
+   ]
+  },
+  {
+   "loot_en": "Refactor",
+   "loot_cn": "重构※",
+   "category": "set",
+   "dates": [
+    {
+     "date": "2026-10-10",
+     "appearances": 12
+    }
+   ]
+  },
+  {
+   "loot_en": "Pistol",
+   "loot_cn": "手枪",
+   "category": "slot",
+   "dates": [
+    {
+     "date": "2026-10-11",
+     "appearances": 13
+    }
+   ]
+  },
+  {
+   "loot_en": "Rifle",
+   "loot_cn": "步枪",
+   "category": "slot",
+   "dates": [
+    {
+     "date": "2026-10-12",
+     "appearances": 10
+    }
+   ]
+  },
+  {
+   "loot_en": "Strikers Battlegear",
+   "loot_cn": "突袭者战甲※",
+   "category": "set",
+   "dates": [
+    {
+     "date": "2026-10-13",
+     "appearances": 6
+    }
+   ]
+  },
+  {
+   "loot_en": "LMG",
+   "loot_cn": "轻机枪",
+   "category": "slot",
+   "dates": [
+    {
+     "date": "2026-10-14",
+     "appearances": 16
+    }
+   ]
+  },
+  {
+   "loot_en": "Eclipse Protocol",
+   "loot_cn": "日蚀协议※",
+   "category": "set",
+   "dates": [
+    {
+     "date": "2026-10-16",
+     "appearances": 11
+    }
+   ]
+  },
+  {
+   "loot_en": "Belstone Armory",
+   "loot_cn": "贝尔斯通军火",
+   "category": "brand",
+   "dates": [
+    {
+     "date": "2026-10-16",
+     "appearances": 8
+    }
+   ]
+  },
+  {
+   "loot_en": "Richter & Kaiser GmbH",
+   "loot_cn": null,
+   "category": "unknown",
+   "dates": [
+    {
+     "date": "2026-10-16",
+     "appearances": 9
+    }
+   ]
+  },
+  {
+   "loot_en": "Cavalier",
+   "loot_cn": "骑士※",
+   "category": "set",
+   "dates": [
+    {
+     "date": "2026-10-18",
+     "appearances": 11
+    }
+   ]
+  },
+  {
+   "loot_en": "Sokolov Concern",
+   "loot_cn": "索寇罗夫企业",
+   "category": "brand",
+   "dates": [
+    {
+     "date": "2026-10-18",
+     "appearances": 16
+    }
+   ]
+  },
+  {
+   "loot_en": "Palisade Steelworks",
+   "loot_cn": "栅栏钢铁厂※",
+   "category": "brand",
+   "dates": [
+    {
+     "date": "2026-10-19",
+     "appearances": 9
+    }
+   ]
+  },
+  {
+   "loot_en": "Virtuoso",
+   "loot_cn": "名家※",
+   "category": "set",
+   "dates": [
+    {
+     "date": "2026-10-19",
+     "appearances": 11
+    }
+   ]
+  },
+  {
+   "loot_en": "Aces & Eights",
+   "loot_cn": "王牌与八点※",
+   "category": "set",
+   "dates": [
+    {
+     "date": "2026-10-21",
+     "appearances": 15
+    }
+   ]
+  },
+  {
+   "loot_en": "Aegis",
+   "loot_cn": "宙斯盾※",
+   "category": "set",
+   "dates": [
+    {
+     "date": "2026-10-23",
+     "appearances": 10
+    }
+   ]
+  },
+  {
+   "loot_en": "Ceska Vyroba S.R.O.",
+   "loot_cn": "捷克出产自律组织",
+   "category": "brand",
+   "dates": [
+    {
+     "date": "2026-10-23",
+     "appearances": 13
+    }
+   ]
+  },
+  {
+   "loot_en": "Ortiz Exuro",
+   "loot_cn": "奥提兹：燃烬",
+   "category": "set",
+   "dates": [
+    {
+     "date": "2026-10-26",
+     "appearances": 8
+    }
+   ]
+  },
+  {
+   "loot_en": "Zwiadowka Sp. z o.o",
+   "loot_cn": "侦察兵",
+   "category": "brand",
+   "dates": [
+    {
+     "date": "2026-10-27",
+     "appearances": 13
+    }
+   ]
+  }
+ ]
+}

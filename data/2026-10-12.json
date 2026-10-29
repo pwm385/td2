@@ -1,0 +1,110 @@
+{
+ "date": "2026-10-12",
+ "fetched_at": "2026-10-29T10:22:05+08:00",
+ "updated": "12 Oct · 10:01",
+ "rotation_week": {
+  "start": "2026-10-06",
+  "end": "2026-10-12"
+ },
+ "missions": [
+  {
+   "loot_en": "5.11 Tactical",
+   "loot_cn": "5.11 战术",
+   "category": "brand",
+   "uncertain": false,
+   "appearances": 13,
+   "last_seen": "2026-09-16",
+   "last_seen_en": "26 days ago",
+   "priority": false,
+   "mission": "Pathway Park",
+   "mission_cn": "路径公园",
+   "faction": "Cleaners",
+   "faction_cn": "清洁工"
+  },
+  {
+   "loot_en": "Rifle",
+   "loot_cn": "步枪",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 10,
+   "last_seen": "2026-09-05",
+   "last_seen_en": "37 days ago",
+   "priority": false,
+   "mission": "Camp White Oak",
+   "mission_cn": "白橡树营地",
+   "faction": "Black Tusk",
+   "faction_cn": "暗牙"
+  },
+  {
+   "loot_en": "Body Armor",
+   "loot_cn": "护甲",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 15,
+   "last_seen": "2026-09-27",
+   "last_seen_en": "15 days ago",
+   "priority": false,
+   "mission": "Grand Washington Hotel",
+   "mission_cn": "华盛顿大酒店",
+   "faction": "Hyenas",
+   "faction_cn": "鬣狗"
+  },
+  {
+   "loot_en": "Overlord Armaments",
+   "loot_cn": "霸主军备公司",
+   "category": "brand",
+   "uncertain": false,
+   "appearances": 9,
+   "last_seen": "2026-10-07",
+   "last_seen_en": "5 days ago",
+   "priority": false,
+   "mission": "Jefferson Trade Center",
+   "mission_cn": "杰斐逊贸易中心",
+   "faction": "Hyenas",
+   "faction_cn": "鬣狗"
+  },
+  {
+   "loot_en": "Edelweiss GPz",
+   "loot_cn": null,
+   "category": "unknown",
+   "uncertain": false,
+   "appearances": 8,
+   "last_seen": "2026-10-10",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "mission": "Federal Emergency Bunker",
+   "mission_cn": "联邦紧急掩体",
+   "faction": "Outcasts",
+   "faction_cn": "流亡者"
+  }
+ ],
+ "caches": [
+  {
+   "loot_en": "Chest Pieces",
+   "loot_cn": "护甲",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 25,
+   "last_seen": "2026-10-11",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "name": "Prototype Gear Cache",
+   "name_cn": "原型装备缓存"
+  },
+  {
+   "loot_en": "Shotguns",
+   "loot_cn": "霰弹枪",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 27,
+   "last_seen": "2026-10-07",
+   "last_seen_en": "5 days ago",
+   "priority": false,
+   "name": "Prototype Weapon Cache",
+   "name_cn": "原型武器缓存"
+  }
+ ],
+ "unknown_names": [
+  "Edelweiss GPz"
+ ]
+}

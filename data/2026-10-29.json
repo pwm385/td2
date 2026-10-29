@@ -1,0 +1,108 @@
+{
+ "date": "2026-10-29",
+ "fetched_at": "2026-10-29T10:18:37+08:00",
+ "updated": "28 Oct · 09:01",
+ "rotation_week": {
+  "start": "2026-10-27",
+  "end": "2026-11-02"
+ },
+ "missions": [
+  {
+   "loot_en": "Ortiz: Reficere",
+   "loot_cn": "奥提兹：重塑※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 13,
+   "last_seen": "2026-10-28",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "mission": "Coney Island Ballpark",
+   "mission_cn": "康尼岛球场",
+   "faction": "Black Tusk",
+   "faction_cn": "暗牙"
+  },
+  {
+   "loot_en": "Holster",
+   "loot_cn": "枪套",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 15,
+   "last_seen": "2026-10-28",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "mission": "Coney Island Amusement Park",
+   "mission_cn": "康尼岛游乐园",
+   "faction": "Black Tusk",
+   "faction_cn": "暗牙"
+  },
+  {
+   "loot_en": "Unit Alloys",
+   "loot_cn": "联合合金※",
+   "category": "brand",
+   "uncertain": true,
+   "appearances": 16,
+   "last_seen": "2026-10-28",
+   "last_seen_en": "1 day ago",
+   "priority": true,
+   "mission": "ViewPoint Museum",
+   "mission_cn": "观点博物馆",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  },
+  {
+   "loot_en": "Alps Summit Armaments",
+   "loot_cn": "阿尔卑斯山峰军事",
+   "category": "brand",
+   "uncertain": false,
+   "appearances": 10,
+   "last_seen": "2026-10-28",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "mission": "Capitol Building",
+   "mission_cn": "国会大厦",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  },
+  {
+   "loot_en": "Tipping Scales",
+   "loot_cn": "倾斜天平",
+   "category": "set",
+   "uncertain": false,
+   "appearances": 16,
+   "last_seen": "2026-10-28",
+   "last_seen_en": "1 day ago",
+   "priority": true,
+   "mission": "Potomac Event Center",
+   "mission_cn": "波托马克活动中心",
+   "faction": "Outcasts",
+   "faction_cn": "流亡者"
+  }
+ ],
+ "caches": [
+  {
+   "loot_en": "Masks",
+   "loot_cn": "面具",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 36,
+   "last_seen": "2026-10-28",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "name": "Prototype Gear Cache",
+   "name_cn": "原型装备缓存"
+  },
+  {
+   "loot_en": "Assault Rifles",
+   "loot_cn": "突击步枪",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 25,
+   "last_seen": "2026-10-28",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "name": "Prototype Weapon Cache",
+   "name_cn": "原型武器缓存"
+  }
+ ],
+ "unknown_names": []
+}

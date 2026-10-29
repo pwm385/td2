@@ -1,0 +1,108 @@
+{
+ "date": "2026-10-03",
+ "fetched_at": "2026-10-29T10:22:42+08:00",
+ "updated": "03 Oct · 10:01",
+ "rotation_week": {
+  "start": "2026-09-29",
+  "end": "2026-10-05"
+ },
+ "missions": [
+  {
+   "loot_en": "Core Strength",
+   "loot_cn": "核心力量※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 14,
+   "last_seen": "2026-10-02",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "mission": "The Art Museum",
+   "mission_cn": "艺术博物馆",
+   "faction": "Rikers",
+   "faction_cn": "赖克斯帮"
+  },
+  {
+   "loot_en": "Umbra Initiative",
+   "loot_cn": "暗影行动※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 10,
+   "last_seen": "2026-08-08",
+   "last_seen_en": "56 days ago",
+   "priority": false,
+   "mission": "Capitol Building",
+   "mission_cn": "国会大厦",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  },
+  {
+   "loot_en": "Habsburg Guard",
+   "loot_cn": "哈布斯堡禁卫",
+   "category": "brand",
+   "uncertain": false,
+   "appearances": 13,
+   "last_seen": "2026-09-23",
+   "last_seen_en": "10 days ago",
+   "priority": false,
+   "mission": "Jefferson Plaza",
+   "mission_cn": "杰斐逊广场",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  },
+  {
+   "loot_en": "Urban Lookout",
+   "loot_cn": "城市瞭望※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 11,
+   "last_seen": "2026-09-21",
+   "last_seen_en": "12 days ago",
+   "priority": false,
+   "mission": "Lincoln Memorial",
+   "mission_cn": "林肯纪念堂",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  },
+  {
+   "loot_en": "Tip of the Spear",
+   "loot_cn": "矛尖※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 14,
+   "last_seen": "2026-09-27",
+   "last_seen_en": "6 days ago",
+   "priority": false,
+   "mission": "Federal Emergency Bunker",
+   "mission_cn": "联邦紧急掩体",
+   "faction": "Outcasts",
+   "faction_cn": "流亡者"
+  }
+ ],
+ "caches": [
+  {
+   "loot_en": "Chest Pieces",
+   "loot_cn": "护甲",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 22,
+   "last_seen": "2026-10-01",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "name": "Prototype Gear Cache",
+   "name_cn": "原型装备缓存"
+  },
+  {
+   "loot_en": "MMRs",
+   "loot_cn": "精确射手步枪",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 20,
+   "last_seen": "2026-09-26",
+   "last_seen_en": "7 days ago",
+   "priority": false,
+   "name": "Prototype Weapon Cache",
+   "name_cn": "原型武器缓存"
+  }
+ ],
+ "unknown_names": []
+}

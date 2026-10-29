@@ -1,0 +1,108 @@
+{
+ "date": "2026-10-18",
+ "fetched_at": "2026-10-29T10:21:41+08:00",
+ "updated": "18 Oct · 10:01",
+ "rotation_week": {
+  "start": "2026-10-13",
+  "end": "2026-10-19"
+ },
+ "missions": [
+  {
+   "loot_en": "Kneepad",
+   "loot_cn": "护膝",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 8,
+   "last_seen": "2026-10-17",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "mission": "Stranded Tanker",
+   "mission_cn": "搁浅油轮",
+   "faction": "Cleaners",
+   "faction_cn": "清洁工"
+  },
+  {
+   "loot_en": "Cavalier",
+   "loot_cn": "骑士※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 11,
+   "last_seen": "2026-09-26",
+   "last_seen_en": "22 days ago",
+   "priority": false,
+   "mission": "ViewPoint Museum",
+   "mission_cn": "观点博物馆",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  },
+  {
+   "loot_en": "Mask",
+   "loot_cn": "面具",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 11,
+   "last_seen": "2026-10-05",
+   "last_seen_en": "13 days ago",
+   "priority": false,
+   "mission": "Jefferson Trade Center",
+   "mission_cn": "杰斐逊贸易中心",
+   "faction": "Hyenas",
+   "faction_cn": "鬣狗"
+  },
+  {
+   "loot_en": "Sokolov Concern",
+   "loot_cn": "索寇罗夫企业",
+   "category": "brand",
+   "uncertain": false,
+   "appearances": 16,
+   "last_seen": "2026-09-25",
+   "last_seen_en": "23 days ago",
+   "priority": false,
+   "mission": "Bank Headquarters",
+   "mission_cn": "银行总部",
+   "faction": "Hyenas",
+   "faction_cn": "鬣狗"
+  },
+  {
+   "loot_en": "Holster",
+   "loot_cn": "枪套",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 13,
+   "last_seen": "2026-10-06",
+   "last_seen_en": "12 days ago",
+   "priority": false,
+   "mission": "DCD Headquarters",
+   "mission_cn": "DCD 总部",
+   "faction": "Outcasts",
+   "faction_cn": "流亡者"
+  }
+ ],
+ "caches": [
+  {
+   "loot_en": "Masks",
+   "loot_cn": "面具",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 31,
+   "last_seen": "2026-10-17",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "name": "Prototype Gear Cache",
+   "name_cn": "原型装备缓存"
+  },
+  {
+   "loot_en": "Assault Rifles",
+   "loot_cn": "突击步枪",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 23,
+   "last_seen": "2026-10-14",
+   "last_seen_en": "4 days ago",
+   "priority": false,
+   "name": "Prototype Weapon Cache",
+   "name_cn": "原型武器缓存"
+  }
+ ],
+ "unknown_names": []
+}
