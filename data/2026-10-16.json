@@ -51,9 +51,9 @@
   },
   {
    "loot_en": "Richter & Kaiser GmbH",
-   "loot_cn": null,
-   "category": "unknown",
-   "uncertain": false,
+   "loot_cn": "里希特与凯撒※",
+   "category": "brand",
+   "uncertain": true,
    "appearances": 9,
    "last_seen": "2026-09-02",
    "last_seen_en": "44 days ago",
@@ -65,9 +65,9 @@
   },
   {
    "loot_en": "Royal Works",
-   "loot_cn": null,
-   "category": "unknown",
-   "uncertain": false,
+   "loot_cn": "皇家工坊※",
+   "category": "brand",
+   "uncertain": true,
    "appearances": 12,
    "last_seen": "2026-09-26",
    "last_seen_en": "20 days ago",
@@ -104,8 +104,5 @@
    "name_cn": "原型武器缓存"
   }
  ],
- "unknown_names": [
-  "Richter & Kaiser GmbH",
-  "Royal Works"
- ]
+ "unknown_names": []
 }

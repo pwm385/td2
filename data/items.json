@@ -1001,8 +1001,8 @@
   },
   {
    "loot_en": "Edelweiss GPz",
-   "loot_cn": null,
-   "category": "unknown",
+   "loot_cn": "雪绒花 GPz※",
+   "category": "brand",
    "dates": [
     {
      "date": "2026-10-10",
@@ -1031,8 +1031,8 @@
   },
   {
    "loot_en": "Shiny Monkey Gear",
-   "loot_cn": null,
-   "category": "unknown",
+   "loot_cn": "亮猴装备※",
+   "category": "brand",
    "dates": [
     {
      "date": "2026-10-15",
@@ -1046,8 +1046,8 @@
   },
   {
    "loot_en": "Royal Works",
-   "loot_cn": null,
-   "category": "unknown",
+   "loot_cn": "皇家工坊※",
+   "category": "brand",
    "dates": [
     {
      "date": "2026-10-16",
@@ -1285,8 +1285,8 @@
   },
   {
    "loot_en": "Richter & Kaiser GmbH",
-   "loot_cn": null,
-   "category": "unknown",
+   "loot_cn": "里希特与凯撒※",
+   "category": "brand",
    "dates": [
     {
      "date": "2026-10-16",

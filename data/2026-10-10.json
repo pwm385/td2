@@ -65,9 +65,9 @@
   },
   {
    "loot_en": "Edelweiss GPz",
-   "loot_cn": null,
-   "category": "unknown",
-   "uncertain": false,
+   "loot_cn": "雪绒花 GPz※",
+   "category": "brand",
+   "uncertain": true,
    "appearances": 7,
    "last_seen": "2026-09-02",
    "last_seen_en": "38 days ago",
@@ -104,7 +104,5 @@
    "name_cn": "原型武器缓存"
   }
  ],
- "unknown_names": [
-  "Edelweiss GPz"
- ]
+ "unknown_names": []
 }
