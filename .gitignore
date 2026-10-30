@@ -3,3 +3,6 @@ __pycache__/
 .DS_Store
 .venv/
 一键推送.cmd
+.update.lock
+.update.log
+.last_push

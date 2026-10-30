@@ -252,7 +252,8 @@ def main() -> int:
     resolver = Resolver()
     targets: list[str | None]
     if args.days:
-        today = beijing_now().date()
+        # 从"当前这一轮"往回数，而不是从日历今天（16:00 后日历今天已经是上一轮了）
+        today = datetime.fromisoformat(expected_day()).date()
         targets = [(today - timedelta(days=i)).isoformat() for i in range(args.days)]
     else:
         targets = [args.date or expected_day()]
