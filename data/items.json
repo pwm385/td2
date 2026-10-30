@@ -93,6 +93,10 @@
     {
      "date": "2026-10-27",
      "appearances": 30
+    },
+    {
+     "date": "2026-10-31",
+     "appearances": 32
     }
    ]
   },
@@ -305,6 +309,34 @@
    ]
   },
   {
+   "loot_en": "Tip of the Spear",
+   "loot_cn": "矛尖※",
+   "category": "set",
+   "icon": "assets/icons/gearsets/tipofthespear.png",
+   "dates": [
+    {
+     "date": "2026-10-03",
+     "appearances": 14
+    },
+    {
+     "date": "2026-10-10",
+     "appearances": 15
+    },
+    {
+     "date": "2026-10-11",
+     "appearances": 16
+    },
+    {
+     "date": "2026-10-24",
+     "appearances": 17
+    },
+    {
+     "date": "2026-10-31",
+     "appearances": 19
+    }
+   ]
+  },
+  {
    "loot_en": "Ortiz: Reficere",
    "loot_cn": "奥提兹：重塑※",
    "category": "set",
@@ -329,6 +361,34 @@
     {
      "date": "2026-10-29",
      "appearances": 13
+    }
+   ]
+  },
+  {
+   "loot_en": "5.11 Tactical",
+   "loot_cn": "5.11 战术",
+   "category": "brand",
+   "icon": "assets/icons/brandsets/511tactical.png",
+   "dates": [
+    {
+     "date": "2026-10-12",
+     "appearances": 13
+    },
+    {
+     "date": "2026-10-20",
+     "appearances": 14
+    },
+    {
+     "date": "2026-10-22",
+     "appearances": 15
+    },
+    {
+     "date": "2026-10-26",
+     "appearances": 16
+    },
+    {
+     "date": "2026-10-31",
+     "appearances": 18
     }
    ]
   },
@@ -405,30 +465,6 @@
    ]
   },
   {
-   "loot_en": "Tip of the Spear",
-   "loot_cn": "矛尖※",
-   "category": "set",
-   "icon": "assets/icons/gearsets/tipofthespear.png",
-   "dates": [
-    {
-     "date": "2026-10-03",
-     "appearances": 14
-    },
-    {
-     "date": "2026-10-10",
-     "appearances": 15
-    },
-    {
-     "date": "2026-10-11",
-     "appearances": 16
-    },
-    {
-     "date": "2026-10-24",
-     "appearances": 17
-    }
-   ]
-  },
-  {
    "loot_en": "Gila Guard",
    "loot_cn": "毒蜥守卫队",
    "category": "brand",
@@ -477,6 +513,30 @@
    ]
   },
   {
+   "loot_en": "Providence Defense",
+   "loot_cn": "天命防御公司",
+   "category": "brand",
+   "icon": "assets/icons/brandsets/providencedefense.png",
+   "dates": [
+    {
+     "date": "2026-10-06",
+     "appearances": 14
+    },
+    {
+     "date": "2026-10-08",
+     "appearances": 15
+    },
+    {
+     "date": "2026-10-14",
+     "appearances": 16
+    },
+    {
+     "date": "2026-10-31",
+     "appearances": 18
+    }
+   ]
+  },
+  {
    "loot_en": "Petrov Defense Group",
    "loot_cn": "彼得罗夫防御集团",
    "category": "brand",
@@ -496,30 +556,6 @@
     },
     {
      "date": "2026-10-20",
-     "appearances": 16
-    }
-   ]
-  },
-  {
-   "loot_en": "5.11 Tactical",
-   "loot_cn": "5.11 战术",
-   "category": "brand",
-   "icon": "assets/icons/brandsets/511tactical.png",
-   "dates": [
-    {
-     "date": "2026-10-12",
-     "appearances": 13
-    },
-    {
-     "date": "2026-10-20",
-     "appearances": 14
-    },
-    {
-     "date": "2026-10-22",
-     "appearances": 15
-    },
-    {
-     "date": "2026-10-26",
      "appearances": 16
     }
    ]
@@ -549,6 +585,30 @@
    ]
   },
   {
+   "loot_en": "LMGs",
+   "loot_cn": "轻机枪",
+   "category": "slot",
+   "icon": "assets/icons/weapons/lmg.png",
+   "dates": [
+    {
+     "date": "2026-10-19",
+     "appearances": 18
+    },
+    {
+     "date": "2026-10-23",
+     "appearances": 19
+    },
+    {
+     "date": "2026-10-26",
+     "appearances": 20
+    },
+    {
+     "date": "2026-10-31",
+     "appearances": 22
+    }
+   ]
+  },
+  {
    "loot_en": "Electrique",
    "loot_cn": "电气※",
    "category": "set",
@@ -565,6 +625,26 @@
     {
      "date": "2026-10-24",
      "appearances": 17
+    }
+   ]
+  },
+  {
+   "loot_en": "Rigger",
+   "loot_cn": "索具工※",
+   "category": "set",
+   "icon": "assets/icons/gearsets/rigger.png",
+   "dates": [
+    {
+     "date": "2026-10-01",
+     "appearances": 8
+    },
+    {
+     "date": "2026-10-21",
+     "appearances": 9
+    },
+    {
+     "date": "2026-10-31",
+     "appearances": 11
     }
    ]
   },
@@ -665,26 +745,6 @@
     {
      "date": "2026-10-20",
      "appearances": 9
-    }
-   ]
-  },
-  {
-   "loot_en": "Providence Defense",
-   "loot_cn": "天命防御公司",
-   "category": "brand",
-   "icon": "assets/icons/brandsets/providencedefense.png",
-   "dates": [
-    {
-     "date": "2026-10-06",
-     "appearances": 14
-    },
-    {
-     "date": "2026-10-08",
-     "appearances": 15
-    },
-    {
-     "date": "2026-10-14",
-     "appearances": 16
     }
    ]
   },
@@ -869,22 +929,22 @@
    ]
   },
   {
-   "loot_en": "LMGs",
-   "loot_cn": "轻机枪",
-   "category": "slot",
-   "icon": "assets/icons/weapons/lmg.png",
+   "loot_en": "Alps Summit Armaments",
+   "loot_cn": "阿尔卑斯山峰军事",
+   "category": "brand",
+   "icon": "assets/icons/brandsets/alpssummitarmaments.png",
    "dates": [
     {
-     "date": "2026-10-19",
-     "appearances": 18
+     "date": "2026-10-28",
+     "appearances": 9
     },
     {
-     "date": "2026-10-23",
-     "appearances": 19
+     "date": "2026-10-29",
+     "appearances": 10
     },
     {
-     "date": "2026-10-26",
-     "appearances": 20
+     "date": "2026-10-31",
+     "appearances": 11
     }
    ]
   },
@@ -901,22 +961,6 @@
     {
      "date": "2026-10-09",
      "appearances": 14
-    }
-   ]
-  },
-  {
-   "loot_en": "Rigger",
-   "loot_cn": "索具工※",
-   "category": "set",
-   "icon": "assets/icons/gearsets/rigger.png",
-   "dates": [
-    {
-     "date": "2026-10-01",
-     "appearances": 8
-    },
-    {
-     "date": "2026-10-21",
-     "appearances": 9
     }
    ]
   },
@@ -1157,22 +1201,6 @@
     {
      "date": "2026-10-22",
      "appearances": 13
-    }
-   ]
-  },
-  {
-   "loot_en": "Alps Summit Armaments",
-   "loot_cn": "阿尔卑斯山峰军事",
-   "category": "brand",
-   "icon": "assets/icons/brandsets/alpssummitarmaments.png",
-   "dates": [
-    {
-     "date": "2026-10-28",
-     "appearances": 9
-    },
-    {
-     "date": "2026-10-29",
-     "appearances": 10
     }
    ]
   },
