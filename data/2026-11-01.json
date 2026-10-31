@@ -1,0 +1,123 @@
+{
+ "date": "2026-11-01",
+ "page_date": "2026-11-01",
+ "fetched_at": "2026-10-31T22:28:50+08:00",
+ "updated": "31 Oct · 09:01",
+ "rotation_week": {
+  "start": "2026-10-27",
+  "end": "2026-11-02"
+ },
+ "missions": [
+  {
+   "loot_en": "Eclipse Protocol",
+   "loot_cn": "日蚀协议※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 13,
+   "last_seen": "2026-10-31",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gearsets/eclipseprotocol.png?v=1791196680",
+   "icon": "assets/icons/gearsets/eclipseprotocol.png",
+   "mission": "Coney Island Ballpark",
+   "mission_cn": "康尼岛球场",
+   "faction": "Black Tusk",
+   "faction_cn": "暗牙"
+  },
+  {
+   "loot_en": "Umbra Initiative",
+   "loot_cn": "暗影行动※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 12,
+   "last_seen": "2026-10-31",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gearsets/umbrainitiative.png?v=1791196680",
+   "icon": "assets/icons/gearsets/umbrainitiative.png",
+   "mission": "Coney Island Amusement Park",
+   "mission_cn": "康尼岛游乐园",
+   "faction": "Black Tusk",
+   "faction_cn": "暗牙"
+  },
+  {
+   "loot_en": "Aegis",
+   "loot_cn": "宙斯盾※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 12,
+   "last_seen": "2026-10-31",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gearsets/aegis.png?v=1791196680",
+   "icon": "assets/icons/gearsets/aegis.png",
+   "mission": "ViewPoint Museum",
+   "mission_cn": "观点博物馆",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  },
+  {
+   "loot_en": "Cavalier",
+   "loot_cn": "骑士※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 13,
+   "last_seen": "2026-10-31",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gearsets/cavalier.png?v=1791196680",
+   "icon": "assets/icons/gearsets/cavalier.png",
+   "mission": "Capitol Building",
+   "mission_cn": "国会大厦",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  },
+  {
+   "loot_en": "Douglas & Harding",
+   "loot_cn": "道格拉斯与哈定企业",
+   "category": "brand",
+   "uncertain": false,
+   "appearances": 10,
+   "last_seen": "2026-10-31",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/brandsets/douglasharding.png?v=1791196677",
+   "icon": "assets/icons/brandsets/douglasharding.png",
+   "mission": "Potomac Event Center",
+   "mission_cn": "波托马克活动中心",
+   "faction": "Outcasts",
+   "faction_cn": "流亡者"
+  }
+ ],
+ "caches": [
+  {
+   "loot_en": "Gloves",
+   "loot_cn": "手套",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 33,
+   "last_seen": "2026-10-31",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gear/gloves.png",
+   "icon": "assets/icons/gear/gloves.png",
+   "name": "Prototype Gear Cache",
+   "name_cn": "原型装备缓存"
+  },
+  {
+   "loot_en": "Rifles",
+   "loot_cn": "步枪",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 32,
+   "last_seen": "2026-10-31",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/weapons/rifle.png",
+   "icon": "assets/icons/weapons/rifle.png",
+   "name": "Prototype Weapon Cache",
+   "name_cn": "原型武器缓存"
+  }
+ ],
+ "unknown_names": []
+}

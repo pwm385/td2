@@ -97,46 +97,10 @@
     {
      "date": "2026-10-31",
      "appearances": 32
-    }
-   ]
-  },
-  {
-   "loot_en": "Chest Pieces",
-   "loot_cn": "护甲",
-   "category": "slot",
-   "icon": "assets/icons/gear/chest.png",
-   "dates": [
-    {
-     "date": "2026-10-01",
-     "appearances": 21
     },
     {
-     "date": "2026-10-03",
-     "appearances": 22
-    },
-    {
-     "date": "2026-10-09",
-     "appearances": 23
-    },
-    {
-     "date": "2026-10-11",
-     "appearances": 24
-    },
-    {
-     "date": "2026-10-12",
-     "appearances": 25
-    },
-    {
-     "date": "2026-10-14",
-     "appearances": 26
-    },
-    {
-     "date": "2026-10-16",
-     "appearances": 27
-    },
-    {
-     "date": "2026-10-19",
-     "appearances": 28
+     "date": "2026-11-01",
+     "appearances": 33
     }
    ]
   },
@@ -177,6 +141,50 @@
     {
      "date": "2026-10-27",
      "appearances": 30
+    },
+    {
+     "date": "2026-11-01",
+     "appearances": 32
+    }
+   ]
+  },
+  {
+   "loot_en": "Chest Pieces",
+   "loot_cn": "护甲",
+   "category": "slot",
+   "icon": "assets/icons/gear/chest.png",
+   "dates": [
+    {
+     "date": "2026-10-01",
+     "appearances": 21
+    },
+    {
+     "date": "2026-10-03",
+     "appearances": 22
+    },
+    {
+     "date": "2026-10-09",
+     "appearances": 23
+    },
+    {
+     "date": "2026-10-11",
+     "appearances": 24
+    },
+    {
+     "date": "2026-10-12",
+     "appearances": 25
+    },
+    {
+     "date": "2026-10-14",
+     "appearances": 26
+    },
+    {
+     "date": "2026-10-16",
+     "appearances": 27
+    },
+    {
+     "date": "2026-10-19",
+     "appearances": 28
     }
    ]
   },
@@ -1045,6 +1053,22 @@
    ]
   },
   {
+   "loot_en": "Umbra Initiative",
+   "loot_cn": "暗影行动※",
+   "category": "set",
+   "icon": "assets/icons/gearsets/umbrainitiative.png",
+   "dates": [
+    {
+     "date": "2026-10-03",
+     "appearances": 10
+    },
+    {
+     "date": "2026-11-01",
+     "appearances": 12
+    }
+   ]
+  },
+  {
    "loot_en": "Assault Rifle",
    "loot_cn": "突击步枪",
    "category": "slot",
@@ -1173,6 +1197,22 @@
    ]
   },
   {
+   "loot_en": "Eclipse Protocol",
+   "loot_cn": "日蚀协议※",
+   "category": "set",
+   "icon": "assets/icons/gearsets/eclipseprotocol.png",
+   "dates": [
+    {
+     "date": "2026-10-16",
+     "appearances": 11
+    },
+    {
+     "date": "2026-11-01",
+     "appearances": 13
+    }
+   ]
+  },
+  {
    "loot_en": "Belstone Armory",
    "loot_cn": "贝尔斯通军火",
    "category": "brand",
@@ -1201,6 +1241,38 @@
     {
      "date": "2026-10-22",
      "appearances": 13
+    }
+   ]
+  },
+  {
+   "loot_en": "Cavalier",
+   "loot_cn": "骑士※",
+   "category": "set",
+   "icon": "assets/icons/gearsets/cavalier.png",
+   "dates": [
+    {
+     "date": "2026-10-18",
+     "appearances": 11
+    },
+    {
+     "date": "2026-11-01",
+     "appearances": 13
+    }
+   ]
+  },
+  {
+   "loot_en": "Aegis",
+   "loot_cn": "宙斯盾※",
+   "category": "set",
+   "icon": "assets/icons/gearsets/aegis.png",
+   "dates": [
+    {
+     "date": "2026-10-23",
+     "appearances": 10
+    },
+    {
+     "date": "2026-11-01",
+     "appearances": 12
     }
    ]
   },
@@ -1237,18 +1309,6 @@
     {
      "date": "2026-10-01",
      "appearances": 16
-    }
-   ]
-  },
-  {
-   "loot_en": "Umbra Initiative",
-   "loot_cn": "暗影行动※",
-   "category": "set",
-   "icon": "assets/icons/gearsets/umbrainitiative.png",
-   "dates": [
-    {
-     "date": "2026-10-03",
-     "appearances": 10
     }
    ]
   },
@@ -1385,18 +1445,6 @@
    ]
   },
   {
-   "loot_en": "Eclipse Protocol",
-   "loot_cn": "日蚀协议※",
-   "category": "set",
-   "icon": "assets/icons/gearsets/eclipseprotocol.png",
-   "dates": [
-    {
-     "date": "2026-10-16",
-     "appearances": 11
-    }
-   ]
-  },
-  {
    "loot_en": "Richter & Kaiser GmbH",
    "loot_cn": "里希特与凯撒※",
    "category": "brand",
@@ -1405,18 +1453,6 @@
     {
      "date": "2026-10-16",
      "appearances": 9
-    }
-   ]
-  },
-  {
-   "loot_en": "Cavalier",
-   "loot_cn": "骑士※",
-   "category": "set",
-   "icon": "assets/icons/gearsets/cavalier.png",
-   "dates": [
-    {
-     "date": "2026-10-18",
-     "appearances": 11
     }
    ]
   },
@@ -1465,18 +1501,6 @@
     {
      "date": "2026-10-21",
      "appearances": 15
-    }
-   ]
-  },
-  {
-   "loot_en": "Aegis",
-   "loot_cn": "宙斯盾※",
-   "category": "set",
-   "icon": "assets/icons/gearsets/aegis.png",
-   "dates": [
-    {
-     "date": "2026-10-23",
-     "appearances": 10
     }
    ]
   },
@@ -1549,6 +1573,18 @@
     {
      "date": "2026-10-30",
      "appearances": 22
+    }
+   ]
+  },
+  {
+   "loot_en": "Douglas & Harding",
+   "loot_cn": "道格拉斯与哈定企业",
+   "category": "brand",
+   "icon": "assets/icons/brandsets/douglasharding.png",
+   "dates": [
+    {
+     "date": "2026-11-01",
+     "appearances": 10
     }
    ]
   }
