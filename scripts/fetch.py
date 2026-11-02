@@ -10,10 +10,13 @@ from __future__ import annotations
 
 import argparse
 import json
+import socket
 import sys
 import time
 import urllib.error
 import urllib.request
+
+socket.setdefaulttimeout(30)      # 防止 DNS/连接卡死（计划任务里会一直挂着）
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 

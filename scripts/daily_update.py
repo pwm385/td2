@@ -32,22 +32,36 @@ def run(cmd: list[str], timeout: int = 300) -> tuple[int, str]:
 
 
 def main() -> int:
-    # 防止两次触发重叠
+    log("开始")
+    # 防止两次触发重叠；超过 8 分钟的锁视为上次异常退出留下的
     if LOCK.exists():
         age = time.time() - LOCK.stat().st_mtime
-        if age < 900:
+        if age < 480:
             log(f"已有任务在跑（{int(age)}秒前），退出")
             return 0
+        log(f"发现残留锁（{int(age)}秒前），继续")
     LOCK.write_text(str(time.time()), encoding="utf-8")
     try:
         changed = False
         for attempt in range(7):
-            rc, out = run([PY, str(ROOT / "scripts" / "fetch.py"), "--days", "3"])
+            try:
+                rc, out = run([PY, str(ROOT / "scripts" / "fetch.py"), "--days", "3"], timeout=180)
+            except subprocess.TimeoutExpired:
+                log("抓取超时（>180 秒）")
+                out = ""
+            except Exception as exc:                 # noqa: BLE001
+                log(f"抓取出错: {exc}")
+                out = ""
             tail = " / ".join(out.strip().splitlines()[-2:])
-            log(f"第{attempt + 1}次抓取: {tail}")
+            log(f"第{attempt + 1}次抓取: {tail or '(无输出)'}")
             if "[OK]" in out:
                 changed = True
                 break
+            if "[失败]" in out or not out:
+                # 源站挂了（16:00 前后经常 502）→ 继续等
+                if attempt < 6:
+                    time.sleep(60)
+                continue
             if "[未更新]" not in out:
                 # 没有新东西可抓（已经是最新）→ 不用等
                 log("数据已是最新，无需重试")
