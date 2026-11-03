@@ -53,6 +53,54 @@
    ]
   },
   {
+   "loot_en": "Chest Pieces",
+   "loot_cn": "护甲",
+   "category": "slot",
+   "icon": "assets/icons/gear/chest.png",
+   "dates": [
+    {
+     "date": "2026-10-01",
+     "appearances": 21
+    },
+    {
+     "date": "2026-10-03",
+     "appearances": 22
+    },
+    {
+     "date": "2026-10-09",
+     "appearances": 23
+    },
+    {
+     "date": "2026-10-11",
+     "appearances": 24
+    },
+    {
+     "date": "2026-10-12",
+     "appearances": 25
+    },
+    {
+     "date": "2026-10-14",
+     "appearances": 26
+    },
+    {
+     "date": "2026-10-16",
+     "appearances": 27
+    },
+    {
+     "date": "2026-10-19",
+     "appearances": 28
+    },
+    {
+     "date": "2026-11-03",
+     "appearances": 30
+    },
+    {
+     "date": "2026-11-04",
+     "appearances": 30
+    }
+   ]
+  },
+  {
    "loot_en": "Gloves",
    "loot_cn": "手套",
    "category": "slot",
@@ -145,50 +193,6 @@
    ]
   },
   {
-   "loot_en": "Chest Pieces",
-   "loot_cn": "护甲",
-   "category": "slot",
-   "icon": "assets/icons/gear/chest.png",
-   "dates": [
-    {
-     "date": "2026-10-01",
-     "appearances": 21
-    },
-    {
-     "date": "2026-10-03",
-     "appearances": 22
-    },
-    {
-     "date": "2026-10-09",
-     "appearances": 23
-    },
-    {
-     "date": "2026-10-11",
-     "appearances": 24
-    },
-    {
-     "date": "2026-10-12",
-     "appearances": 25
-    },
-    {
-     "date": "2026-10-14",
-     "appearances": 26
-    },
-    {
-     "date": "2026-10-16",
-     "appearances": 27
-    },
-    {
-     "date": "2026-10-19",
-     "appearances": 28
-    },
-    {
-     "date": "2026-11-03",
-     "appearances": 30
-    }
-   ]
-  },
-  {
    "loot_en": "Rifles",
    "loot_cn": "步枪",
    "category": "slot",
@@ -265,6 +269,42 @@
    ]
   },
   {
+   "loot_en": "Ortiz: Reficere",
+   "loot_cn": "奥提兹：重塑※",
+   "category": "set",
+   "icon": "assets/icons/gearsets/ortizreficere.png",
+   "dates": [
+    {
+     "date": "2026-10-07",
+     "appearances": 9
+    },
+    {
+     "date": "2026-10-22",
+     "appearances": 10
+    },
+    {
+     "date": "2026-10-25",
+     "appearances": 11
+    },
+    {
+     "date": "2026-10-28",
+     "appearances": 12
+    },
+    {
+     "date": "2026-10-29",
+     "appearances": 13
+    },
+    {
+     "date": "2026-11-03",
+     "appearances": 14
+    },
+    {
+     "date": "2026-11-04",
+     "appearances": 14
+    }
+   ]
+  },
+  {
    "loot_en": "Concentrated Company",
    "loot_cn": "精锐连※",
    "category": "set",
@@ -297,34 +337,34 @@
    ]
   },
   {
-   "loot_en": "Ortiz: Reficere",
-   "loot_cn": "奥提兹：重塑※",
-   "category": "set",
-   "icon": "assets/icons/gearsets/ortizreficere.png",
+   "loot_en": "Providence Defense",
+   "loot_cn": "天命防御公司",
+   "category": "brand",
+   "icon": "assets/icons/brandsets/providencedefense.png",
    "dates": [
     {
-     "date": "2026-10-07",
-     "appearances": 9
+     "date": "2026-10-06",
+     "appearances": 14
     },
     {
-     "date": "2026-10-22",
-     "appearances": 10
+     "date": "2026-10-08",
+     "appearances": 15
     },
     {
-     "date": "2026-10-25",
-     "appearances": 11
+     "date": "2026-10-14",
+     "appearances": 16
     },
     {
-     "date": "2026-10-28",
-     "appearances": 12
-    },
-    {
-     "date": "2026-10-29",
-     "appearances": 13
+     "date": "2026-10-31",
+     "appearances": 18
     },
     {
      "date": "2026-11-03",
-     "appearances": 14
+     "appearances": 19
+    },
+    {
+     "date": "2026-11-04",
+     "appearances": 19
     }
    ]
   },
@@ -445,30 +485,30 @@
    ]
   },
   {
-   "loot_en": "Providence Defense",
-   "loot_cn": "天命防御公司",
-   "category": "brand",
-   "icon": "assets/icons/brandsets/providencedefense.png",
+   "loot_en": "MMRs",
+   "loot_cn": "精确射手步枪",
+   "category": "slot",
+   "icon": "assets/icons/weapons/mmr.png",
    "dates": [
     {
-     "date": "2026-10-06",
-     "appearances": 14
+     "date": "2026-10-03",
+     "appearances": 20
     },
     {
-     "date": "2026-10-08",
-     "appearances": 15
+     "date": "2026-10-09",
+     "appearances": 21
     },
     {
-     "date": "2026-10-14",
-     "appearances": 16
-    },
-    {
-     "date": "2026-10-31",
-     "appearances": 18
+     "date": "2026-10-24",
+     "appearances": 22
     },
     {
      "date": "2026-11-03",
-     "appearances": 19
+     "appearances": 24
+    },
+    {
+     "date": "2026-11-04",
+     "appearances": 24
     }
    ]
   },
@@ -497,6 +537,34 @@
     {
      "date": "2026-10-31",
      "appearances": 18
+    }
+   ]
+  },
+  {
+   "loot_en": "Future Initiative",
+   "loot_cn": "未来行动※",
+   "category": "set",
+   "icon": "assets/icons/gearsets/futureinitiative.png",
+   "dates": [
+    {
+     "date": "2026-10-16",
+     "appearances": 11
+    },
+    {
+     "date": "2026-10-21",
+     "appearances": 12
+    },
+    {
+     "date": "2026-10-23",
+     "appearances": 13
+    },
+    {
+     "date": "2026-11-03",
+     "appearances": 15
+    },
+    {
+     "date": "2026-11-04",
+     "appearances": 15
     }
    ]
   },
@@ -545,30 +613,6 @@
     {
      "date": "2026-10-29",
      "appearances": 16
-    }
-   ]
-  },
-  {
-   "loot_en": "MMRs",
-   "loot_cn": "精确射手步枪",
-   "category": "slot",
-   "icon": "assets/icons/weapons/mmr.png",
-   "dates": [
-    {
-     "date": "2026-10-03",
-     "appearances": 20
-    },
-    {
-     "date": "2026-10-09",
-     "appearances": 21
-    },
-    {
-     "date": "2026-10-24",
-     "appearances": 22
-    },
-    {
-     "date": "2026-11-03",
-     "appearances": 24
     }
    ]
   },
@@ -645,30 +689,6 @@
    ]
   },
   {
-   "loot_en": "Future Initiative",
-   "loot_cn": "未来行动※",
-   "category": "set",
-   "icon": "assets/icons/gearsets/futureinitiative.png",
-   "dates": [
-    {
-     "date": "2026-10-16",
-     "appearances": 11
-    },
-    {
-     "date": "2026-10-21",
-     "appearances": 12
-    },
-    {
-     "date": "2026-10-23",
-     "appearances": 13
-    },
-    {
-     "date": "2026-11-03",
-     "appearances": 15
-    }
-   ]
-  },
-  {
    "loot_en": "LMGs",
    "loot_cn": "轻机枪",
    "category": "slot",
@@ -729,6 +749,26 @@
     {
      "date": "2026-10-31",
      "appearances": 11
+    }
+   ]
+  },
+  {
+   "loot_en": "Shotgun",
+   "loot_cn": "霰弹枪",
+   "category": "slot",
+   "icon": "assets/icons/weapons/shotgun.png",
+   "dates": [
+    {
+     "date": "2026-10-01",
+     "appearances": 16
+    },
+    {
+     "date": "2026-11-03",
+     "appearances": 18
+    },
+    {
+     "date": "2026-11-04",
+     "appearances": 18
     }
    ]
   },
@@ -1033,6 +1073,26 @@
    ]
   },
   {
+   "loot_en": "Ortiz Exuro",
+   "loot_cn": "奥提兹：燃烬",
+   "category": "set",
+   "icon": "assets/icons/gearsets/ortizexuro.png",
+   "dates": [
+    {
+     "date": "2026-10-26",
+     "appearances": 8
+    },
+    {
+     "date": "2026-11-03",
+     "appearances": 10
+    },
+    {
+     "date": "2026-11-04",
+     "appearances": 10
+    }
+   ]
+  },
+  {
    "loot_en": "Alps Summit Armaments",
    "loot_cn": "阿尔卑斯山峰军事",
    "category": "brand",
@@ -1081,22 +1141,6 @@
     {
      "date": "2026-10-08",
      "appearances": 16
-    }
-   ]
-  },
-  {
-   "loot_en": "Shotgun",
-   "loot_cn": "霰弹枪",
-   "category": "slot",
-   "icon": "assets/icons/weapons/shotgun.png",
-   "dates": [
-    {
-     "date": "2026-10-01",
-     "appearances": 16
-    },
-    {
-     "date": "2026-11-03",
-     "appearances": 18
     }
    ]
   },
@@ -1321,22 +1365,6 @@
     {
      "date": "2026-10-22",
      "appearances": 13
-    }
-   ]
-  },
-  {
-   "loot_en": "Ortiz Exuro",
-   "loot_cn": "奥提兹：燃烬",
-   "category": "set",
-   "icon": "assets/icons/gearsets/ortizexuro.png",
-   "dates": [
-    {
-     "date": "2026-10-26",
-     "appearances": 8
-    },
-    {
-     "date": "2026-11-03",
-     "appearances": 10
     }
    ]
   },
