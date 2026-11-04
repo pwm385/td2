@@ -206,8 +206,11 @@ def rebuild_index(resolver: Resolver | None = None) -> None:
     if old_index.exists():
         try:
             old = json.loads(old_index.read_text(encoding="utf-8"))
-            # 数据没变就沿用旧的更新时间，避免每次运行都产生无意义提交
-            if old.get("latest") == latest and old.get("dates") == dates and old.get("updated_at"):
+            # 数据没变就沿用旧的更新时间，避免每次运行都产生无意义提交；
+            # 但内容重抓过（fetched_at 更新）时，时间戳要跟着走
+            newest = max((d.get("fetched_at") or "" for d in days), default="")
+            if (old.get("latest") == latest and old.get("dates") == dates
+                    and old.get("updated_at") and newest <= old["updated_at"]):
                 stamp = old["updated_at"]
         except Exception:                            # noqa: BLE001
             pass
