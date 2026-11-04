@@ -49,6 +49,10 @@
     {
      "date": "2026-10-29",
      "appearances": 36
+    },
+    {
+     "date": "2026-11-05",
+     "appearances": 37
     }
    ]
   },
@@ -505,6 +509,34 @@
    ]
   },
   {
+   "loot_en": "Body Armor",
+   "loot_cn": "护甲",
+   "category": "slot",
+   "icon": "assets/icons/gear/chest.png",
+   "dates": [
+    {
+     "date": "2026-10-12",
+     "appearances": 15
+    },
+    {
+     "date": "2026-10-13",
+     "appearances": 16
+    },
+    {
+     "date": "2026-10-17",
+     "appearances": 17
+    },
+    {
+     "date": "2026-10-24",
+     "appearances": 18
+    },
+    {
+     "date": "2026-11-05",
+     "appearances": 20
+    }
+   ]
+  },
+  {
    "loot_en": "LMGs",
    "loot_cn": "轻机枪",
    "category": "slot",
@@ -677,6 +709,30 @@
    ]
   },
   {
+   "loot_en": "Refactor",
+   "loot_cn": "重构※",
+   "category": "set",
+   "icon": "assets/icons/gearsets/refactor.png",
+   "dates": [
+    {
+     "date": "2026-10-10",
+     "appearances": 12
+    },
+    {
+     "date": "2026-11-01",
+     "appearances": 13
+    },
+    {
+     "date": "2026-11-02",
+     "appearances": 14
+    },
+    {
+     "date": "2026-11-05",
+     "appearances": 15
+    }
+   ]
+  },
+  {
    "loot_en": "Hard Wired",
    "loot_cn": "硬连线※",
    "category": "set",
@@ -697,30 +753,6 @@
     {
      "date": "2026-11-04",
      "appearances": 19
-    }
-   ]
-  },
-  {
-   "loot_en": "Body Armor",
-   "loot_cn": "护甲",
-   "category": "slot",
-   "icon": "assets/icons/gear/chest.png",
-   "dates": [
-    {
-     "date": "2026-10-12",
-     "appearances": 15
-    },
-    {
-     "date": "2026-10-13",
-     "appearances": 16
-    },
-    {
-     "date": "2026-10-17",
-     "appearances": 17
-    },
-    {
-     "date": "2026-10-24",
-     "appearances": 18
     }
    ]
   },
@@ -825,6 +857,26 @@
     {
      "date": "2026-11-04",
      "appearances": 33
+    }
+   ]
+  },
+  {
+   "loot_en": "SMGs",
+   "loot_cn": "冲锋枪",
+   "category": "slot",
+   "icon": "assets/icons/weapons/smg.png",
+   "dates": [
+    {
+     "date": "2026-10-02",
+     "appearances": 22
+    },
+    {
+     "date": "2026-10-20",
+     "appearances": 23
+    },
+    {
+     "date": "2026-11-05",
+     "appearances": 25
     }
    ]
   },
@@ -989,26 +1041,6 @@
    ]
   },
   {
-   "loot_en": "Refactor",
-   "loot_cn": "重构※",
-   "category": "set",
-   "icon": "assets/icons/gearsets/refactor.png",
-   "dates": [
-    {
-     "date": "2026-10-10",
-     "appearances": 12
-    },
-    {
-     "date": "2026-11-01",
-     "appearances": 13
-    },
-    {
-     "date": "2026-11-02",
-     "appearances": 14
-    }
-   ]
-  },
-  {
    "loot_en": "Airaldi Holdings",
    "loot_cn": "阿尔拉蒂企业",
    "category": "brand",
@@ -1169,18 +1201,18 @@
    ]
   },
   {
-   "loot_en": "SMGs",
-   "loot_cn": "冲锋枪",
-   "category": "slot",
-   "icon": "assets/icons/weapons/smg.png",
+   "loot_en": "Umbra Initiative",
+   "loot_cn": "暗影行动※",
+   "category": "set",
+   "icon": "assets/icons/gearsets/umbrainitiative.png",
    "dates": [
     {
-     "date": "2026-10-02",
-     "appearances": 22
+     "date": "2026-10-03",
+     "appearances": 10
     },
     {
-     "date": "2026-10-20",
-     "appearances": 23
+     "date": "2026-11-05",
+     "appearances": 13
     }
    ]
   },
@@ -1196,6 +1228,22 @@
     },
     {
      "date": "2026-10-25",
+     "appearances": 8
+    }
+   ]
+  },
+  {
+   "loot_en": "Hunters Fury",
+   "loot_cn": "猎人之怒※",
+   "category": "set",
+   "icon": "assets/icons/gearsets/huntersfury.png",
+   "dates": [
+    {
+     "date": "2026-10-04",
+     "appearances": 6
+    },
+    {
+     "date": "2026-11-05",
      "appearances": 8
     }
    ]
@@ -1377,6 +1425,22 @@
    ]
   },
   {
+   "loot_en": "Sokolov Concern",
+   "loot_cn": "索寇罗夫企业",
+   "category": "brand",
+   "icon": "assets/icons/brandsets/sokolovconcern.png",
+   "dates": [
+    {
+     "date": "2026-10-18",
+     "appearances": 16
+    },
+    {
+     "date": "2026-11-05",
+     "appearances": 18
+    }
+   ]
+  },
+  {
    "loot_en": "Ortiz Exuro",
    "loot_cn": "奥提兹：燃烬",
    "category": "set",
@@ -1429,30 +1493,6 @@
     {
      "date": "2026-10-01",
      "appearances": 8
-    }
-   ]
-  },
-  {
-   "loot_en": "Umbra Initiative",
-   "loot_cn": "暗影行动※",
-   "category": "set",
-   "icon": "assets/icons/gearsets/umbrainitiative.png",
-   "dates": [
-    {
-     "date": "2026-10-03",
-     "appearances": 10
-    }
-   ]
-  },
-  {
-   "loot_en": "Hunters Fury",
-   "loot_cn": "猎人之怒※",
-   "category": "set",
-   "icon": "assets/icons/gearsets/huntersfury.png",
-   "dates": [
-    {
-     "date": "2026-10-04",
-     "appearances": 6
     }
    ]
   },
@@ -1549,18 +1589,6 @@
     {
      "date": "2026-10-16",
      "appearances": 9
-    }
-   ]
-  },
-  {
-   "loot_en": "Sokolov Concern",
-   "loot_cn": "索寇罗夫企业",
-   "category": "brand",
-   "icon": "assets/icons/brandsets/sokolovconcern.png",
-   "dates": [
-    {
-     "date": "2026-10-18",
-     "appearances": 16
     }
    ]
   },

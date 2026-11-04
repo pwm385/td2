@@ -1,0 +1,123 @@
+{
+ "date": "2026-11-05",
+ "page_date": "2026-11-05",
+ "fetched_at": "2026-11-04T16:18:25+08:00",
+ "updated": "04 Nov · 09:01",
+ "rotation_week": {
+  "start": "2026-11-03",
+  "end": "2026-11-09"
+ },
+ "missions": [
+  {
+   "loot_en": "Umbra Initiative",
+   "loot_cn": "暗影行动※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 13,
+   "last_seen": "2026-11-04",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gearsets/umbrainitiative.png?v=1791196680",
+   "icon": "assets/icons/gearsets/umbrainitiative.png",
+   "mission": "The Art Museum",
+   "mission_cn": "艺术博物馆",
+   "faction": "Rikers",
+   "faction_cn": "赖克斯帮"
+  },
+  {
+   "loot_en": "Sokolov Concern",
+   "loot_cn": "索寇罗夫企业",
+   "category": "brand",
+   "uncertain": false,
+   "appearances": 18,
+   "last_seen": "2026-11-04",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/brandsets/sokolovconcern.png?v=1791196678",
+   "icon": "assets/icons/brandsets/sokolovconcern.png",
+   "mission": "Manning National Zoo",
+   "mission_cn": "曼宁国家动物园",
+   "faction": "Outcasts",
+   "faction_cn": "流亡者"
+  },
+  {
+   "loot_en": "Body Armor",
+   "loot_cn": "护甲",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 20,
+   "last_seen": "2026-11-04",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gear/chest.png?v=1791196679",
+   "icon": "assets/icons/gear/chest.png",
+   "mission": "Camp White Oak",
+   "mission_cn": "白橡树营地",
+   "faction": "Black Tusk",
+   "faction_cn": "暗牙"
+  },
+  {
+   "loot_en": "Hunters Fury",
+   "loot_cn": "猎人之怒※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 8,
+   "last_seen": "2026-11-04",
+   "last_seen_en": "1 day ago",
+   "priority": true,
+   "loot_src": "/assets/division2/gearsets/huntersfury.png?v=1791196680",
+   "icon": "assets/icons/gearsets/huntersfury.png",
+   "mission": "The Pentagon",
+   "mission_cn": "五角大楼",
+   "faction": "Black Tusk",
+   "faction_cn": "暗牙"
+  },
+  {
+   "loot_en": "Refactor",
+   "loot_cn": "重构※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 15,
+   "last_seen": "2026-11-04",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gearsets/refactor.png?v=1791196680",
+   "icon": "assets/icons/gearsets/refactor.png",
+   "mission": "DARPA Research Labs",
+   "mission_cn": "DARPA 研究实验室",
+   "faction": "Black Tusk",
+   "faction_cn": "暗牙"
+  }
+ ],
+ "caches": [
+  {
+   "loot_en": "Masks",
+   "loot_cn": "面具",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 37,
+   "last_seen": "2026-11-04",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gear/mask.png",
+   "icon": "assets/icons/gear/mask.png",
+   "name": "Prototype Gear Cache",
+   "name_cn": "原型装备缓存"
+  },
+  {
+   "loot_en": "SMGs",
+   "loot_cn": "冲锋枪",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 25,
+   "last_seen": "2026-11-04",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/weapons/smg.png",
+   "icon": "assets/icons/weapons/smg.png",
+   "name": "Prototype Weapon Cache",
+   "name_cn": "原型武器缓存"
+  }
+ ],
+ "unknown_names": []
+}
