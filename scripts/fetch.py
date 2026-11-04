@@ -281,7 +281,13 @@ def main() -> int:
         out_date = day or expected_day()
         data["date"] = out_date
         out_path = DATA / f"{out_date}.json"
-        # 源站可能还没换轮（内容仍是上一轮）→ 不写，等下一次定时任务
+        # 源站每天换轮后要过几分钟才把页面上的日期标签也翻过去。
+        # 标签还没翻 = 页面上可能还是上一轮的内容，这时候千万别写（否则整天的数据会错位）。
+        if not args.date and data.get("page_date") != out_date:
+            print(f"[未更新] {out_date} 源站标签还是 {data.get('page_date')}，本次不写")
+            skipped += 1
+            continue
+        # 兜底：内容和前一天完全一样也说明没换轮
         if not out_path.exists():
             prev_path = DATA / f"{(datetime.fromisoformat(out_date) - timedelta(days=1)).date().isoformat()}.json"
             if prev_path.exists():
@@ -289,6 +295,7 @@ def main() -> int:
                     prev = json.loads(prev_path.read_text(encoding="utf-8"))
                 except Exception:                    # noqa: BLE001
                     prev = None
+                # （下面的比较在后面用到 prev）
                 if prev and _same_except_stamp(prev, data):
                     print(f"[未更新] {out_date} 源站还是上一轮的配置，本次不写")
                     skipped += 1
