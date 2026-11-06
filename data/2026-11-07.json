@@ -1,0 +1,125 @@
+{
+ "date": "2026-11-07",
+ "page_date": "2026-11-07",
+ "fetched_at": "2026-11-06T16:00:08+08:00",
+ "updated": "05 Nov · 09:00",
+ "rotation_week": {
+  "start": "2026-11-03",
+  "end": "2026-11-09"
+ },
+ "missions": [
+  {
+   "loot_en": "Edelweiss GPz",
+   "loot_cn": "雪绒花 GPz※",
+   "category": "brand",
+   "uncertain": true,
+   "appearances": 10,
+   "last_seen": "2026-11-05",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "loot_src": "/assets/division2/brandsets/edelweissgpz.png?v=1791196677",
+   "icon": "assets/icons/brandsets/edelweissgpz.png",
+   "mission": "The Art Museum",
+   "mission_cn": "艺术博物馆",
+   "faction": "Rikers",
+   "faction_cn": "赖克斯帮"
+  },
+  {
+   "loot_en": "Gloves",
+   "loot_cn": "手套",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 15,
+   "last_seen": "2026-11-05",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gear/gloves.png?v=1791196680",
+   "icon": "assets/icons/gear/gloves.png",
+   "mission": "Manning National Zoo",
+   "mission_cn": "曼宁国家动物园",
+   "faction": "Outcasts",
+   "faction_cn": "流亡者"
+  },
+  {
+   "loot_en": "Backpack",
+   "loot_cn": "背包",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 11,
+   "last_seen": "2026-11-05",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gear/backpack.png?v=1791196679",
+   "icon": "assets/icons/gear/backpack.png",
+   "mission": "Camp White Oak",
+   "mission_cn": "白橡树营地",
+   "faction": "Black Tusk",
+   "faction_cn": "暗牙"
+  },
+  {
+   "loot_en": "Marksman Rifle",
+   "loot_cn": null,
+   "category": "unknown",
+   "uncertain": false,
+   "appearances": 14,
+   "last_seen": "2026-11-05",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "loot_src": "/assets/division2/weapons/mmr.png?v=1791196682",
+   "icon": "assets/icons/weapons/mmr.png",
+   "mission": "The Pentagon",
+   "mission_cn": "五角大楼",
+   "faction": "Black Tusk",
+   "faction_cn": "暗牙"
+  },
+  {
+   "loot_en": "Virtuoso",
+   "loot_cn": "名家※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 13,
+   "last_seen": "2026-11-05",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gearsets/virtuoso.png?v=1791196680",
+   "icon": "assets/icons/gearsets/virtuoso.png",
+   "mission": "DARPA Research Labs",
+   "mission_cn": "DARPA 研究实验室",
+   "faction": "Black Tusk",
+   "faction_cn": "暗牙"
+  }
+ ],
+ "caches": [
+  {
+   "loot_en": "Holsters",
+   "loot_cn": "枪套",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 25,
+   "last_seen": "2026-11-05",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gear/holster.png",
+   "icon": "assets/icons/gear/holster.png",
+   "name": "Prototype Gear Cache",
+   "name_cn": "原型装备缓存"
+  },
+  {
+   "loot_en": "LMGs",
+   "loot_cn": "轻机枪",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 24,
+   "last_seen": "2026-11-05",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "loot_src": "/assets/division2/weapons/lmg.png",
+   "icon": "assets/icons/weapons/lmg.png",
+   "name": "Prototype Weapon Cache",
+   "name_cn": "原型武器缓存"
+  }
+ ],
+ "unknown_names": [
+  "Marksman Rifle"
+ ]
+}
