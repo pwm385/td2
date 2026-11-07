@@ -237,6 +237,10 @@
     {
      "date": "2026-10-27",
      "appearances": 30
+    },
+    {
+     "date": "2026-11-08",
+     "appearances": 33
     }
    ]
   },
@@ -309,6 +313,38 @@
     {
      "date": "2026-11-04",
      "appearances": 15
+    }
+   ]
+  },
+  {
+   "loot_en": "Holster",
+   "loot_cn": "枪套",
+   "category": "slot",
+   "icon": "assets/icons/gear/holster.png",
+   "dates": [
+    {
+     "date": "2026-09-30",
+     "appearances": 11
+    },
+    {
+     "date": "2026-10-06",
+     "appearances": 12
+    },
+    {
+     "date": "2026-10-18",
+     "appearances": 13
+    },
+    {
+     "date": "2026-10-28",
+     "appearances": 14
+    },
+    {
+     "date": "2026-10-29",
+     "appearances": 15
+    },
+    {
+     "date": "2026-11-08",
+     "appearances": 16
     }
    ]
   },
@@ -469,34 +505,6 @@
    ]
   },
   {
-   "loot_en": "Holster",
-   "loot_cn": "枪套",
-   "category": "slot",
-   "icon": "assets/icons/gear/holster.png",
-   "dates": [
-    {
-     "date": "2026-09-30",
-     "appearances": 11
-    },
-    {
-     "date": "2026-10-06",
-     "appearances": 12
-    },
-    {
-     "date": "2026-10-18",
-     "appearances": 13
-    },
-    {
-     "date": "2026-10-28",
-     "appearances": 14
-    },
-    {
-     "date": "2026-10-29",
-     "appearances": 15
-    }
-   ]
-  },
-  {
    "loot_en": "Tip of the Spear",
    "loot_cn": "矛尖※",
    "category": "set",
@@ -633,6 +641,30 @@
    ]
   },
   {
+   "loot_en": "Unit Alloys",
+   "loot_cn": "联合合金※",
+   "category": "brand",
+   "icon": "assets/icons/brandsets/unitalloys.png",
+   "dates": [
+    {
+     "date": "2026-10-02",
+     "appearances": 14
+    },
+    {
+     "date": "2026-10-28",
+     "appearances": 15
+    },
+    {
+     "date": "2026-10-29",
+     "appearances": 16
+    },
+    {
+     "date": "2026-11-08",
+     "appearances": 17
+    }
+   ]
+  },
+  {
    "loot_en": "Tipping Scales",
    "loot_cn": "倾斜天平",
    "category": "set",
@@ -653,6 +685,30 @@
     {
      "date": "2026-10-29",
      "appearances": 16
+    }
+   ]
+  },
+  {
+   "loot_en": "Kneepads",
+   "loot_cn": "护膝",
+   "category": "slot",
+   "icon": "assets/icons/gear/kneepads.png",
+   "dates": [
+    {
+     "date": "2026-10-02",
+     "appearances": 30
+    },
+    {
+     "date": "2026-10-30",
+     "appearances": 32
+    },
+    {
+     "date": "2026-11-04",
+     "appearances": 33
+    },
+    {
+     "date": "2026-11-08",
+     "appearances": 34
     }
    ]
   },
@@ -725,6 +781,30 @@
     {
      "date": "2026-10-27",
      "appearances": 14
+    }
+   ]
+  },
+  {
+   "loot_en": "Negotiators Dilemma",
+   "loot_cn": "谈判者困境※",
+   "category": "set",
+   "icon": "assets/icons/gearsets/negotiatorsdilemma.png",
+   "dates": [
+    {
+     "date": "2026-10-05",
+     "appearances": 4
+    },
+    {
+     "date": "2026-10-15",
+     "appearances": 5
+    },
+    {
+     "date": "2026-10-25",
+     "appearances": 6
+    },
+    {
+     "date": "2026-11-08",
+     "appearances": 8
     }
    ]
   },
@@ -865,46 +945,6 @@
    ]
   },
   {
-   "loot_en": "Unit Alloys",
-   "loot_cn": "联合合金※",
-   "category": "brand",
-   "icon": "assets/icons/brandsets/unitalloys.png",
-   "dates": [
-    {
-     "date": "2026-10-02",
-     "appearances": 14
-    },
-    {
-     "date": "2026-10-28",
-     "appearances": 15
-    },
-    {
-     "date": "2026-10-29",
-     "appearances": 16
-    }
-   ]
-  },
-  {
-   "loot_en": "Kneepads",
-   "loot_cn": "护膝",
-   "category": "slot",
-   "icon": "assets/icons/gear/kneepads.png",
-   "dates": [
-    {
-     "date": "2026-10-02",
-     "appearances": 30
-    },
-    {
-     "date": "2026-10-30",
-     "appearances": 32
-    },
-    {
-     "date": "2026-11-04",
-     "appearances": 33
-    }
-   ]
-  },
-  {
    "loot_en": "Umbra Initiative",
    "loot_cn": "暗影行动※",
    "category": "set",
@@ -981,26 +1021,6 @@
     {
      "date": "2026-11-06",
      "appearances": 8
-    }
-   ]
-  },
-  {
-   "loot_en": "Negotiators Dilemma",
-   "loot_cn": "谈判者困境※",
-   "category": "set",
-   "icon": "assets/icons/gearsets/negotiatorsdilemma.png",
-   "dates": [
-    {
-     "date": "2026-10-05",
-     "appearances": 4
-    },
-    {
-     "date": "2026-10-15",
-     "appearances": 5
-    },
-    {
-     "date": "2026-10-25",
-     "appearances": 6
     }
    ]
   },
@@ -1533,6 +1553,22 @@
    ]
   },
   {
+   "loot_en": "Wyvern Wear",
+   "loot_cn": "飞龙纺织",
+   "category": "brand",
+   "icon": "assets/icons/brandsets/wyvernwear.png",
+   "dates": [
+    {
+     "date": "2026-10-30",
+     "appearances": 14
+    },
+    {
+     "date": "2026-11-08",
+     "appearances": 15
+    }
+   ]
+  },
+  {
    "loot_en": "Lengmo",
    "loot_cn": "冷魔※",
    "category": "brand",
@@ -1717,18 +1753,6 @@
    ]
   },
   {
-   "loot_en": "Wyvern Wear",
-   "loot_cn": "飞龙纺织",
-   "category": "brand",
-   "icon": "assets/icons/brandsets/wyvernwear.png",
-   "dates": [
-    {
-     "date": "2026-10-30",
-     "appearances": 14
-    }
-   ]
-  },
-  {
    "loot_en": "Murakami Industries",
    "loot_cn": "村上工业",
    "category": "brand",
@@ -1761,6 +1785,18 @@
     {
      "date": "2026-11-07",
      "appearances": 14
+    }
+   ]
+  },
+  {
+   "loot_en": "Douglas & Harding",
+   "loot_cn": "道格拉斯与哈定企业",
+   "category": "brand",
+   "icon": "assets/icons/brandsets/douglasharding.png",
+   "dates": [
+    {
+     "date": "2026-11-08",
+     "appearances": 11
     }
    ]
   }
