@@ -505,6 +505,34 @@
    ]
   },
   {
+   "loot_en": "SMGs",
+   "loot_cn": "冲锋枪",
+   "category": "slot",
+   "icon": "assets/icons/weapons/smg.png",
+   "dates": [
+    {
+     "date": "2026-10-02",
+     "appearances": 22
+    },
+    {
+     "date": "2026-10-20",
+     "appearances": 23
+    },
+    {
+     "date": "2026-11-05",
+     "appearances": 25
+    },
+    {
+     "date": "2026-11-06",
+     "appearances": 25
+    },
+    {
+     "date": "2026-11-09",
+     "appearances": 26
+    }
+   ]
+  },
+  {
    "loot_en": "Tip of the Spear",
    "loot_cn": "矛尖※",
    "category": "set",
@@ -713,30 +741,6 @@
    ]
   },
   {
-   "loot_en": "SMGs",
-   "loot_cn": "冲锋枪",
-   "category": "slot",
-   "icon": "assets/icons/weapons/smg.png",
-   "dates": [
-    {
-     "date": "2026-10-02",
-     "appearances": 22
-    },
-    {
-     "date": "2026-10-20",
-     "appearances": 23
-    },
-    {
-     "date": "2026-11-05",
-     "appearances": 25
-    },
-    {
-     "date": "2026-11-06",
-     "appearances": 25
-    }
-   ]
-  },
-  {
    "loot_en": "MMRs",
    "loot_cn": "精确射手步枪",
    "category": "slot",
@@ -857,6 +861,30 @@
    ]
   },
   {
+   "loot_en": "Holsters",
+   "loot_cn": "枪套",
+   "category": "slot",
+   "icon": "assets/icons/gear/holster.png",
+   "dates": [
+    {
+     "date": "2026-10-07",
+     "appearances": 22
+    },
+    {
+     "date": "2026-10-26",
+     "appearances": 23
+    },
+    {
+     "date": "2026-11-07",
+     "appearances": 25
+    },
+    {
+     "date": "2026-11-09",
+     "appearances": 26
+    }
+   ]
+  },
+  {
    "loot_en": "Hard Wired",
    "loot_cn": "硬连线※",
    "category": "set",
@@ -905,6 +933,54 @@
    ]
   },
   {
+   "loot_en": "Kneepad",
+   "loot_cn": "护膝",
+   "category": "slot",
+   "icon": "assets/icons/gear/kneepads.png",
+   "dates": [
+    {
+     "date": "2026-10-17",
+     "appearances": 7
+    },
+    {
+     "date": "2026-10-18",
+     "appearances": 8
+    },
+    {
+     "date": "2026-10-25",
+     "appearances": 9
+    },
+    {
+     "date": "2026-11-09",
+     "appearances": 11
+    }
+   ]
+  },
+  {
+   "loot_en": "Alps Summit Armaments",
+   "loot_cn": "阿尔卑斯山峰军事",
+   "category": "brand",
+   "icon": "assets/icons/brandsets/alpssummitarmaments.png",
+   "dates": [
+    {
+     "date": "2026-10-28",
+     "appearances": 9
+    },
+    {
+     "date": "2026-10-29",
+     "appearances": 10
+    },
+    {
+     "date": "2026-10-31",
+     "appearances": 11
+    },
+    {
+     "date": "2026-11-09",
+     "appearances": 12
+    }
+   ]
+  },
+  {
    "loot_en": "Electrique",
    "loot_cn": "电气※",
    "category": "set",
@@ -941,6 +1017,26 @@
     {
      "date": "2026-10-31",
      "appearances": 11
+    }
+   ]
+  },
+  {
+   "loot_en": "Legatus S.p.A.",
+   "loot_cn": "雷加图斯※",
+   "category": "brand",
+   "icon": "assets/icons/brandsets/legatusspa.png",
+   "dates": [
+    {
+     "date": "2026-10-01",
+     "appearances": 15
+    },
+    {
+     "date": "2026-10-08",
+     "appearances": 16
+    },
+    {
+     "date": "2026-11-09",
+     "appearances": 19
     }
    ]
   },
@@ -1085,26 +1181,6 @@
    ]
   },
   {
-   "loot_en": "Holsters",
-   "loot_cn": "枪套",
-   "category": "slot",
-   "icon": "assets/icons/gear/holster.png",
-   "dates": [
-    {
-     "date": "2026-10-07",
-     "appearances": 22
-    },
-    {
-     "date": "2026-10-26",
-     "appearances": 23
-    },
-    {
-     "date": "2026-11-07",
-     "appearances": 25
-    }
-   ]
-  },
-  {
    "loot_en": "Backpacks",
    "loot_cn": "背包",
    "category": "slot",
@@ -1205,22 +1281,22 @@
    ]
   },
   {
-   "loot_en": "Kneepad",
-   "loot_cn": "护膝",
-   "category": "slot",
-   "icon": "assets/icons/gear/kneepads.png",
+   "loot_en": "Cavalier",
+   "loot_cn": "骑士※",
+   "category": "set",
+   "icon": "assets/icons/gearsets/cavalier.png",
    "dates": [
     {
-     "date": "2026-10-17",
-     "appearances": 7
-    },
-    {
      "date": "2026-10-18",
-     "appearances": 8
+     "appearances": 11
     },
     {
-     "date": "2026-10-25",
-     "appearances": 9
+     "date": "2026-11-04",
+     "appearances": 14
+    },
+    {
+     "date": "2026-11-09",
+     "appearances": 15
     }
    ]
   },
@@ -1245,26 +1321,6 @@
    ]
   },
   {
-   "loot_en": "Alps Summit Armaments",
-   "loot_cn": "阿尔卑斯山峰军事",
-   "category": "brand",
-   "icon": "assets/icons/brandsets/alpssummitarmaments.png",
-   "dates": [
-    {
-     "date": "2026-10-28",
-     "appearances": 9
-    },
-    {
-     "date": "2026-10-29",
-     "appearances": 10
-    },
-    {
-     "date": "2026-10-31",
-     "appearances": 11
-    }
-   ]
-  },
-  {
    "loot_en": "Hana-U Corporation",
    "loot_cn": "哈瑙公司",
    "category": "brand",
@@ -1277,22 +1333,6 @@
     {
      "date": "2026-10-09",
      "appearances": 14
-    }
-   ]
-  },
-  {
-   "loot_en": "Legatus S.p.A.",
-   "loot_cn": "雷加图斯※",
-   "category": "brand",
-   "icon": "assets/icons/brandsets/legatusspa.png",
-   "dates": [
-    {
-     "date": "2026-10-01",
-     "appearances": 15
-    },
-    {
-     "date": "2026-10-08",
-     "appearances": 16
     }
    ]
   },
@@ -1457,6 +1497,22 @@
    ]
   },
   {
+   "loot_en": "LMG",
+   "loot_cn": "轻机枪",
+   "category": "slot",
+   "icon": "assets/icons/weapons/lmg.png",
+   "dates": [
+    {
+     "date": "2026-10-14",
+     "appearances": 16
+    },
+    {
+     "date": "2026-11-09",
+     "appearances": 18
+    }
+   ]
+  },
+  {
    "loot_en": "Shiny Monkey Gear",
    "loot_cn": "亮猴装备※",
    "category": "brand",
@@ -1501,22 +1557,6 @@
     {
      "date": "2026-10-22",
      "appearances": 13
-    }
-   ]
-  },
-  {
-   "loot_en": "Cavalier",
-   "loot_cn": "骑士※",
-   "category": "set",
-   "icon": "assets/icons/gearsets/cavalier.png",
-   "dates": [
-    {
-     "date": "2026-10-18",
-     "appearances": 11
-    },
-    {
-     "date": "2026-11-04",
-     "appearances": 14
     }
    ]
   },
@@ -1653,18 +1693,6 @@
     {
      "date": "2026-10-13",
      "appearances": 6
-    }
-   ]
-  },
-  {
-   "loot_en": "LMG",
-   "loot_cn": "轻机枪",
-   "category": "slot",
-   "icon": "assets/icons/weapons/lmg.png",
-   "dates": [
-    {
-     "date": "2026-10-14",
-     "appearances": 16
     }
    ]
   },

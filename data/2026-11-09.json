@@ -1,0 +1,123 @@
+{
+ "date": "2026-11-09",
+ "page_date": "2026-11-09",
+ "fetched_at": "2026-11-08T23:01:57+08:00",
+ "updated": "08 Nov · 09:01",
+ "rotation_week": {
+  "start": "2026-11-03",
+  "end": "2026-11-09"
+ },
+ "missions": [
+  {
+   "loot_en": "Legatus S.p.A.",
+   "loot_cn": "雷加图斯※",
+   "category": "brand",
+   "uncertain": true,
+   "appearances": 19,
+   "last_seen": "2026-11-08",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/brandsets/legatusspa.png?v=1791196678",
+   "icon": "assets/icons/brandsets/legatusspa.png",
+   "mission": "The Art Museum",
+   "mission_cn": "艺术博物馆",
+   "faction": "Rikers",
+   "faction_cn": "赖克斯帮"
+  },
+  {
+   "loot_en": "Kneepad",
+   "loot_cn": "护膝",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 11,
+   "last_seen": "2026-11-08",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gear/kneepads.png?v=1791196680",
+   "icon": "assets/icons/gear/kneepads.png",
+   "mission": "Manning National Zoo",
+   "mission_cn": "曼宁国家动物园",
+   "faction": "Outcasts",
+   "faction_cn": "流亡者"
+  },
+  {
+   "loot_en": "LMG",
+   "loot_cn": "轻机枪",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 18,
+   "last_seen": "2026-11-08",
+   "last_seen_en": "1 day ago",
+   "priority": true,
+   "loot_src": "/assets/division2/weapons/lmg.png?v=1791196682",
+   "icon": "assets/icons/weapons/lmg.png",
+   "mission": "Camp White Oak",
+   "mission_cn": "白橡树营地",
+   "faction": "Black Tusk",
+   "faction_cn": "暗牙"
+  },
+  {
+   "loot_en": "Alps Summit Armaments",
+   "loot_cn": "阿尔卑斯山峰军事",
+   "category": "brand",
+   "uncertain": false,
+   "appearances": 12,
+   "last_seen": "2026-11-08",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/brandsets/alpssummitarmaments.png?v=1791196677",
+   "icon": "assets/icons/brandsets/alpssummitarmaments.png",
+   "mission": "The Pentagon",
+   "mission_cn": "五角大楼",
+   "faction": "Black Tusk",
+   "faction_cn": "暗牙"
+  },
+  {
+   "loot_en": "Cavalier",
+   "loot_cn": "骑士※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 15,
+   "last_seen": "2026-11-08",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gearsets/cavalier.png?v=1791196680",
+   "icon": "assets/icons/gearsets/cavalier.png",
+   "mission": "DARPA Research Labs",
+   "mission_cn": "DARPA 研究实验室",
+   "faction": "Black Tusk",
+   "faction_cn": "暗牙"
+  }
+ ],
+ "caches": [
+  {
+   "loot_en": "Holsters",
+   "loot_cn": "枪套",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 26,
+   "last_seen": "2026-11-08",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gear/holster.png",
+   "icon": "assets/icons/gear/holster.png",
+   "name": "Prototype Gear Cache",
+   "name_cn": "原型装备缓存"
+  },
+  {
+   "loot_en": "SMGs",
+   "loot_cn": "冲锋枪",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 26,
+   "last_seen": "2026-11-08",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/weapons/smg.png",
+   "icon": "assets/icons/weapons/smg.png",
+   "name": "Prototype Weapon Cache",
+   "name_cn": "原型武器缓存"
+  }
+ ],
+ "unknown_names": []
+}
