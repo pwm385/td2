@@ -237,10 +237,6 @@
     {
      "date": "2026-10-27",
      "appearances": 30
-    },
-    {
-     "date": "2026-11-08",
-     "appearances": 33
     }
    ]
   },
@@ -317,38 +313,6 @@
    ]
   },
   {
-   "loot_en": "Holster",
-   "loot_cn": "枪套",
-   "category": "slot",
-   "icon": "assets/icons/gear/holster.png",
-   "dates": [
-    {
-     "date": "2026-09-30",
-     "appearances": 11
-    },
-    {
-     "date": "2026-10-06",
-     "appearances": 12
-    },
-    {
-     "date": "2026-10-18",
-     "appearances": 13
-    },
-    {
-     "date": "2026-10-28",
-     "appearances": 14
-    },
-    {
-     "date": "2026-10-29",
-     "appearances": 15
-    },
-    {
-     "date": "2026-11-08",
-     "appearances": 16
-    }
-   ]
-  },
-  {
    "loot_en": "Concentrated Company",
    "loot_cn": "精锐连※",
    "category": "set",
@@ -377,6 +341,38 @@
     {
      "date": "2026-11-02",
      "appearances": 18
+    }
+   ]
+  },
+  {
+   "loot_en": "SMGs",
+   "loot_cn": "冲锋枪",
+   "category": "slot",
+   "icon": "assets/icons/weapons/smg.png",
+   "dates": [
+    {
+     "date": "2026-10-02",
+     "appearances": 22
+    },
+    {
+     "date": "2026-10-20",
+     "appearances": 23
+    },
+    {
+     "date": "2026-11-05",
+     "appearances": 25
+    },
+    {
+     "date": "2026-11-06",
+     "appearances": 25
+    },
+    {
+     "date": "2026-11-08",
+     "appearances": 25
+    },
+    {
+     "date": "2026-11-09",
+     "appearances": 26
     }
    ]
   },
@@ -505,30 +501,30 @@
    ]
   },
   {
-   "loot_en": "SMGs",
-   "loot_cn": "冲锋枪",
+   "loot_en": "Holster",
+   "loot_cn": "枪套",
    "category": "slot",
-   "icon": "assets/icons/weapons/smg.png",
+   "icon": "assets/icons/gear/holster.png",
    "dates": [
     {
-     "date": "2026-10-02",
-     "appearances": 22
+     "date": "2026-09-30",
+     "appearances": 11
     },
     {
-     "date": "2026-10-20",
-     "appearances": 23
+     "date": "2026-10-06",
+     "appearances": 12
     },
     {
-     "date": "2026-11-05",
-     "appearances": 25
+     "date": "2026-10-18",
+     "appearances": 13
     },
     {
-     "date": "2026-11-06",
-     "appearances": 25
+     "date": "2026-10-28",
+     "appearances": 14
     },
     {
-     "date": "2026-11-09",
-     "appearances": 26
+     "date": "2026-10-29",
+     "appearances": 15
     }
    ]
   },
@@ -589,6 +585,34 @@
    ]
   },
   {
+   "loot_en": "Holsters",
+   "loot_cn": "枪套",
+   "category": "slot",
+   "icon": "assets/icons/gear/holster.png",
+   "dates": [
+    {
+     "date": "2026-10-07",
+     "appearances": 22
+    },
+    {
+     "date": "2026-10-26",
+     "appearances": 23
+    },
+    {
+     "date": "2026-11-07",
+     "appearances": 25
+    },
+    {
+     "date": "2026-11-08",
+     "appearances": 25
+    },
+    {
+     "date": "2026-11-09",
+     "appearances": 26
+    }
+   ]
+  },
+  {
    "loot_en": "Refactor",
    "loot_cn": "重构※",
    "category": "set",
@@ -645,6 +669,86 @@
    ]
   },
   {
+   "loot_en": "Kneepad",
+   "loot_cn": "护膝",
+   "category": "slot",
+   "icon": "assets/icons/gear/kneepads.png",
+   "dates": [
+    {
+     "date": "2026-10-17",
+     "appearances": 7
+    },
+    {
+     "date": "2026-10-18",
+     "appearances": 8
+    },
+    {
+     "date": "2026-10-25",
+     "appearances": 9
+    },
+    {
+     "date": "2026-11-08",
+     "appearances": 10
+    },
+    {
+     "date": "2026-11-09",
+     "appearances": 11
+    }
+   ]
+  },
+  {
+   "loot_en": "Alps Summit Armaments",
+   "loot_cn": "阿尔卑斯山峰军事",
+   "category": "brand",
+   "icon": "assets/icons/brandsets/alpssummitarmaments.png",
+   "dates": [
+    {
+     "date": "2026-10-28",
+     "appearances": 9
+    },
+    {
+     "date": "2026-10-29",
+     "appearances": 10
+    },
+    {
+     "date": "2026-10-31",
+     "appearances": 11
+    },
+    {
+     "date": "2026-11-08",
+     "appearances": 11
+    },
+    {
+     "date": "2026-11-09",
+     "appearances": 12
+    }
+   ]
+  },
+  {
+   "loot_en": "Legatus S.p.A.",
+   "loot_cn": "雷加图斯※",
+   "category": "brand",
+   "icon": "assets/icons/brandsets/legatusspa.png",
+   "dates": [
+    {
+     "date": "2026-10-01",
+     "appearances": 15
+    },
+    {
+     "date": "2026-10-08",
+     "appearances": 16
+    },
+    {
+     "date": "2026-11-08",
+     "appearances": 18
+    },
+    {
+     "date": "2026-11-09",
+     "appearances": 19
+    }
+   ]
+  },
+  {
    "loot_en": "Gear Mods",
    "loot_cn": "装备模块※",
    "category": "slot",
@@ -669,30 +773,6 @@
    ]
   },
   {
-   "loot_en": "Unit Alloys",
-   "loot_cn": "联合合金※",
-   "category": "brand",
-   "icon": "assets/icons/brandsets/unitalloys.png",
-   "dates": [
-    {
-     "date": "2026-10-02",
-     "appearances": 14
-    },
-    {
-     "date": "2026-10-28",
-     "appearances": 15
-    },
-    {
-     "date": "2026-10-29",
-     "appearances": 16
-    },
-    {
-     "date": "2026-11-08",
-     "appearances": 17
-    }
-   ]
-  },
-  {
    "loot_en": "Tipping Scales",
    "loot_cn": "倾斜天平",
    "category": "set",
@@ -713,30 +793,6 @@
     {
      "date": "2026-10-29",
      "appearances": 16
-    }
-   ]
-  },
-  {
-   "loot_en": "Kneepads",
-   "loot_cn": "护膝",
-   "category": "slot",
-   "icon": "assets/icons/gear/kneepads.png",
-   "dates": [
-    {
-     "date": "2026-10-02",
-     "appearances": 30
-    },
-    {
-     "date": "2026-10-30",
-     "appearances": 32
-    },
-    {
-     "date": "2026-11-04",
-     "appearances": 33
-    },
-    {
-     "date": "2026-11-08",
-     "appearances": 34
     }
    ]
   },
@@ -789,30 +845,6 @@
    ]
   },
   {
-   "loot_en": "Negotiators Dilemma",
-   "loot_cn": "谈判者困境※",
-   "category": "set",
-   "icon": "assets/icons/gearsets/negotiatorsdilemma.png",
-   "dates": [
-    {
-     "date": "2026-10-05",
-     "appearances": 4
-    },
-    {
-     "date": "2026-10-15",
-     "appearances": 5
-    },
-    {
-     "date": "2026-10-25",
-     "appearances": 6
-    },
-    {
-     "date": "2026-11-08",
-     "appearances": 8
-    }
-   ]
-  },
-  {
    "loot_en": "SMG",
    "loot_cn": "冲锋枪",
    "category": "slot",
@@ -857,30 +889,6 @@
     {
      "date": "2026-11-04",
      "appearances": 12
-    }
-   ]
-  },
-  {
-   "loot_en": "Holsters",
-   "loot_cn": "枪套",
-   "category": "slot",
-   "icon": "assets/icons/gear/holster.png",
-   "dates": [
-    {
-     "date": "2026-10-07",
-     "appearances": 22
-    },
-    {
-     "date": "2026-10-26",
-     "appearances": 23
-    },
-    {
-     "date": "2026-11-07",
-     "appearances": 25
-    },
-    {
-     "date": "2026-11-09",
-     "appearances": 26
     }
    ]
   },
@@ -933,50 +941,26 @@
    ]
   },
   {
-   "loot_en": "Kneepad",
-   "loot_cn": "护膝",
-   "category": "slot",
-   "icon": "assets/icons/gear/kneepads.png",
+   "loot_en": "Cavalier",
+   "loot_cn": "骑士※",
+   "category": "set",
+   "icon": "assets/icons/gearsets/cavalier.png",
    "dates": [
-    {
-     "date": "2026-10-17",
-     "appearances": 7
-    },
     {
      "date": "2026-10-18",
-     "appearances": 8
-    },
-    {
-     "date": "2026-10-25",
-     "appearances": 9
-    },
-    {
-     "date": "2026-11-09",
-     "appearances": 11
-    }
-   ]
-  },
-  {
-   "loot_en": "Alps Summit Armaments",
-   "loot_cn": "阿尔卑斯山峰军事",
-   "category": "brand",
-   "icon": "assets/icons/brandsets/alpssummitarmaments.png",
-   "dates": [
-    {
-     "date": "2026-10-28",
-     "appearances": 9
-    },
-    {
-     "date": "2026-10-29",
-     "appearances": 10
-    },
-    {
-     "date": "2026-10-31",
      "appearances": 11
     },
     {
+     "date": "2026-11-04",
+     "appearances": 14
+    },
+    {
+     "date": "2026-11-08",
+     "appearances": 14
+    },
+    {
      "date": "2026-11-09",
-     "appearances": 12
+     "appearances": 15
     }
    ]
   },
@@ -1021,22 +1005,42 @@
    ]
   },
   {
-   "loot_en": "Legatus S.p.A.",
-   "loot_cn": "雷加图斯※",
+   "loot_en": "Unit Alloys",
+   "loot_cn": "联合合金※",
    "category": "brand",
-   "icon": "assets/icons/brandsets/legatusspa.png",
+   "icon": "assets/icons/brandsets/unitalloys.png",
    "dates": [
     {
-     "date": "2026-10-01",
+     "date": "2026-10-02",
+     "appearances": 14
+    },
+    {
+     "date": "2026-10-28",
      "appearances": 15
     },
     {
-     "date": "2026-10-08",
+     "date": "2026-10-29",
      "appearances": 16
+    }
+   ]
+  },
+  {
+   "loot_en": "Kneepads",
+   "loot_cn": "护膝",
+   "category": "slot",
+   "icon": "assets/icons/gear/kneepads.png",
+   "dates": [
+    {
+     "date": "2026-10-02",
+     "appearances": 30
     },
     {
-     "date": "2026-11-09",
-     "appearances": 19
+     "date": "2026-10-30",
+     "appearances": 32
+    },
+    {
+     "date": "2026-11-04",
+     "appearances": 33
     }
    ]
   },
@@ -1117,6 +1121,26 @@
     {
      "date": "2026-11-06",
      "appearances": 8
+    }
+   ]
+  },
+  {
+   "loot_en": "Negotiators Dilemma",
+   "loot_cn": "谈判者困境※",
+   "category": "set",
+   "icon": "assets/icons/gearsets/negotiatorsdilemma.png",
+   "dates": [
+    {
+     "date": "2026-10-05",
+     "appearances": 4
+    },
+    {
+     "date": "2026-10-15",
+     "appearances": 5
+    },
+    {
+     "date": "2026-10-25",
+     "appearances": 6
     }
    ]
   },
@@ -1261,6 +1285,26 @@
    ]
   },
   {
+   "loot_en": "LMG",
+   "loot_cn": "轻机枪",
+   "category": "slot",
+   "icon": "assets/icons/weapons/lmg.png",
+   "dates": [
+    {
+     "date": "2026-10-14",
+     "appearances": 16
+    },
+    {
+     "date": "2026-11-08",
+     "appearances": 17
+    },
+    {
+     "date": "2026-11-09",
+     "appearances": 18
+    }
+   ]
+  },
+  {
    "loot_en": "Breaking Point",
    "loot_cn": "极限点※",
    "category": "set",
@@ -1277,26 +1321,6 @@
     {
      "date": "2026-10-22",
      "appearances": 14
-    }
-   ]
-  },
-  {
-   "loot_en": "Cavalier",
-   "loot_cn": "骑士※",
-   "category": "set",
-   "icon": "assets/icons/gearsets/cavalier.png",
-   "dates": [
-    {
-     "date": "2026-10-18",
-     "appearances": 11
-    },
-    {
-     "date": "2026-11-04",
-     "appearances": 14
-    },
-    {
-     "date": "2026-11-09",
-     "appearances": 15
     }
    ]
   },
@@ -1497,22 +1521,6 @@
    ]
   },
   {
-   "loot_en": "LMG",
-   "loot_cn": "轻机枪",
-   "category": "slot",
-   "icon": "assets/icons/weapons/lmg.png",
-   "dates": [
-    {
-     "date": "2026-10-14",
-     "appearances": 16
-    },
-    {
-     "date": "2026-11-09",
-     "appearances": 18
-    }
-   ]
-  },
-  {
    "loot_en": "Shiny Monkey Gear",
    "loot_cn": "亮猴装备※",
    "category": "brand",
@@ -1589,22 +1597,6 @@
     {
      "date": "2026-11-03",
      "appearances": 10
-    }
-   ]
-  },
-  {
-   "loot_en": "Wyvern Wear",
-   "loot_cn": "飞龙纺织",
-   "category": "brand",
-   "icon": "assets/icons/brandsets/wyvernwear.png",
-   "dates": [
-    {
-     "date": "2026-10-30",
-     "appearances": 14
-    },
-    {
-     "date": "2026-11-08",
-     "appearances": 15
     }
    ]
   },
@@ -1781,6 +1773,18 @@
    ]
   },
   {
+   "loot_en": "Wyvern Wear",
+   "loot_cn": "飞龙纺织",
+   "category": "brand",
+   "icon": "assets/icons/brandsets/wyvernwear.png",
+   "dates": [
+    {
+     "date": "2026-10-30",
+     "appearances": 14
+    }
+   ]
+  },
+  {
    "loot_en": "Murakami Industries",
    "loot_cn": "村上工业",
    "category": "brand",
@@ -1813,18 +1817,6 @@
     {
      "date": "2026-11-07",
      "appearances": 14
-    }
-   ]
-  },
-  {
-   "loot_en": "Douglas & Harding",
-   "loot_cn": "道格拉斯与哈定企业",
-   "category": "brand",
-   "icon": "assets/icons/brandsets/douglasharding.png",
-   "dates": [
-    {
-     "date": "2026-11-08",
-     "appearances": 11
     }
    ]
   }
