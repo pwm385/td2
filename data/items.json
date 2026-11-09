@@ -529,6 +529,34 @@
    ]
   },
   {
+   "loot_en": "Gear Mods",
+   "loot_cn": "装备模块※",
+   "category": "slot",
+   "icon": "assets/icons/gear/gearmod.png",
+   "dates": [
+    {
+     "date": "2026-10-01",
+     "appearances": 17
+    },
+    {
+     "date": "2026-10-04",
+     "appearances": 18
+    },
+    {
+     "date": "2026-10-05",
+     "appearances": 19
+    },
+    {
+     "date": "2026-10-14",
+     "appearances": 20
+    },
+    {
+     "date": "2026-11-10",
+     "appearances": 22
+    }
+   ]
+  },
+  {
    "loot_en": "Tip of the Spear",
    "loot_cn": "矛尖※",
    "category": "set",
@@ -749,30 +777,6 @@
    ]
   },
   {
-   "loot_en": "Gear Mods",
-   "loot_cn": "装备模块※",
-   "category": "slot",
-   "icon": "assets/icons/gear/gearmod.png",
-   "dates": [
-    {
-     "date": "2026-10-01",
-     "appearances": 17
-    },
-    {
-     "date": "2026-10-04",
-     "appearances": 18
-    },
-    {
-     "date": "2026-10-05",
-     "appearances": 19
-    },
-    {
-     "date": "2026-10-14",
-     "appearances": 20
-    }
-   ]
-  },
-  {
    "loot_en": "Tipping Scales",
    "loot_cn": "倾斜天平",
    "category": "set",
@@ -889,6 +893,30 @@
     {
      "date": "2026-11-04",
      "appearances": 12
+    }
+   ]
+  },
+  {
+   "loot_en": "Backpacks",
+   "loot_cn": "背包",
+   "category": "slot",
+   "icon": "assets/icons/gear/backpack.png",
+   "dates": [
+    {
+     "date": "2026-10-08",
+     "appearances": 24
+    },
+    {
+     "date": "2026-11-01",
+     "appearances": 25
+    },
+    {
+     "date": "2026-11-02",
+     "appearances": 26
+    },
+    {
+     "date": "2026-11-10",
+     "appearances": 27
     }
    ]
   },
@@ -1105,6 +1133,26 @@
    ]
   },
   {
+   "loot_en": "Assault Rifle",
+   "loot_cn": "突击步枪",
+   "category": "slot",
+   "icon": "assets/icons/weapons/ar.png",
+   "dates": [
+    {
+     "date": "2026-10-04",
+     "appearances": 7
+    },
+    {
+     "date": "2026-10-25",
+     "appearances": 8
+    },
+    {
+     "date": "2026-11-10",
+     "appearances": 10
+    }
+   ]
+  },
+  {
    "loot_en": "Hunters Fury",
    "loot_cn": "猎人之怒※",
    "category": "set",
@@ -1205,26 +1253,6 @@
    ]
   },
   {
-   "loot_en": "Backpacks",
-   "loot_cn": "背包",
-   "category": "slot",
-   "icon": "assets/icons/gear/backpack.png",
-   "dates": [
-    {
-     "date": "2026-10-08",
-     "appearances": 24
-    },
-    {
-     "date": "2026-11-01",
-     "appearances": 25
-    },
-    {
-     "date": "2026-11-02",
-     "appearances": 26
-    }
-   ]
-  },
-  {
    "loot_en": "Grupo Sombra S.A.",
    "loot_cn": "影子军团股份有限公司",
    "category": "brand",
@@ -1261,6 +1289,26 @@
     {
      "date": "2026-11-07",
      "appearances": 10
+    }
+   ]
+  },
+  {
+   "loot_en": "Pistol",
+   "loot_cn": "手枪",
+   "category": "slot",
+   "icon": "assets/icons/weapons/pistol.png",
+   "dates": [
+    {
+     "date": "2026-10-11",
+     "appearances": 13
+    },
+    {
+     "date": "2026-11-04",
+     "appearances": 15
+    },
+    {
+     "date": "2026-11-10",
+     "appearances": 16
     }
    ]
   },
@@ -1409,22 +1457,6 @@
    ]
   },
   {
-   "loot_en": "Assault Rifle",
-   "loot_cn": "突击步枪",
-   "category": "slot",
-   "icon": "assets/icons/weapons/ar.png",
-   "dates": [
-    {
-     "date": "2026-10-04",
-     "appearances": 7
-    },
-    {
-     "date": "2026-10-25",
-     "appearances": 8
-    }
-   ]
-  },
-  {
    "loot_en": "Backpack",
    "loot_cn": "背包",
    "category": "slot",
@@ -1500,22 +1532,6 @@
     },
     {
      "date": "2026-10-13",
-     "appearances": 15
-    }
-   ]
-  },
-  {
-   "loot_en": "Pistol",
-   "loot_cn": "手枪",
-   "category": "slot",
-   "icon": "assets/icons/weapons/pistol.png",
-   "dates": [
-    {
-     "date": "2026-10-11",
-     "appearances": 13
-    },
-    {
-     "date": "2026-11-04",
      "appearances": 15
     }
    ]
@@ -1597,6 +1613,22 @@
     {
      "date": "2026-11-03",
      "appearances": 10
+    }
+   ]
+  },
+  {
+   "loot_en": "Pistols",
+   "loot_cn": "手枪",
+   "category": "slot",
+   "icon": "assets/icons/weapons/pistol.png",
+   "dates": [
+    {
+     "date": "2026-10-30",
+     "appearances": 22
+    },
+    {
+     "date": "2026-11-10",
+     "appearances": 23
     }
    ]
   },
@@ -1797,18 +1829,6 @@
    ]
   },
   {
-   "loot_en": "Pistols",
-   "loot_cn": "手枪",
-   "category": "slot",
-   "icon": "assets/icons/weapons/pistol.png",
-   "dates": [
-    {
-     "date": "2026-10-30",
-     "appearances": 22
-    }
-   ]
-  },
-  {
    "loot_en": "Marksman Rifle",
    "loot_cn": null,
    "category": "unknown",
@@ -1817,6 +1837,30 @@
     {
      "date": "2026-11-07",
      "appearances": 14
+    }
+   ]
+  },
+  {
+   "loot_en": "Golan Gear Ltd",
+   "loot_cn": "戈兰装备有限公司",
+   "category": "brand",
+   "icon": "assets/icons/brandsets/golangearltd.png",
+   "dates": [
+    {
+     "date": "2026-11-10",
+     "appearances": 13
+    }
+   ]
+  },
+  {
+   "loot_en": "Ember Engine",
+   "loot_cn": "余烬引擎※",
+   "category": "brand",
+   "icon": "assets/icons/gearsets/emberengine.png",
+   "dates": [
+    {
+     "date": "2026-11-10",
+     "appearances": 3
     }
    ]
   }
