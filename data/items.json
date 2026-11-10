@@ -313,6 +313,38 @@
    ]
   },
   {
+   "loot_en": "Gear Mods",
+   "loot_cn": "装备模块※",
+   "category": "slot",
+   "icon": "assets/icons/gear/gearmod.png",
+   "dates": [
+    {
+     "date": "2026-10-01",
+     "appearances": 17
+    },
+    {
+     "date": "2026-10-04",
+     "appearances": 18
+    },
+    {
+     "date": "2026-10-05",
+     "appearances": 19
+    },
+    {
+     "date": "2026-10-14",
+     "appearances": 20
+    },
+    {
+     "date": "2026-11-10",
+     "appearances": 22
+    },
+    {
+     "date": "2026-11-11",
+     "appearances": 22
+    }
+   ]
+  },
+  {
    "loot_en": "Concentrated Company",
    "loot_cn": "精锐连※",
    "category": "set",
@@ -529,34 +561,6 @@
    ]
   },
   {
-   "loot_en": "Gear Mods",
-   "loot_cn": "装备模块※",
-   "category": "slot",
-   "icon": "assets/icons/gear/gearmod.png",
-   "dates": [
-    {
-     "date": "2026-10-01",
-     "appearances": 17
-    },
-    {
-     "date": "2026-10-04",
-     "appearances": 18
-    },
-    {
-     "date": "2026-10-05",
-     "appearances": 19
-    },
-    {
-     "date": "2026-10-14",
-     "appearances": 20
-    },
-    {
-     "date": "2026-11-10",
-     "appearances": 22
-    }
-   ]
-  },
-  {
    "loot_en": "Tip of the Spear",
    "loot_cn": "矛尖※",
    "category": "set",
@@ -637,6 +641,34 @@
     {
      "date": "2026-11-09",
      "appearances": 26
+    }
+   ]
+  },
+  {
+   "loot_en": "Backpacks",
+   "loot_cn": "背包",
+   "category": "slot",
+   "icon": "assets/icons/gear/backpack.png",
+   "dates": [
+    {
+     "date": "2026-10-08",
+     "appearances": 24
+    },
+    {
+     "date": "2026-11-01",
+     "appearances": 25
+    },
+    {
+     "date": "2026-11-02",
+     "appearances": 26
+    },
+    {
+     "date": "2026-11-10",
+     "appearances": 27
+    },
+    {
+     "date": "2026-11-11",
+     "appearances": 27
     }
    ]
   },
@@ -825,6 +857,30 @@
    ]
   },
   {
+   "loot_en": "Assault Rifle",
+   "loot_cn": "突击步枪",
+   "category": "slot",
+   "icon": "assets/icons/weapons/ar.png",
+   "dates": [
+    {
+     "date": "2026-10-04",
+     "appearances": 7
+    },
+    {
+     "date": "2026-10-25",
+     "appearances": 8
+    },
+    {
+     "date": "2026-11-10",
+     "appearances": 10
+    },
+    {
+     "date": "2026-11-11",
+     "appearances": 10
+    }
+   ]
+  },
+  {
    "loot_en": "Gila Guard",
    "loot_cn": "毒蜥守卫队",
    "category": "brand",
@@ -897,26 +953,26 @@
    ]
   },
   {
-   "loot_en": "Backpacks",
-   "loot_cn": "背包",
+   "loot_en": "Pistol",
+   "loot_cn": "手枪",
    "category": "slot",
-   "icon": "assets/icons/gear/backpack.png",
+   "icon": "assets/icons/weapons/pistol.png",
    "dates": [
     {
-     "date": "2026-10-08",
-     "appearances": 24
+     "date": "2026-10-11",
+     "appearances": 13
     },
     {
-     "date": "2026-11-01",
-     "appearances": 25
-    },
-    {
-     "date": "2026-11-02",
-     "appearances": 26
+     "date": "2026-11-04",
+     "appearances": 15
     },
     {
      "date": "2026-11-10",
-     "appearances": 27
+     "appearances": 16
+    },
+    {
+     "date": "2026-11-11",
+     "appearances": 16
     }
    ]
   },
@@ -1133,26 +1189,6 @@
    ]
   },
   {
-   "loot_en": "Assault Rifle",
-   "loot_cn": "突击步枪",
-   "category": "slot",
-   "icon": "assets/icons/weapons/ar.png",
-   "dates": [
-    {
-     "date": "2026-10-04",
-     "appearances": 7
-    },
-    {
-     "date": "2026-10-25",
-     "appearances": 8
-    },
-    {
-     "date": "2026-11-10",
-     "appearances": 10
-    }
-   ]
-  },
-  {
    "loot_en": "Hunters Fury",
    "loot_cn": "猎人之怒※",
    "category": "set",
@@ -1293,26 +1329,6 @@
    ]
   },
   {
-   "loot_en": "Pistol",
-   "loot_cn": "手枪",
-   "category": "slot",
-   "icon": "assets/icons/weapons/pistol.png",
-   "dates": [
-    {
-     "date": "2026-10-11",
-     "appearances": 13
-    },
-    {
-     "date": "2026-11-04",
-     "appearances": 15
-    },
-    {
-     "date": "2026-11-10",
-     "appearances": 16
-    }
-   ]
-  },
-  {
    "loot_en": "Airaldi Holdings",
    "loot_cn": "阿尔拉蒂企业",
    "category": "brand",
@@ -1389,6 +1405,26 @@
     {
      "date": "2026-11-06",
      "appearances": 18
+    }
+   ]
+  },
+  {
+   "loot_en": "Pistols",
+   "loot_cn": "手枪",
+   "category": "slot",
+   "icon": "assets/icons/weapons/pistol.png",
+   "dates": [
+    {
+     "date": "2026-10-30",
+     "appearances": 22
+    },
+    {
+     "date": "2026-11-10",
+     "appearances": 23
+    },
+    {
+     "date": "2026-11-11",
+     "appearances": 23
     }
    ]
   },
@@ -1617,22 +1653,6 @@
    ]
   },
   {
-   "loot_en": "Pistols",
-   "loot_cn": "手枪",
-   "category": "slot",
-   "icon": "assets/icons/weapons/pistol.png",
-   "dates": [
-    {
-     "date": "2026-10-30",
-     "appearances": 22
-    },
-    {
-     "date": "2026-11-10",
-     "appearances": 23
-    }
-   ]
-  },
-  {
    "loot_en": "Lengmo",
    "loot_cn": "冷魔※",
    "category": "brand",
@@ -1645,6 +1665,38 @@
     {
      "date": "2026-11-02",
      "appearances": 14
+    }
+   ]
+  },
+  {
+   "loot_en": "Golan Gear Ltd",
+   "loot_cn": "戈兰装备有限公司",
+   "category": "brand",
+   "icon": "assets/icons/brandsets/golangearltd.png",
+   "dates": [
+    {
+     "date": "2026-11-10",
+     "appearances": 13
+    },
+    {
+     "date": "2026-11-11",
+     "appearances": 13
+    }
+   ]
+  },
+  {
+   "loot_en": "Ember Engine",
+   "loot_cn": "余烬引擎※",
+   "category": "brand",
+   "icon": "assets/icons/gearsets/emberengine.png",
+   "dates": [
+    {
+     "date": "2026-11-10",
+     "appearances": 3
+    },
+    {
+     "date": "2026-11-11",
+     "appearances": 3
     }
    ]
   },
@@ -1837,30 +1889,6 @@
     {
      "date": "2026-11-07",
      "appearances": 14
-    }
-   ]
-  },
-  {
-   "loot_en": "Golan Gear Ltd",
-   "loot_cn": "戈兰装备有限公司",
-   "category": "brand",
-   "icon": "assets/icons/brandsets/golangearltd.png",
-   "dates": [
-    {
-     "date": "2026-11-10",
-     "appearances": 13
-    }
-   ]
-  },
-  {
-   "loot_en": "Ember Engine",
-   "loot_cn": "余烬引擎※",
-   "category": "brand",
-   "icon": "assets/icons/gearsets/emberengine.png",
-   "dates": [
-    {
-     "date": "2026-11-10",
-     "appearances": 3
     }
    ]
   }

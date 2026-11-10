@@ -1,0 +1,123 @@
+{
+ "date": "2026-11-11",
+ "page_date": "2026-11-11",
+ "fetched_at": "2026-11-10T16:00:09+08:00",
+ "updated": "09 Nov · 09:01",
+ "rotation_week": {
+  "start": "2026-11-10",
+  "end": "2026-11-16"
+ },
+ "missions": [
+  {
+   "loot_en": "Golan Gear Ltd",
+   "loot_cn": "戈兰装备有限公司",
+   "category": "brand",
+   "uncertain": false,
+   "appearances": 13,
+   "last_seen": "2026-11-09",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "loot_src": "/assets/division2/brandsets/golangearltd.png?v=1791196678",
+   "icon": "assets/icons/brandsets/golangearltd.png",
+   "mission": "The Art Museum",
+   "mission_cn": "艺术博物馆",
+   "faction": "Rikers",
+   "faction_cn": "赖克斯帮"
+  },
+  {
+   "loot_en": "Assault Rifle",
+   "loot_cn": "突击步枪",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 10,
+   "last_seen": "2026-11-09",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "loot_src": "/assets/division2/weapons/ar.png?v=1791196682",
+   "icon": "assets/icons/weapons/ar.png",
+   "mission": "Manning National Zoo",
+   "mission_cn": "曼宁国家动物园",
+   "faction": "Outcasts",
+   "faction_cn": "流亡者"
+  },
+  {
+   "loot_en": "Ember Engine",
+   "loot_cn": "余烬引擎※",
+   "category": "brand",
+   "uncertain": true,
+   "appearances": 3,
+   "last_seen": "2026-11-09",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gearsets/emberengine.png?v=1791196680",
+   "icon": "assets/icons/gearsets/emberengine.png",
+   "mission": "Camp White Oak",
+   "mission_cn": "白橡树营地",
+   "faction": "Black Tusk",
+   "faction_cn": "暗牙"
+  },
+  {
+   "loot_en": "Gear Mods",
+   "loot_cn": "装备模块※",
+   "category": "slot",
+   "uncertain": true,
+   "appearances": 22,
+   "last_seen": "2026-11-09",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gear/gearmod.png?v=1791196679",
+   "icon": "assets/icons/gear/gearmod.png",
+   "mission": "The Pentagon",
+   "mission_cn": "五角大楼",
+   "faction": "Black Tusk",
+   "faction_cn": "暗牙"
+  },
+  {
+   "loot_en": "Pistol",
+   "loot_cn": "手枪",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 16,
+   "last_seen": "2026-11-09",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "loot_src": "/assets/division2/weapons/pistol.png?v=1791196682",
+   "icon": "assets/icons/weapons/pistol.png",
+   "mission": "DARPA Research Labs",
+   "mission_cn": "DARPA 研究实验室",
+   "faction": "Black Tusk",
+   "faction_cn": "暗牙"
+  }
+ ],
+ "caches": [
+  {
+   "loot_en": "Backpacks",
+   "loot_cn": "背包",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 27,
+   "last_seen": "2026-11-09",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gear/backpack.png",
+   "icon": "assets/icons/gear/backpack.png",
+   "name": "Prototype Gear Cache",
+   "name_cn": "原型装备缓存"
+  },
+  {
+   "loot_en": "Pistols",
+   "loot_cn": "手枪",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 23,
+   "last_seen": "2026-11-09",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "loot_src": "/assets/division2/weapons/pistol.png",
+   "icon": "assets/icons/weapons/pistol.png",
+   "name": "Prototype Weapon Cache",
+   "name_cn": "原型武器缓存"
+  }
+ ],
+ "unknown_names": []
+}
