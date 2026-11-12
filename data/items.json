@@ -277,6 +277,10 @@
     {
      "date": "2026-10-29",
      "appearances": 25
+    },
+    {
+     "date": "2026-11-13",
+     "appearances": 27
     }
    ]
   },
@@ -445,6 +449,38 @@
    ]
   },
   {
+   "loot_en": "Holsters",
+   "loot_cn": "枪套",
+   "category": "slot",
+   "icon": "assets/icons/gear/holster.png",
+   "dates": [
+    {
+     "date": "2026-10-07",
+     "appearances": 22
+    },
+    {
+     "date": "2026-10-26",
+     "appearances": 23
+    },
+    {
+     "date": "2026-11-07",
+     "appearances": 25
+    },
+    {
+     "date": "2026-11-08",
+     "appearances": 25
+    },
+    {
+     "date": "2026-11-09",
+     "appearances": 26
+    },
+    {
+     "date": "2026-11-13",
+     "appearances": 27
+    }
+   ]
+  },
+  {
    "loot_en": "Petrov Defense Group",
    "loot_cn": "彼得罗夫防御集团",
    "category": "brand",
@@ -537,6 +573,38 @@
     {
      "date": "2026-11-07",
      "appearances": 24
+    }
+   ]
+  },
+  {
+   "loot_en": "Alps Summit Armaments",
+   "loot_cn": "阿尔卑斯山峰军事",
+   "category": "brand",
+   "icon": "assets/icons/brandsets/alpssummitarmaments.png",
+   "dates": [
+    {
+     "date": "2026-10-28",
+     "appearances": 9
+    },
+    {
+     "date": "2026-10-29",
+     "appearances": 10
+    },
+    {
+     "date": "2026-10-31",
+     "appearances": 11
+    },
+    {
+     "date": "2026-11-08",
+     "appearances": 11
+    },
+    {
+     "date": "2026-11-09",
+     "appearances": 12
+    },
+    {
+     "date": "2026-11-13",
+     "appearances": 13
     }
    ]
   },
@@ -653,34 +721,6 @@
    ]
   },
   {
-   "loot_en": "Holsters",
-   "loot_cn": "枪套",
-   "category": "slot",
-   "icon": "assets/icons/gear/holster.png",
-   "dates": [
-    {
-     "date": "2026-10-07",
-     "appearances": 22
-    },
-    {
-     "date": "2026-10-26",
-     "appearances": 23
-    },
-    {
-     "date": "2026-11-07",
-     "appearances": 25
-    },
-    {
-     "date": "2026-11-08",
-     "appearances": 25
-    },
-    {
-     "date": "2026-11-09",
-     "appearances": 26
-    }
-   ]
-  },
-  {
    "loot_en": "Backpacks",
    "loot_cn": "背包",
    "category": "slot",
@@ -789,34 +829,6 @@
     {
      "date": "2026-11-09",
      "appearances": 11
-    }
-   ]
-  },
-  {
-   "loot_en": "Alps Summit Armaments",
-   "loot_cn": "阿尔卑斯山峰军事",
-   "category": "brand",
-   "icon": "assets/icons/brandsets/alpssummitarmaments.png",
-   "dates": [
-    {
-     "date": "2026-10-28",
-     "appearances": 9
-    },
-    {
-     "date": "2026-10-29",
-     "appearances": 10
-    },
-    {
-     "date": "2026-10-31",
-     "appearances": 11
-    },
-    {
-     "date": "2026-11-08",
-     "appearances": 11
-    },
-    {
-     "date": "2026-11-09",
-     "appearances": 12
     }
    ]
   },
@@ -1009,6 +1021,30 @@
     {
      "date": "2026-11-04",
      "appearances": 12
+    }
+   ]
+  },
+  {
+   "loot_en": "Foundry Bulwark",
+   "loot_cn": "铸城壁垒※",
+   "category": "set",
+   "icon": "assets/icons/gearsets/foundrybulwark.png",
+   "dates": [
+    {
+     "date": "2026-10-07",
+     "appearances": 6
+    },
+    {
+     "date": "2026-10-20",
+     "appearances": 7
+    },
+    {
+     "date": "2026-10-26",
+     "appearances": 8
+    },
+    {
+     "date": "2026-11-13",
+     "appearances": 10
     }
    ]
   },
@@ -1313,26 +1349,6 @@
    ]
   },
   {
-   "loot_en": "Foundry Bulwark",
-   "loot_cn": "铸城壁垒※",
-   "category": "set",
-   "icon": "assets/icons/gearsets/foundrybulwark.png",
-   "dates": [
-    {
-     "date": "2026-10-07",
-     "appearances": 6
-    },
-    {
-     "date": "2026-10-20",
-     "appearances": 7
-    },
-    {
-     "date": "2026-10-26",
-     "appearances": 8
-    }
-   ]
-  },
-  {
    "loot_en": "Grupo Sombra S.A.",
    "loot_cn": "影子军团股份有限公司",
    "category": "brand",
@@ -1413,6 +1429,26 @@
    ]
   },
   {
+   "loot_en": "Belstone Armory",
+   "loot_cn": "贝尔斯通军火",
+   "category": "brand",
+   "icon": "assets/icons/brandsets/belstonearmory.png",
+   "dates": [
+    {
+     "date": "2026-10-16",
+     "appearances": 8
+    },
+    {
+     "date": "2026-10-30",
+     "appearances": 10
+    },
+    {
+     "date": "2026-11-13",
+     "appearances": 11
+    }
+   ]
+  },
+  {
    "loot_en": "Sokolov Concern",
    "loot_cn": "索寇罗夫企业",
    "category": "brand",
@@ -1449,6 +1485,26 @@
     {
      "date": "2026-11-11",
      "appearances": 23
+    }
+   ]
+  },
+  {
+   "loot_en": "Lengmo",
+   "loot_cn": "冷魔※",
+   "category": "brand",
+   "icon": "assets/icons/brandsets/lengmo.png",
+   "dates": [
+    {
+     "date": "2026-11-01",
+     "appearances": 13
+    },
+    {
+     "date": "2026-11-02",
+     "appearances": 14
+    },
+    {
+     "date": "2026-11-13",
+     "appearances": 15
     }
    ]
   },
@@ -1613,22 +1669,6 @@
    ]
   },
   {
-   "loot_en": "Belstone Armory",
-   "loot_cn": "贝尔斯通军火",
-   "category": "brand",
-   "icon": "assets/icons/brandsets/belstonearmory.png",
-   "dates": [
-    {
-     "date": "2026-10-16",
-     "appearances": 8
-    },
-    {
-     "date": "2026-10-30",
-     "appearances": 10
-    }
-   ]
-  },
-  {
    "loot_en": "Royal Works",
    "loot_cn": "皇家工坊※",
    "category": "brand",
@@ -1661,6 +1701,22 @@
    ]
   },
   {
+   "loot_en": "Aces & Eights",
+   "loot_cn": "王牌与八点※",
+   "category": "set",
+   "icon": "assets/icons/gearsets/aceseights.png",
+   "dates": [
+    {
+     "date": "2026-10-21",
+     "appearances": 15
+    },
+    {
+     "date": "2026-11-13",
+     "appearances": 17
+    }
+   ]
+  },
+  {
    "loot_en": "Ortiz Exuro",
    "loot_cn": "奥提兹：燃烬",
    "category": "set",
@@ -1689,22 +1745,6 @@
     {
      "date": "2026-11-12",
      "appearances": 15
-    }
-   ]
-  },
-  {
-   "loot_en": "Lengmo",
-   "loot_cn": "冷魔※",
-   "category": "brand",
-   "icon": "assets/icons/brandsets/lengmo.png",
-   "dates": [
-    {
-     "date": "2026-11-01",
-     "appearances": 13
-    },
-    {
-     "date": "2026-11-02",
-     "appearances": 14
     }
    ]
   },
@@ -1845,18 +1885,6 @@
     {
      "date": "2026-10-19",
      "appearances": 9
-    }
-   ]
-  },
-  {
-   "loot_en": "Aces & Eights",
-   "loot_cn": "王牌与八点※",
-   "category": "set",
-   "icon": "assets/icons/gearsets/aceseights.png",
-   "dates": [
-    {
-     "date": "2026-10-21",
-     "appearances": 15
     }
    ]
   },

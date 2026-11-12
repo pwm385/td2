@@ -1,0 +1,123 @@
+{
+ "date": "2026-11-13",
+ "page_date": "2026-11-13",
+ "fetched_at": "2026-11-12T16:00:06+08:00",
+ "updated": "11 Nov · 09:00",
+ "rotation_week": {
+  "start": "2026-11-10",
+  "end": "2026-11-16"
+ },
+ "missions": [
+  {
+   "loot_en": "Foundry Bulwark",
+   "loot_cn": "铸城壁垒※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 10,
+   "last_seen": "2026-11-11",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gearsets/foundrybulwark.png?v=1791196680",
+   "icon": "assets/icons/gearsets/foundrybulwark.png",
+   "mission": "The Tombs",
+   "mission_cn": "坟墓",
+   "faction": "Rikers",
+   "faction_cn": "赖克斯帮"
+  },
+  {
+   "loot_en": "Alps Summit Armaments",
+   "loot_cn": "阿尔卑斯山峰军事",
+   "category": "brand",
+   "uncertain": false,
+   "appearances": 13,
+   "last_seen": "2026-11-11",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "loot_src": "/assets/division2/brandsets/alpssummitarmaments.png?v=1791196677",
+   "icon": "assets/icons/brandsets/alpssummitarmaments.png",
+   "mission": "Manning National Zoo",
+   "mission_cn": "曼宁国家动物园",
+   "faction": "Outcasts",
+   "faction_cn": "流亡者"
+  },
+  {
+   "loot_en": "Lengmo",
+   "loot_cn": "冷魔※",
+   "category": "brand",
+   "uncertain": true,
+   "appearances": 15,
+   "last_seen": "2026-11-11",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "loot_src": "/assets/division2/brandsets/lengmo.png?v=1791196678",
+   "icon": "assets/icons/brandsets/lengmo.png",
+   "mission": "Bank Headquarters",
+   "mission_cn": "银行总部",
+   "faction": "Hyenas",
+   "faction_cn": "鬣狗"
+  },
+  {
+   "loot_en": "Belstone Armory",
+   "loot_cn": "贝尔斯通军火",
+   "category": "brand",
+   "uncertain": false,
+   "appearances": 11,
+   "last_seen": "2026-11-11",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "loot_src": "/assets/division2/brandsets/belstonearmory.png?v=1791196677",
+   "icon": "assets/icons/brandsets/belstonearmory.png",
+   "mission": "American History Museum",
+   "mission_cn": "美国历史博物馆",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  },
+  {
+   "loot_en": "Aces & Eights",
+   "loot_cn": "王牌与八点※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 17,
+   "last_seen": "2026-11-11",
+   "last_seen_en": "2 days ago",
+   "priority": true,
+   "loot_src": "/assets/division2/gearsets/aceseights.png?v=1791196680",
+   "icon": "assets/icons/gearsets/aceseights.png",
+   "mission": "Space Administration HQ",
+   "mission_cn": "太空管理局总部",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  }
+ ],
+ "caches": [
+  {
+   "loot_en": "Holsters",
+   "loot_cn": "枪套",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 27,
+   "last_seen": "2026-11-11",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gear/holster.png",
+   "icon": "assets/icons/gear/holster.png",
+   "name": "Prototype Gear Cache",
+   "name_cn": "原型装备缓存"
+  },
+  {
+   "loot_en": "Assault Rifles",
+   "loot_cn": "突击步枪",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 27,
+   "last_seen": "2026-11-11",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "loot_src": "/assets/division2/weapons/ar.png",
+   "icon": "assets/icons/weapons/ar.png",
+   "name": "Prototype Weapon Cache",
+   "name_cn": "原型武器缓存"
+  }
+ ],
+ "unknown_names": []
+}
