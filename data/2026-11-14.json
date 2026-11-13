@@ -1,0 +1,123 @@
+{
+ "date": "2026-11-14",
+ "page_date": "2026-11-14",
+ "fetched_at": "2026-11-13T16:29:32+08:00",
+ "updated": "13 Nov · 09:00",
+ "rotation_week": {
+  "start": "2026-11-10",
+  "end": "2026-11-16"
+ },
+ "missions": [
+  {
+   "loot_en": "Shiny Monkey Gear",
+   "loot_cn": "亮猴装备※",
+   "category": "brand",
+   "uncertain": true,
+   "appearances": 13,
+   "last_seen": "2026-11-13",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/brandsets/shinymonkeygear.png?v=1791196678",
+   "icon": "assets/icons/brandsets/shinymonkeygear.png",
+   "mission": "The Tombs",
+   "mission_cn": "坟墓",
+   "faction": "Rikers",
+   "faction_cn": "赖克斯帮"
+  },
+  {
+   "loot_en": "Belstone Armory",
+   "loot_cn": "贝尔斯通军火",
+   "category": "brand",
+   "uncertain": false,
+   "appearances": 12,
+   "last_seen": "2026-11-13",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/brandsets/belstonearmory.png?v=1791196677",
+   "icon": "assets/icons/brandsets/belstonearmory.png",
+   "mission": "Manning National Zoo",
+   "mission_cn": "曼宁国家动物园",
+   "faction": "Outcasts",
+   "faction_cn": "流亡者"
+  },
+  {
+   "loot_en": "Gloves",
+   "loot_cn": "手套",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 16,
+   "last_seen": "2026-11-13",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gear/gloves.png?v=1791196680",
+   "icon": "assets/icons/gear/gloves.png",
+   "mission": "Bank Headquarters",
+   "mission_cn": "银行总部",
+   "faction": "Hyenas",
+   "faction_cn": "鬣狗"
+  },
+  {
+   "loot_en": "Assault Rifle",
+   "loot_cn": "突击步枪",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 11,
+   "last_seen": "2026-11-13",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/weapons/ar.png?v=1791196682",
+   "icon": "assets/icons/weapons/ar.png",
+   "mission": "American History Museum",
+   "mission_cn": "美国历史博物馆",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  },
+  {
+   "loot_en": "Rigger",
+   "loot_cn": "索具工※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 12,
+   "last_seen": "2026-11-13",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gearsets/rigger.png?v=1791196680",
+   "icon": "assets/icons/gearsets/rigger.png",
+   "mission": "Space Administration HQ",
+   "mission_cn": "太空管理局总部",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  }
+ ],
+ "caches": [
+  {
+   "loot_en": "Holsters",
+   "loot_cn": "枪套",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 28,
+   "last_seen": "2026-11-13",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gear/holster.png",
+   "icon": "assets/icons/gear/holster.png",
+   "name": "Prototype Gear Cache",
+   "name_cn": "原型装备缓存"
+  },
+  {
+   "loot_en": "Pistols",
+   "loot_cn": "手枪",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 24,
+   "last_seen": "2026-11-13",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/weapons/pistol.png",
+   "icon": "assets/icons/weapons/pistol.png",
+   "name": "Prototype Weapon Cache",
+   "name_cn": "原型武器缓存"
+  }
+ ],
+ "unknown_names": []
+}
