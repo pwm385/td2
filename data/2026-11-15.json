@@ -1,0 +1,123 @@
+{
+ "date": "2026-11-15",
+ "page_date": "2026-11-15",
+ "fetched_at": "2026-11-14T22:59:13+08:00",
+ "updated": "14 Nov · 09:05",
+ "rotation_week": {
+  "start": "2026-11-10",
+  "end": "2026-11-16"
+ },
+ "missions": [
+  {
+   "loot_en": "Empress International",
+   "loot_cn": "女皇国际",
+   "category": "brand",
+   "uncertain": false,
+   "appearances": 12,
+   "last_seen": "2026-11-14",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/brandsets/empressinternational.png?v=1791196677",
+   "icon": "assets/icons/brandsets/empressinternational.png",
+   "mission": "The Tombs",
+   "mission_cn": "坟墓",
+   "faction": "Rikers",
+   "faction_cn": "赖克斯帮"
+  },
+  {
+   "loot_en": "Holster",
+   "loot_cn": "枪套",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 17,
+   "last_seen": "2026-11-14",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gear/holster.png?v=1791196680",
+   "icon": "assets/icons/gear/holster.png",
+   "mission": "Manning National Zoo",
+   "mission_cn": "曼宁国家动物园",
+   "faction": "Outcasts",
+   "faction_cn": "流亡者"
+  },
+  {
+   "loot_en": "Strikers Battlegear",
+   "loot_cn": "突袭者战甲※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 8,
+   "last_seen": "2026-11-14",
+   "last_seen_en": "1 day ago",
+   "priority": true,
+   "loot_src": "/assets/division2/gearsets/strikersbattlegear.png?v=1791196680",
+   "icon": "assets/icons/gearsets/strikersbattlegear.png",
+   "mission": "Bank Headquarters",
+   "mission_cn": "银行总部",
+   "faction": "Hyenas",
+   "faction_cn": "鬣狗"
+  },
+  {
+   "loot_en": "Skill Mods",
+   "loot_cn": "技能模块※",
+   "category": "slot",
+   "uncertain": true,
+   "appearances": 15,
+   "last_seen": "2026-11-14",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gear/skillmod.png?v=1791196680",
+   "icon": "assets/icons/gear/skillmod.png",
+   "mission": "American History Museum",
+   "mission_cn": "美国历史博物馆",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  },
+  {
+   "loot_en": "Future Initiative",
+   "loot_cn": "未来行动※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 16,
+   "last_seen": "2026-11-14",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gearsets/futureinitiative.png?v=1791196680",
+   "icon": "assets/icons/gearsets/futureinitiative.png",
+   "mission": "Space Administration HQ",
+   "mission_cn": "太空管理局总部",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  }
+ ],
+ "caches": [
+  {
+   "loot_en": "Backpacks",
+   "loot_cn": "背包",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 28,
+   "last_seen": "2026-11-14",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gear/backpack.png",
+   "icon": "assets/icons/gear/backpack.png",
+   "name": "Prototype Gear Cache",
+   "name_cn": "原型装备缓存"
+  },
+  {
+   "loot_en": "LMGs",
+   "loot_cn": "轻机枪",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 25,
+   "last_seen": "2026-11-14",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/weapons/lmg.png",
+   "icon": "assets/icons/weapons/lmg.png",
+   "name": "Prototype Weapon Cache",
+   "name_cn": "原型武器缓存"
+  }
+ ],
+ "unknown_names": []
+}

@@ -361,6 +361,74 @@
    ]
   },
   {
+   "loot_en": "LMGs",
+   "loot_cn": "轻机枪",
+   "category": "slot",
+   "icon": "assets/icons/weapons/lmg.png",
+   "dates": [
+    {
+     "date": "2026-10-19",
+     "appearances": 18
+    },
+    {
+     "date": "2026-10-23",
+     "appearances": 19
+    },
+    {
+     "date": "2026-10-26",
+     "appearances": 20
+    },
+    {
+     "date": "2026-10-31",
+     "appearances": 22
+    },
+    {
+     "date": "2026-11-04",
+     "appearances": 23
+    },
+    {
+     "date": "2026-11-07",
+     "appearances": 24
+    },
+    {
+     "date": "2026-11-15",
+     "appearances": 25
+    }
+   ]
+  },
+  {
+   "loot_en": "Holster",
+   "loot_cn": "枪套",
+   "category": "slot",
+   "icon": "assets/icons/gear/holster.png",
+   "dates": [
+    {
+     "date": "2026-09-30",
+     "appearances": 11
+    },
+    {
+     "date": "2026-10-06",
+     "appearances": 12
+    },
+    {
+     "date": "2026-10-18",
+     "appearances": 13
+    },
+    {
+     "date": "2026-10-28",
+     "appearances": 14
+    },
+    {
+     "date": "2026-10-29",
+     "appearances": 15
+    },
+    {
+     "date": "2026-11-15",
+     "appearances": 17
+    }
+   ]
+  },
+  {
    "loot_en": "Gear Mods",
    "loot_cn": "装备模块※",
    "category": "slot",
@@ -489,6 +557,38 @@
    ]
   },
   {
+   "loot_en": "Backpacks",
+   "loot_cn": "背包",
+   "category": "slot",
+   "icon": "assets/icons/gear/backpack.png",
+   "dates": [
+    {
+     "date": "2026-10-08",
+     "appearances": 24
+    },
+    {
+     "date": "2026-11-01",
+     "appearances": 25
+    },
+    {
+     "date": "2026-11-02",
+     "appearances": 26
+    },
+    {
+     "date": "2026-11-10",
+     "appearances": 27
+    },
+    {
+     "date": "2026-11-11",
+     "appearances": 27
+    },
+    {
+     "date": "2026-11-15",
+     "appearances": 28
+    }
+   ]
+  },
+  {
    "loot_en": "Petrov Defense Group",
    "loot_cn": "彼得罗夫防御集团",
    "category": "brand",
@@ -553,38 +653,6 @@
    ]
   },
   {
-   "loot_en": "LMGs",
-   "loot_cn": "轻机枪",
-   "category": "slot",
-   "icon": "assets/icons/weapons/lmg.png",
-   "dates": [
-    {
-     "date": "2026-10-19",
-     "appearances": 18
-    },
-    {
-     "date": "2026-10-23",
-     "appearances": 19
-    },
-    {
-     "date": "2026-10-26",
-     "appearances": 20
-    },
-    {
-     "date": "2026-10-31",
-     "appearances": 22
-    },
-    {
-     "date": "2026-11-04",
-     "appearances": 23
-    },
-    {
-     "date": "2026-11-07",
-     "appearances": 24
-    }
-   ]
-  },
-  {
    "loot_en": "Alps Summit Armaments",
    "loot_cn": "阿尔卑斯山峰军事",
    "category": "brand",
@@ -641,34 +709,6 @@
     {
      "date": "2026-10-27",
      "appearances": 16
-    }
-   ]
-  },
-  {
-   "loot_en": "Holster",
-   "loot_cn": "枪套",
-   "category": "slot",
-   "icon": "assets/icons/gear/holster.png",
-   "dates": [
-    {
-     "date": "2026-09-30",
-     "appearances": 11
-    },
-    {
-     "date": "2026-10-06",
-     "appearances": 12
-    },
-    {
-     "date": "2026-10-18",
-     "appearances": 13
-    },
-    {
-     "date": "2026-10-28",
-     "appearances": 14
-    },
-    {
-     "date": "2026-10-29",
-     "appearances": 15
     }
    ]
   },
@@ -757,34 +797,6 @@
    ]
   },
   {
-   "loot_en": "Backpacks",
-   "loot_cn": "背包",
-   "category": "slot",
-   "icon": "assets/icons/gear/backpack.png",
-   "dates": [
-    {
-     "date": "2026-10-08",
-     "appearances": 24
-    },
-    {
-     "date": "2026-11-01",
-     "appearances": 25
-    },
-    {
-     "date": "2026-11-02",
-     "appearances": 26
-    },
-    {
-     "date": "2026-11-10",
-     "appearances": 27
-    },
-    {
-     "date": "2026-11-11",
-     "appearances": 27
-    }
-   ]
-  },
-  {
    "loot_en": "Refactor",
    "loot_cn": "重构※",
    "category": "set",
@@ -837,6 +849,34 @@
     {
      "date": "2026-10-31",
      "appearances": 18
+    }
+   ]
+  },
+  {
+   "loot_en": "Future Initiative",
+   "loot_cn": "未来行动※",
+   "category": "set",
+   "icon": "assets/icons/gearsets/futureinitiative.png",
+   "dates": [
+    {
+     "date": "2026-10-16",
+     "appearances": 11
+    },
+    {
+     "date": "2026-10-21",
+     "appearances": 12
+    },
+    {
+     "date": "2026-10-23",
+     "appearances": 13
+    },
+    {
+     "date": "2026-11-03",
+     "appearances": 15
+    },
+    {
+     "date": "2026-11-15",
+     "appearances": 16
     }
    ]
   },
@@ -1181,30 +1221,6 @@
    ]
   },
   {
-   "loot_en": "Future Initiative",
-   "loot_cn": "未来行动※",
-   "category": "set",
-   "icon": "assets/icons/gearsets/futureinitiative.png",
-   "dates": [
-    {
-     "date": "2026-10-16",
-     "appearances": 11
-    },
-    {
-     "date": "2026-10-21",
-     "appearances": 12
-    },
-    {
-     "date": "2026-10-23",
-     "appearances": 13
-    },
-    {
-     "date": "2026-11-03",
-     "appearances": 15
-    }
-   ]
-  },
-  {
    "loot_en": "Cavalier",
    "loot_cn": "骑士※",
    "category": "set",
@@ -1269,6 +1285,26 @@
     {
      "date": "2026-10-29",
      "appearances": 16
+    }
+   ]
+  },
+  {
+   "loot_en": "Skill Mods",
+   "loot_cn": "技能模块※",
+   "category": "slot",
+   "icon": "assets/icons/gear/skillmod.png",
+   "dates": [
+    {
+     "date": "2026-10-02",
+     "appearances": 12
+    },
+    {
+     "date": "2026-10-14",
+     "appearances": 13
+    },
+    {
+     "date": "2026-11-15",
+     "appearances": 15
     }
    ]
   },
@@ -1585,22 +1621,6 @@
    ]
   },
   {
-   "loot_en": "Skill Mods",
-   "loot_cn": "技能模块※",
-   "category": "slot",
-   "icon": "assets/icons/gear/skillmod.png",
-   "dates": [
-    {
-     "date": "2026-10-02",
-     "appearances": 12
-    },
-    {
-     "date": "2026-10-14",
-     "appearances": 13
-    }
-   ]
-  },
-  {
    "loot_en": "Core Strength",
    "loot_cn": "核心力量※",
    "category": "set",
@@ -1693,6 +1713,22 @@
     {
      "date": "2026-10-13",
      "appearances": 15
+    }
+   ]
+  },
+  {
+   "loot_en": "Strikers Battlegear",
+   "loot_cn": "突袭者战甲※",
+   "category": "set",
+   "icon": "assets/icons/gearsets/strikersbattlegear.png",
+   "dates": [
+    {
+     "date": "2026-10-13",
+     "appearances": 6
+    },
+    {
+     "date": "2026-11-15",
+     "appearances": 8
     }
    ]
   },
@@ -1869,18 +1905,6 @@
    ]
   },
   {
-   "loot_en": "Strikers Battlegear",
-   "loot_cn": "突袭者战甲※",
-   "category": "set",
-   "icon": "assets/icons/gearsets/strikersbattlegear.png",
-   "dates": [
-    {
-     "date": "2026-10-13",
-     "appearances": 6
-    }
-   ]
-  },
-  {
    "loot_en": "Eclipse Protocol",
    "loot_cn": "日蚀协议※",
    "category": "set",
@@ -1973,6 +1997,18 @@
     {
      "date": "2026-11-07",
      "appearances": 14
+    }
+   ]
+  },
+  {
+   "loot_en": "Empress International",
+   "loot_cn": "女皇国际",
+   "category": "brand",
+   "icon": "assets/icons/brandsets/empressinternational.png",
+   "dates": [
+    {
+     "date": "2026-11-15",
+     "appearances": 12
     }
    ]
   }
