@@ -117,6 +117,10 @@
     {
      "date": "2026-11-14",
      "appearances": 16
+    },
+    {
+     "date": "2026-11-16",
+     "appearances": 35
     }
    ]
   },
@@ -209,6 +213,50 @@
    ]
   },
   {
+   "loot_en": "Assault Rifles",
+   "loot_cn": "突击步枪",
+   "category": "slot",
+   "icon": "assets/icons/weapons/ar.png",
+   "dates": [
+    {
+     "date": "2026-10-04",
+     "appearances": 19
+    },
+    {
+     "date": "2026-10-10",
+     "appearances": 20
+    },
+    {
+     "date": "2026-10-11",
+     "appearances": 21
+    },
+    {
+     "date": "2026-10-14",
+     "appearances": 22
+    },
+    {
+     "date": "2026-10-18",
+     "appearances": 23
+    },
+    {
+     "date": "2026-10-28",
+     "appearances": 24
+    },
+    {
+     "date": "2026-10-29",
+     "appearances": 25
+    },
+    {
+     "date": "2026-11-13",
+     "appearances": 27
+    },
+    {
+     "date": "2026-11-16",
+     "appearances": 28
+    }
+   ]
+  },
+  {
    "loot_en": "Rifles",
    "loot_cn": "步枪",
    "category": "slot",
@@ -249,42 +297,38 @@
    ]
   },
   {
-   "loot_en": "Assault Rifles",
-   "loot_cn": "突击步枪",
+   "loot_en": "Holster",
+   "loot_cn": "枪套",
    "category": "slot",
-   "icon": "assets/icons/weapons/ar.png",
+   "icon": "assets/icons/gear/holster.png",
    "dates": [
     {
-     "date": "2026-10-04",
-     "appearances": 19
+     "date": "2026-09-30",
+     "appearances": 11
     },
     {
-     "date": "2026-10-10",
-     "appearances": 20
-    },
-    {
-     "date": "2026-10-11",
-     "appearances": 21
-    },
-    {
-     "date": "2026-10-14",
-     "appearances": 22
+     "date": "2026-10-06",
+     "appearances": 12
     },
     {
      "date": "2026-10-18",
-     "appearances": 23
+     "appearances": 13
     },
     {
      "date": "2026-10-28",
-     "appearances": 24
+     "appearances": 14
     },
     {
      "date": "2026-10-29",
-     "appearances": 25
+     "appearances": 15
     },
     {
-     "date": "2026-11-13",
-     "appearances": 27
+     "date": "2026-11-15",
+     "appearances": 17
+    },
+    {
+     "date": "2026-11-16",
+     "appearances": 18
     }
    ]
   },
@@ -393,38 +437,6 @@
     {
      "date": "2026-11-15",
      "appearances": 25
-    }
-   ]
-  },
-  {
-   "loot_en": "Holster",
-   "loot_cn": "枪套",
-   "category": "slot",
-   "icon": "assets/icons/gear/holster.png",
-   "dates": [
-    {
-     "date": "2026-09-30",
-     "appearances": 11
-    },
-    {
-     "date": "2026-10-06",
-     "appearances": 12
-    },
-    {
-     "date": "2026-10-18",
-     "appearances": 13
-    },
-    {
-     "date": "2026-10-28",
-     "appearances": 14
-    },
-    {
-     "date": "2026-10-29",
-     "appearances": 15
-    },
-    {
-     "date": "2026-11-15",
-     "appearances": 17
     }
    ]
   },
@@ -649,6 +661,38 @@
     {
      "date": "2026-11-06",
      "appearances": 20
+    }
+   ]
+  },
+  {
+   "loot_en": "Kneepad",
+   "loot_cn": "护膝",
+   "category": "slot",
+   "icon": "assets/icons/gear/kneepads.png",
+   "dates": [
+    {
+     "date": "2026-10-17",
+     "appearances": 7
+    },
+    {
+     "date": "2026-10-18",
+     "appearances": 8
+    },
+    {
+     "date": "2026-10-25",
+     "appearances": 9
+    },
+    {
+     "date": "2026-11-08",
+     "appearances": 10
+    },
+    {
+     "date": "2026-11-09",
+     "appearances": 11
+    },
+    {
+     "date": "2026-11-16",
+     "appearances": 12
     }
    ]
   },
@@ -881,34 +925,6 @@
    ]
   },
   {
-   "loot_en": "Kneepad",
-   "loot_cn": "护膝",
-   "category": "slot",
-   "icon": "assets/icons/gear/kneepads.png",
-   "dates": [
-    {
-     "date": "2026-10-17",
-     "appearances": 7
-    },
-    {
-     "date": "2026-10-18",
-     "appearances": 8
-    },
-    {
-     "date": "2026-10-25",
-     "appearances": 9
-    },
-    {
-     "date": "2026-11-08",
-     "appearances": 10
-    },
-    {
-     "date": "2026-11-09",
-     "appearances": 11
-    }
-   ]
-  },
-  {
    "loot_en": "Electrique",
    "loot_cn": "电气※",
    "category": "set",
@@ -1001,6 +1017,30 @@
     {
      "date": "2026-10-29",
      "appearances": 16
+    }
+   ]
+  },
+  {
+   "loot_en": "Hunters Fury",
+   "loot_cn": "猎人之怒※",
+   "category": "set",
+   "icon": "assets/icons/gearsets/huntersfury.png",
+   "dates": [
+    {
+     "date": "2026-10-04",
+     "appearances": 6
+    },
+    {
+     "date": "2026-11-05",
+     "appearances": 8
+    },
+    {
+     "date": "2026-11-06",
+     "appearances": 8
+    },
+    {
+     "date": "2026-11-16",
+     "appearances": 9
     }
    ]
   },
@@ -1389,26 +1429,6 @@
    ]
   },
   {
-   "loot_en": "Hunters Fury",
-   "loot_cn": "猎人之怒※",
-   "category": "set",
-   "icon": "assets/icons/gearsets/huntersfury.png",
-   "dates": [
-    {
-     "date": "2026-10-04",
-     "appearances": 6
-    },
-    {
-     "date": "2026-11-05",
-     "appearances": 8
-    },
-    {
-     "date": "2026-11-06",
-     "appearances": 8
-    }
-   ]
-  },
-  {
    "loot_en": "Negotiators Dilemma",
    "loot_cn": "谈判者困境※",
    "category": "set",
@@ -1565,6 +1585,26 @@
     {
      "date": "2026-11-06",
      "appearances": 18
+    }
+   ]
+  },
+  {
+   "loot_en": "Virtuoso",
+   "loot_cn": "名家※",
+   "category": "set",
+   "icon": "assets/icons/gearsets/virtuoso.png",
+   "dates": [
+    {
+     "date": "2026-10-19",
+     "appearances": 11
+    },
+    {
+     "date": "2026-11-07",
+     "appearances": 13
+    },
+    {
+     "date": "2026-11-16",
+     "appearances": 14
     }
    ]
   },
@@ -1744,22 +1784,6 @@
     },
     {
      "date": "2026-10-22",
-     "appearances": 13
-    }
-   ]
-  },
-  {
-   "loot_en": "Virtuoso",
-   "loot_cn": "名家※",
-   "category": "set",
-   "icon": "assets/icons/gearsets/virtuoso.png",
-   "dates": [
-    {
-     "date": "2026-10-19",
-     "appearances": 11
-    },
-    {
-     "date": "2026-11-07",
      "appearances": 13
     }
    ]
@@ -2009,6 +2033,18 @@
     {
      "date": "2026-11-15",
      "appearances": 12
+    }
+   ]
+  },
+  {
+   "loot_en": "Uzina Getica",
+   "loot_cn": "乌兹娜·格蒂卡※",
+   "category": "brand",
+   "icon": "assets/icons/brandsets/uzinagetica.png",
+   "dates": [
+    {
+     "date": "2026-11-16",
+     "appearances": 14
     }
    ]
   }
