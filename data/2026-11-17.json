@@ -1,0 +1,123 @@
+{
+ "date": "2026-11-17",
+ "page_date": "2026-11-17",
+ "fetched_at": "2026-11-16T16:00:05+08:00",
+ "updated": "15 Nov · 09:00",
+ "rotation_week": {
+  "start": "2026-11-17",
+  "end": "2026-11-23"
+ },
+ "missions": [
+  {
+   "loot_en": "Holster",
+   "loot_cn": "枪套",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 18,
+   "last_seen": "2026-11-15",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gear/holster.png?v=1791196680",
+   "icon": "assets/icons/gear/holster.png",
+   "mission": "The Tombs",
+   "mission_cn": "坟墓",
+   "faction": "Rikers",
+   "faction_cn": "赖克斯帮"
+  },
+  {
+   "loot_en": "Kneepad",
+   "loot_cn": "护膝",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 12,
+   "last_seen": "2026-11-15",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gear/kneepads.png?v=1791196680",
+   "icon": "assets/icons/gear/kneepads.png",
+   "mission": "Manning National Zoo",
+   "mission_cn": "曼宁国家动物园",
+   "faction": "Outcasts",
+   "faction_cn": "流亡者"
+  },
+  {
+   "loot_en": "Hunters Fury",
+   "loot_cn": "猎人之怒※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 9,
+   "last_seen": "2026-11-15",
+   "last_seen_en": "2 days ago",
+   "priority": true,
+   "loot_src": "/assets/division2/gearsets/huntersfury.png?v=1791196680",
+   "icon": "assets/icons/gearsets/huntersfury.png",
+   "mission": "Bank Headquarters",
+   "mission_cn": "银行总部",
+   "faction": "Hyenas",
+   "faction_cn": "鬣狗"
+  },
+  {
+   "loot_en": "Uzina Getica",
+   "loot_cn": "乌兹娜·格蒂卡※",
+   "category": "brand",
+   "uncertain": true,
+   "appearances": 14,
+   "last_seen": "2026-11-15",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "loot_src": "/assets/division2/brandsets/uzinagetica.png?v=1791196678",
+   "icon": "assets/icons/brandsets/uzinagetica.png",
+   "mission": "American History Museum",
+   "mission_cn": "美国历史博物馆",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  },
+  {
+   "loot_en": "Virtuoso",
+   "loot_cn": "名家※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 14,
+   "last_seen": "2026-11-15",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gearsets/virtuoso.png?v=1791196680",
+   "icon": "assets/icons/gearsets/virtuoso.png",
+   "mission": "Space Administration HQ",
+   "mission_cn": "太空管理局总部",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  }
+ ],
+ "caches": [
+  {
+   "loot_en": "Gloves",
+   "loot_cn": "手套",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 35,
+   "last_seen": "2026-11-15",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gear/gloves.png",
+   "icon": "assets/icons/gear/gloves.png",
+   "name": "Prototype Gear Cache",
+   "name_cn": "原型装备缓存"
+  },
+  {
+   "loot_en": "Assault Rifles",
+   "loot_cn": "突击步枪",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 28,
+   "last_seen": "2026-11-15",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "loot_src": "/assets/division2/weapons/ar.png",
+   "icon": "assets/icons/weapons/ar.png",
+   "name": "Prototype Weapon Cache",
+   "name_cn": "原型武器缓存"
+  }
+ ],
+ "unknown_names": []
+}
