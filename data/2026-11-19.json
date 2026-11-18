@@ -1,0 +1,123 @@
+{
+ "date": "2026-11-19",
+ "page_date": "2026-11-19",
+ "fetched_at": "2026-11-18T16:00:07+08:00",
+ "updated": "17 Nov · 15:50",
+ "rotation_week": {
+  "start": "2026-11-17",
+  "end": "2026-11-23"
+ },
+ "missions": [
+  {
+   "loot_en": "Gloves",
+   "loot_cn": "手套",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 17,
+   "last_seen": "2026-11-17",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gear/gloves.png?v=1791196680",
+   "icon": "assets/icons/gear/gloves.png",
+   "mission": "The Art Museum",
+   "mission_cn": "艺术博物馆",
+   "faction": "Rikers",
+   "faction_cn": "赖克斯帮"
+  },
+  {
+   "loot_en": "Kneepad",
+   "loot_cn": "护膝",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 13,
+   "last_seen": "2026-11-17",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gear/kneepads.png?v=1791196680",
+   "icon": "assets/icons/gear/kneepads.png",
+   "mission": "Capitol Building",
+   "mission_cn": "国会大厦",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  },
+  {
+   "loot_en": "Mask",
+   "loot_cn": "面具",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 14,
+   "last_seen": "2026-11-17",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gear/mask.png?v=1791196680",
+   "icon": "assets/icons/gear/mask.png",
+   "mission": "Jefferson Plaza",
+   "mission_cn": "杰斐逊广场",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  },
+  {
+   "loot_en": "Overlord Armaments",
+   "loot_cn": "霸主军备公司",
+   "category": "brand",
+   "uncertain": false,
+   "appearances": 13,
+   "last_seen": "2026-11-17",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "loot_src": "/assets/division2/brandsets/overlordarmaments.png?v=1791196678",
+   "icon": "assets/icons/brandsets/overlordarmaments.png",
+   "mission": "Lincoln Memorial",
+   "mission_cn": "林肯纪念堂",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  },
+  {
+   "loot_en": "Hard Wired",
+   "loot_cn": "硬连线※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 20,
+   "last_seen": "2026-11-17",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gearsets/hardwired.png?v=1791196680",
+   "icon": "assets/icons/gearsets/hardwired.png",
+   "mission": "Federal Emergency Bunker",
+   "mission_cn": "联邦紧急掩体",
+   "faction": "Outcasts",
+   "faction_cn": "流亡者"
+  }
+ ],
+ "caches": [
+  {
+   "loot_en": "Masks",
+   "loot_cn": "面具",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 39,
+   "last_seen": "2026-11-17",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gear/mask.png",
+   "icon": "assets/icons/gear/mask.png",
+   "name": "Prototype Gear Cache",
+   "name_cn": "原型装备缓存"
+  },
+  {
+   "loot_en": "LMGs",
+   "loot_cn": "轻机枪",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 26,
+   "last_seen": "2026-11-17",
+   "last_seen_en": "2 days ago",
+   "priority": false,
+   "loot_src": "/assets/division2/weapons/lmg.png",
+   "icon": "assets/icons/weapons/lmg.png",
+   "name": "Prototype Weapon Cache",
+   "name_cn": "原型武器缓存"
+  }
+ ],
+ "unknown_names": []
+}
