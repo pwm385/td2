@@ -1,0 +1,123 @@
+{
+ "date": "2026-11-20",
+ "page_date": "2026-11-20",
+ "fetched_at": "2026-11-19T16:55:02+08:00",
+ "updated": "19 Nov · 09:03",
+ "rotation_week": {
+  "start": "2026-11-17",
+  "end": "2026-11-23"
+ },
+ "missions": [
+  {
+   "loot_en": "Gila Guard",
+   "loot_cn": "毒蜥守卫队",
+   "category": "brand",
+   "uncertain": false,
+   "appearances": 16,
+   "last_seen": "2026-11-19",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/brandsets/gilaguard.png?v=1791196678",
+   "icon": "assets/icons/brandsets/gilaguard.png",
+   "mission": "The Art Museum",
+   "mission_cn": "艺术博物馆",
+   "faction": "Rikers",
+   "faction_cn": "赖克斯帮"
+  },
+  {
+   "loot_en": "Hana-U Corporation",
+   "loot_cn": "哈瑙公司",
+   "category": "brand",
+   "uncertain": false,
+   "appearances": 16,
+   "last_seen": "2026-11-19",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/brandsets/hanaucorporation.png?v=1791196678",
+   "icon": "assets/icons/brandsets/hanaucorporation.png",
+   "mission": "Capitol Building",
+   "mission_cn": "国会大厦",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  },
+  {
+   "loot_en": "Uzina Getica",
+   "loot_cn": "乌兹娜·格蒂卡※",
+   "category": "brand",
+   "uncertain": true,
+   "appearances": 15,
+   "last_seen": "2026-11-19",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/brandsets/uzinagetica.png?v=1791196678",
+   "icon": "assets/icons/brandsets/uzinagetica.png",
+   "mission": "Jefferson Plaza",
+   "mission_cn": "杰斐逊广场",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  },
+  {
+   "loot_en": "Concentrated Company",
+   "loot_cn": "精锐连※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 20,
+   "last_seen": "2026-11-19",
+   "last_seen_en": "1 day ago",
+   "priority": true,
+   "loot_src": "/assets/division2/gearsets/concentratedcompany.png?v=1791196680",
+   "icon": "assets/icons/gearsets/concentratedcompany.png",
+   "mission": "Lincoln Memorial",
+   "mission_cn": "林肯纪念堂",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  },
+  {
+   "loot_en": "Grupo Sombra S.A.",
+   "loot_cn": "影子军团股份有限公司",
+   "category": "brand",
+   "uncertain": false,
+   "appearances": 15,
+   "last_seen": "2026-11-19",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/brandsets/gruposombrasa.png?v=1791196678",
+   "icon": "assets/icons/brandsets/gruposombrasa.png",
+   "mission": "Federal Emergency Bunker",
+   "mission_cn": "联邦紧急掩体",
+   "faction": "Outcasts",
+   "faction_cn": "流亡者"
+  }
+ ],
+ "caches": [
+  {
+   "loot_en": "Backpacks",
+   "loot_cn": "背包",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 30,
+   "last_seen": "2026-11-19",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gear/backpack.png",
+   "icon": "assets/icons/gear/backpack.png",
+   "name": "Prototype Gear Cache",
+   "name_cn": "原型装备缓存"
+  },
+  {
+   "loot_en": "MMRs",
+   "loot_cn": "精确射手步枪",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 27,
+   "last_seen": "2026-11-19",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/weapons/mmr.png",
+   "icon": "assets/icons/weapons/mmr.png",
+   "name": "Prototype Weapon Cache",
+   "name_cn": "原型武器缓存"
+  }
+ ],
+ "unknown_names": []
+}
