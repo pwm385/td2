@@ -1,0 +1,123 @@
+{
+ "date": "2026-11-22",
+ "page_date": "2026-11-22",
+ "fetched_at": "2026-11-22T00:05:40+08:00",
+ "updated": "21 Nov · 09:00",
+ "rotation_week": {
+  "start": "2026-11-17",
+  "end": "2026-11-23"
+ },
+ "missions": [
+  {
+   "loot_en": "Core Strength",
+   "loot_cn": "核心力量※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 16,
+   "last_seen": "2026-11-21",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gearsets/corestrength.png?v=1791196680",
+   "icon": "assets/icons/gearsets/corestrength.png",
+   "mission": "The Art Museum",
+   "mission_cn": "艺术博物馆",
+   "faction": "Rikers",
+   "faction_cn": "赖克斯帮"
+  },
+  {
+   "loot_en": "Shotgun",
+   "loot_cn": "霰弹枪",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 19,
+   "last_seen": "2026-11-21",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/weapons/shotgun.png?v=1791196682",
+   "icon": "assets/icons/weapons/shotgun.png",
+   "mission": "Capitol Building",
+   "mission_cn": "国会大厦",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  },
+  {
+   "loot_en": "Foundry Bulwark",
+   "loot_cn": "铸城壁垒※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 11,
+   "last_seen": "2026-11-21",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gearsets/foundrybulwark.png?v=1791196680",
+   "icon": "assets/icons/gearsets/foundrybulwark.png",
+   "mission": "Jefferson Plaza",
+   "mission_cn": "杰斐逊广场",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  },
+  {
+   "loot_en": "Measured Assembly",
+   "loot_cn": "度量装配※",
+   "category": "set",
+   "uncertain": true,
+   "appearances": 15,
+   "last_seen": "2026-11-21",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gearsets/measuredassembly.png?v=1791196680",
+   "icon": "assets/icons/gearsets/measuredassembly.png",
+   "mission": "Lincoln Memorial",
+   "mission_cn": "林肯纪念堂",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  },
+  {
+   "loot_en": "Alps Summit Armaments",
+   "loot_cn": "阿尔卑斯山峰军事",
+   "category": "brand",
+   "uncertain": false,
+   "appearances": 14,
+   "last_seen": "2026-11-21",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/brandsets/alpssummitarmaments.png?v=1791196677",
+   "icon": "assets/icons/brandsets/alpssummitarmaments.png",
+   "mission": "Federal Emergency Bunker",
+   "mission_cn": "联邦紧急掩体",
+   "faction": "Outcasts",
+   "faction_cn": "流亡者"
+  }
+ ],
+ "caches": [
+  {
+   "loot_en": "Chest Pieces",
+   "loot_cn": "护甲",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 32,
+   "last_seen": "2026-11-21",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gear/chest.png",
+   "icon": "assets/icons/gear/chest.png",
+   "name": "Prototype Gear Cache",
+   "name_cn": "原型装备缓存"
+  },
+  {
+   "loot_en": "LMGs",
+   "loot_cn": "轻机枪",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 28,
+   "last_seen": "2026-11-21",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/weapons/lmg.png",
+   "icon": "assets/icons/weapons/lmg.png",
+   "name": "Prototype Weapon Cache",
+   "name_cn": "原型武器缓存"
+  }
+ ],
+ "unknown_names": []
+}

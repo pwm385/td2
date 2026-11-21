@@ -197,50 +197,6 @@
    ]
   },
   {
-   "loot_en": "Shotguns",
-   "loot_cn": "霰弹枪",
-   "category": "slot",
-   "icon": "assets/icons/weapons/shotgun.png",
-   "dates": [
-    {
-     "date": "2026-09-30",
-     "appearances": 25
-    },
-    {
-     "date": "2026-10-07",
-     "appearances": 26
-    },
-    {
-     "date": "2026-10-12",
-     "appearances": 27
-    },
-    {
-     "date": "2026-10-15",
-     "appearances": 28
-    },
-    {
-     "date": "2026-10-16",
-     "appearances": 29
-    },
-    {
-     "date": "2026-10-22",
-     "appearances": 30
-    },
-    {
-     "date": "2026-10-25",
-     "appearances": 31
-    },
-    {
-     "date": "2026-11-01",
-     "appearances": 32
-    },
-    {
-     "date": "2026-11-02",
-     "appearances": 33
-    }
-   ]
-  },
-  {
    "loot_en": "Chest Pieces",
    "loot_cn": "护甲",
    "category": "slot",
@@ -281,6 +237,54 @@
     {
      "date": "2026-11-03",
      "appearances": 30
+    },
+    {
+     "date": "2026-11-22",
+     "appearances": 32
+    }
+   ]
+  },
+  {
+   "loot_en": "Shotguns",
+   "loot_cn": "霰弹枪",
+   "category": "slot",
+   "icon": "assets/icons/weapons/shotgun.png",
+   "dates": [
+    {
+     "date": "2026-09-30",
+     "appearances": 25
+    },
+    {
+     "date": "2026-10-07",
+     "appearances": 26
+    },
+    {
+     "date": "2026-10-12",
+     "appearances": 27
+    },
+    {
+     "date": "2026-10-15",
+     "appearances": 28
+    },
+    {
+     "date": "2026-10-16",
+     "appearances": 29
+    },
+    {
+     "date": "2026-10-22",
+     "appearances": 30
+    },
+    {
+     "date": "2026-10-25",
+     "appearances": 31
+    },
+    {
+     "date": "2026-11-01",
+     "appearances": 32
+    },
+    {
+     "date": "2026-11-02",
+     "appearances": 33
     }
    ]
   },
@@ -529,6 +533,46 @@
    ]
   },
   {
+   "loot_en": "LMGs",
+   "loot_cn": "轻机枪",
+   "category": "slot",
+   "icon": "assets/icons/weapons/lmg.png",
+   "dates": [
+    {
+     "date": "2026-10-19",
+     "appearances": 18
+    },
+    {
+     "date": "2026-10-23",
+     "appearances": 19
+    },
+    {
+     "date": "2026-10-26",
+     "appearances": 20
+    },
+    {
+     "date": "2026-10-31",
+     "appearances": 22
+    },
+    {
+     "date": "2026-11-04",
+     "appearances": 23
+    },
+    {
+     "date": "2026-11-07",
+     "appearances": 24
+    },
+    {
+     "date": "2026-11-19",
+     "appearances": 26
+    },
+    {
+     "date": "2026-11-22",
+     "appearances": 28
+    }
+   ]
+  },
+  {
    "loot_en": "MMRs",
    "loot_cn": "精确射手步枪",
    "category": "slot",
@@ -637,38 +681,38 @@
    ]
   },
   {
-   "loot_en": "LMGs",
-   "loot_cn": "轻机枪",
-   "category": "slot",
-   "icon": "assets/icons/weapons/lmg.png",
+   "loot_en": "Alps Summit Armaments",
+   "loot_cn": "阿尔卑斯山峰军事",
+   "category": "brand",
+   "icon": "assets/icons/brandsets/alpssummitarmaments.png",
    "dates": [
     {
-     "date": "2026-10-19",
-     "appearances": 18
+     "date": "2026-10-28",
+     "appearances": 9
     },
     {
-     "date": "2026-10-23",
-     "appearances": 19
-    },
-    {
-     "date": "2026-10-26",
-     "appearances": 20
+     "date": "2026-10-29",
+     "appearances": 10
     },
     {
      "date": "2026-10-31",
-     "appearances": 22
+     "appearances": 11
     },
     {
-     "date": "2026-11-04",
-     "appearances": 23
+     "date": "2026-11-08",
+     "appearances": 11
     },
     {
-     "date": "2026-11-07",
-     "appearances": 24
+     "date": "2026-11-09",
+     "appearances": 12
     },
     {
-     "date": "2026-11-19",
-     "appearances": 26
+     "date": "2026-11-13",
+     "appearances": 13
+    },
+    {
+     "date": "2026-11-22",
+     "appearances": 14
     }
    ]
   },
@@ -865,38 +909,6 @@
    ]
   },
   {
-   "loot_en": "Alps Summit Armaments",
-   "loot_cn": "阿尔卑斯山峰军事",
-   "category": "brand",
-   "icon": "assets/icons/brandsets/alpssummitarmaments.png",
-   "dates": [
-    {
-     "date": "2026-10-28",
-     "appearances": 9
-    },
-    {
-     "date": "2026-10-29",
-     "appearances": 10
-    },
-    {
-     "date": "2026-10-31",
-     "appearances": 11
-    },
-    {
-     "date": "2026-11-08",
-     "appearances": 11
-    },
-    {
-     "date": "2026-11-09",
-     "appearances": 12
-    },
-    {
-     "date": "2026-11-13",
-     "appearances": 13
-    }
-   ]
-  },
-  {
    "loot_en": "Imminence Armaments",
    "loot_cn": "灾祸装备",
    "category": "brand",
@@ -1005,6 +1017,34 @@
     {
      "date": "2026-11-19",
      "appearances": 13
+    }
+   ]
+  },
+  {
+   "loot_en": "Foundry Bulwark",
+   "loot_cn": "铸城壁垒※",
+   "category": "set",
+   "icon": "assets/icons/gearsets/foundrybulwark.png",
+   "dates": [
+    {
+     "date": "2026-10-07",
+     "appearances": 6
+    },
+    {
+     "date": "2026-10-20",
+     "appearances": 7
+    },
+    {
+     "date": "2026-10-26",
+     "appearances": 8
+    },
+    {
+     "date": "2026-11-13",
+     "appearances": 10
+    },
+    {
+     "date": "2026-11-22",
+     "appearances": 11
     }
    ]
   },
@@ -1369,30 +1409,6 @@
    ]
   },
   {
-   "loot_en": "Foundry Bulwark",
-   "loot_cn": "铸城壁垒※",
-   "category": "set",
-   "icon": "assets/icons/gearsets/foundrybulwark.png",
-   "dates": [
-    {
-     "date": "2026-10-07",
-     "appearances": 6
-    },
-    {
-     "date": "2026-10-20",
-     "appearances": 7
-    },
-    {
-     "date": "2026-10-26",
-     "appearances": 8
-    },
-    {
-     "date": "2026-11-13",
-     "appearances": 10
-    }
-   ]
-  },
-  {
    "loot_en": "Pistol",
    "loot_cn": "手枪",
    "category": "slot",
@@ -1537,6 +1553,26 @@
    ]
   },
   {
+   "loot_en": "Shotgun",
+   "loot_cn": "霰弹枪",
+   "category": "slot",
+   "icon": "assets/icons/weapons/shotgun.png",
+   "dates": [
+    {
+     "date": "2026-10-01",
+     "appearances": 16
+    },
+    {
+     "date": "2026-11-03",
+     "appearances": 18
+    },
+    {
+     "date": "2026-11-22",
+     "appearances": 19
+    }
+   ]
+  },
+  {
    "loot_en": "Unit Alloys",
    "loot_cn": "联合合金※",
    "category": "brand",
@@ -1552,6 +1588,26 @@
     },
     {
      "date": "2026-10-29",
+     "appearances": 16
+    }
+   ]
+  },
+  {
+   "loot_en": "Core Strength",
+   "loot_cn": "核心力量※",
+   "category": "set",
+   "icon": "assets/icons/gearsets/corestrength.png",
+   "dates": [
+    {
+     "date": "2026-10-02",
+     "appearances": 13
+    },
+    {
+     "date": "2026-10-03",
+     "appearances": 14
+    },
+    {
+     "date": "2026-11-22",
      "appearances": 16
     }
    ]
@@ -1817,18 +1873,18 @@
    ]
   },
   {
-   "loot_en": "Shotgun",
-   "loot_cn": "霰弹枪",
-   "category": "slot",
-   "icon": "assets/icons/weapons/shotgun.png",
+   "loot_en": "Measured Assembly",
+   "loot_cn": "度量装配※",
+   "category": "set",
+   "icon": "assets/icons/gearsets/measuredassembly.png",
    "dates": [
     {
-     "date": "2026-10-01",
-     "appearances": 16
+     "date": "2026-09-30",
+     "appearances": 12
     },
     {
-     "date": "2026-11-03",
-     "appearances": 18
+     "date": "2026-11-22",
+     "appearances": 15
     }
    ]
   },
@@ -1845,22 +1901,6 @@
     {
      "date": "2026-10-14",
      "appearances": 13
-    }
-   ]
-  },
-  {
-   "loot_en": "Core Strength",
-   "loot_cn": "核心力量※",
-   "category": "set",
-   "icon": "assets/icons/gearsets/corestrength.png",
-   "dates": [
-    {
-     "date": "2026-10-02",
-     "appearances": 13
-    },
-    {
-     "date": "2026-10-03",
-     "appearances": 14
     }
    ]
   },
@@ -2021,18 +2061,6 @@
     {
      "date": "2026-11-11",
      "appearances": 3
-    }
-   ]
-  },
-  {
-   "loot_en": "Measured Assembly",
-   "loot_cn": "度量装配※",
-   "category": "set",
-   "icon": "assets/icons/gearsets/measuredassembly.png",
-   "dates": [
-    {
-     "date": "2026-09-30",
-     "appearances": 12
     }
    ]
   },
