@@ -1,6 +1,78 @@
 {
  "items": [
   {
+   "loot_en": "Masks",
+   "loot_cn": "面具",
+   "category": "slot",
+   "icon": "assets/icons/gear/mask.png",
+   "dates": [
+    {
+     "date": "2026-09-30",
+     "appearances": 26
+    },
+    {
+     "date": "2026-10-04",
+     "appearances": 27
+    },
+    {
+     "date": "2026-10-05",
+     "appearances": 28
+    },
+    {
+     "date": "2026-10-06",
+     "appearances": 29
+    },
+    {
+     "date": "2026-10-17",
+     "appearances": 30
+    },
+    {
+     "date": "2026-10-18",
+     "appearances": 31
+    },
+    {
+     "date": "2026-10-22",
+     "appearances": 32
+    },
+    {
+     "date": "2026-10-24",
+     "appearances": 33
+    },
+    {
+     "date": "2026-10-25",
+     "appearances": 34
+    },
+    {
+     "date": "2026-10-28",
+     "appearances": 35
+    },
+    {
+     "date": "2026-10-29",
+     "appearances": 36
+    },
+    {
+     "date": "2026-11-05",
+     "appearances": 37
+    },
+    {
+     "date": "2026-11-06",
+     "appearances": 37
+    },
+    {
+     "date": "2026-11-12",
+     "appearances": 38
+    },
+    {
+     "date": "2026-11-19",
+     "appearances": 39
+    },
+    {
+     "date": "2026-11-23",
+     "appearances": 40
+    }
+   ]
+  },
+  {
    "loot_en": "Gloves",
    "loot_cn": "手套",
    "category": "slot",
@@ -73,74 +145,6 @@
    ]
   },
   {
-   "loot_en": "Masks",
-   "loot_cn": "面具",
-   "category": "slot",
-   "icon": "assets/icons/gear/mask.png",
-   "dates": [
-    {
-     "date": "2026-09-30",
-     "appearances": 26
-    },
-    {
-     "date": "2026-10-04",
-     "appearances": 27
-    },
-    {
-     "date": "2026-10-05",
-     "appearances": 28
-    },
-    {
-     "date": "2026-10-06",
-     "appearances": 29
-    },
-    {
-     "date": "2026-10-17",
-     "appearances": 30
-    },
-    {
-     "date": "2026-10-18",
-     "appearances": 31
-    },
-    {
-     "date": "2026-10-22",
-     "appearances": 32
-    },
-    {
-     "date": "2026-10-24",
-     "appearances": 33
-    },
-    {
-     "date": "2026-10-25",
-     "appearances": 34
-    },
-    {
-     "date": "2026-10-28",
-     "appearances": 35
-    },
-    {
-     "date": "2026-10-29",
-     "appearances": 36
-    },
-    {
-     "date": "2026-11-05",
-     "appearances": 37
-    },
-    {
-     "date": "2026-11-06",
-     "appearances": 37
-    },
-    {
-     "date": "2026-11-12",
-     "appearances": 38
-    },
-    {
-     "date": "2026-11-19",
-     "appearances": 39
-    }
-   ]
-  },
-  {
    "loot_en": "Assault Rifles",
    "loot_cn": "突击步枪",
    "category": "slot",
@@ -193,6 +197,10 @@
     {
      "date": "2026-11-18",
      "appearances": 29
+    },
+    {
+     "date": "2026-11-23",
+     "appearances": 30
     }
    ]
   },
@@ -573,6 +581,46 @@
    ]
   },
   {
+   "loot_en": "Alps Summit Armaments",
+   "loot_cn": "阿尔卑斯山峰军事",
+   "category": "brand",
+   "icon": "assets/icons/brandsets/alpssummitarmaments.png",
+   "dates": [
+    {
+     "date": "2026-10-28",
+     "appearances": 9
+    },
+    {
+     "date": "2026-10-29",
+     "appearances": 10
+    },
+    {
+     "date": "2026-10-31",
+     "appearances": 11
+    },
+    {
+     "date": "2026-11-08",
+     "appearances": 11
+    },
+    {
+     "date": "2026-11-09",
+     "appearances": 12
+    },
+    {
+     "date": "2026-11-13",
+     "appearances": 13
+    },
+    {
+     "date": "2026-11-22",
+     "appearances": 14
+    },
+    {
+     "date": "2026-11-23",
+     "appearances": 15
+    }
+   ]
+  },
+  {
    "loot_en": "MMRs",
    "loot_cn": "精确射手步枪",
    "category": "slot",
@@ -677,42 +725,6 @@
     {
      "date": "2026-11-21",
      "appearances": 30
-    }
-   ]
-  },
-  {
-   "loot_en": "Alps Summit Armaments",
-   "loot_cn": "阿尔卑斯山峰军事",
-   "category": "brand",
-   "icon": "assets/icons/brandsets/alpssummitarmaments.png",
-   "dates": [
-    {
-     "date": "2026-10-28",
-     "appearances": 9
-    },
-    {
-     "date": "2026-10-29",
-     "appearances": 10
-    },
-    {
-     "date": "2026-10-31",
-     "appearances": 11
-    },
-    {
-     "date": "2026-11-08",
-     "appearances": 11
-    },
-    {
-     "date": "2026-11-09",
-     "appearances": 12
-    },
-    {
-     "date": "2026-11-13",
-     "appearances": 13
-    },
-    {
-     "date": "2026-11-22",
-     "appearances": 14
     }
    ]
   },
@@ -845,6 +857,38 @@
    ]
   },
   {
+   "loot_en": "Grupo Sombra S.A.",
+   "loot_cn": "影子军团股份有限公司",
+   "category": "brand",
+   "icon": "assets/icons/brandsets/gruposombrasa.png",
+   "dates": [
+    {
+     "date": "2026-10-09",
+     "appearances": 11
+    },
+    {
+     "date": "2026-10-15",
+     "appearances": 12
+    },
+    {
+     "date": "2026-10-27",
+     "appearances": 13
+    },
+    {
+     "date": "2026-11-20",
+     "appearances": 15
+    },
+    {
+     "date": "2026-11-21",
+     "appearances": 15
+    },
+    {
+     "date": "2026-11-23",
+     "appearances": 16
+    }
+   ]
+  },
+  {
    "loot_en": "Petrov Defense Group",
    "loot_cn": "彼得罗夫防御集团",
    "category": "brand",
@@ -933,6 +977,34 @@
     {
      "date": "2026-10-27",
      "appearances": 16
+    }
+   ]
+  },
+  {
+   "loot_en": "Electrique",
+   "loot_cn": "电气※",
+   "category": "set",
+   "icon": "assets/icons/brandsets/electrique.png",
+   "dates": [
+    {
+     "date": "2026-09-30",
+     "appearances": 15
+    },
+    {
+     "date": "2026-10-08",
+     "appearances": 16
+    },
+    {
+     "date": "2026-10-24",
+     "appearances": 17
+    },
+    {
+     "date": "2026-11-12",
+     "appearances": 19
+    },
+    {
+     "date": "2026-11-23",
+     "appearances": 20
     }
    ]
   },
@@ -1049,34 +1121,6 @@
    ]
   },
   {
-   "loot_en": "Grupo Sombra S.A.",
-   "loot_cn": "影子军团股份有限公司",
-   "category": "brand",
-   "icon": "assets/icons/brandsets/gruposombrasa.png",
-   "dates": [
-    {
-     "date": "2026-10-09",
-     "appearances": 11
-    },
-    {
-     "date": "2026-10-15",
-     "appearances": 12
-    },
-    {
-     "date": "2026-10-27",
-     "appearances": 13
-    },
-    {
-     "date": "2026-11-20",
-     "appearances": 15
-    },
-    {
-     "date": "2026-11-21",
-     "appearances": 15
-    }
-   ]
-  },
-  {
    "loot_en": "Refactor",
    "loot_cn": "重构※",
    "category": "set",
@@ -1156,6 +1200,34 @@
     },
     {
      "date": "2026-10-31",
+     "appearances": 18
+    }
+   ]
+  },
+  {
+   "loot_en": "Future Initiative",
+   "loot_cn": "未来行动※",
+   "category": "set",
+   "icon": "assets/icons/gearsets/futureinitiative.png",
+   "dates": [
+    {
+     "date": "2026-10-16",
+     "appearances": 11
+    },
+    {
+     "date": "2026-10-21",
+     "appearances": 12
+    },
+    {
+     "date": "2026-10-23",
+     "appearances": 13
+    },
+    {
+     "date": "2026-11-03",
+     "appearances": 15
+    },
+    {
+     "date": "2026-11-23",
      "appearances": 18
     }
    ]
@@ -1241,30 +1313,6 @@
    ]
   },
   {
-   "loot_en": "Electrique",
-   "loot_cn": "电气※",
-   "category": "set",
-   "icon": "assets/icons/brandsets/electrique.png",
-   "dates": [
-    {
-     "date": "2026-09-30",
-     "appearances": 15
-    },
-    {
-     "date": "2026-10-08",
-     "appearances": 16
-    },
-    {
-     "date": "2026-10-24",
-     "appearances": 17
-    },
-    {
-     "date": "2026-11-12",
-     "appearances": 19
-    }
-   ]
-  },
-  {
    "loot_en": "Rigger",
    "loot_cn": "索具工※",
    "category": "set",
@@ -1333,6 +1381,30 @@
     {
      "date": "2026-10-29",
      "appearances": 16
+    }
+   ]
+  },
+  {
+   "loot_en": "Umbra Initiative",
+   "loot_cn": "暗影行动※",
+   "category": "set",
+   "icon": "assets/icons/gearsets/umbrainitiative.png",
+   "dates": [
+    {
+     "date": "2026-10-03",
+     "appearances": 10
+    },
+    {
+     "date": "2026-11-05",
+     "appearances": 13
+    },
+    {
+     "date": "2026-11-06",
+     "appearances": 13
+    },
+    {
+     "date": "2026-11-23",
+     "appearances": 14
     }
    ]
   },
@@ -1481,30 +1553,6 @@
    ]
   },
   {
-   "loot_en": "Future Initiative",
-   "loot_cn": "未来行动※",
-   "category": "set",
-   "icon": "assets/icons/gearsets/futureinitiative.png",
-   "dates": [
-    {
-     "date": "2026-10-16",
-     "appearances": 11
-    },
-    {
-     "date": "2026-10-21",
-     "appearances": 12
-    },
-    {
-     "date": "2026-10-23",
-     "appearances": 13
-    },
-    {
-     "date": "2026-11-03",
-     "appearances": 15
-    }
-   ]
-  },
-  {
    "loot_en": "Cavalier",
    "loot_cn": "骑士※",
    "category": "set",
@@ -1629,26 +1677,6 @@
     {
      "date": "2026-11-04",
      "appearances": 33
-    }
-   ]
-  },
-  {
-   "loot_en": "Umbra Initiative",
-   "loot_cn": "暗影行动※",
-   "category": "set",
-   "icon": "assets/icons/gearsets/umbrainitiative.png",
-   "dates": [
-    {
-     "date": "2026-10-03",
-     "appearances": 10
-    },
-    {
-     "date": "2026-11-05",
-     "appearances": 13
-    },
-    {
-     "date": "2026-11-06",
-     "appearances": 13
     }
    ]
   },
