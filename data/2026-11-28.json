@@ -1,0 +1,125 @@
+{
+ "date": "2026-11-28",
+ "page_date": "2026-11-28",
+ "fetched_at": "2026-11-28T02:05:51+08:00",
+ "updated": "27 Nov · 09:18",
+ "rotation_week": {
+  "start": "2026-11-24",
+  "end": "2026-11-30"
+ },
+ "missions": [
+  {
+   "loot_en": "Alps Summit Armaments",
+   "loot_cn": "阿尔卑斯山峰军事",
+   "category": "brand",
+   "uncertain": false,
+   "appearances": 16,
+   "last_seen": "2026-11-27",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/brandsets/alpssummitarmaments.png?v=1791196677",
+   "icon": "assets/icons/brandsets/alpssummitarmaments.png",
+   "mission": "The Pentagon",
+   "mission_cn": "五角大楼",
+   "faction": "Black Tusk",
+   "faction_cn": "暗牙"
+  },
+  {
+   "loot_en": "Field General",
+   "loot_cn": null,
+   "category": "unknown",
+   "uncertain": false,
+   "appearances": 2,
+   "last_seen": "2026-11-27",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gearsets/fieldgeneral.png?v=1795767227",
+   "icon": "assets/icons/gearsets/fieldgeneral.png",
+   "mission": "DARPA Research Labs",
+   "mission_cn": "DARPA 研究实验室",
+   "faction": "Black Tusk",
+   "faction_cn": "暗牙"
+  },
+  {
+   "loot_en": "Gila Guard",
+   "loot_cn": "毒蜥守卫队",
+   "category": "brand",
+   "uncertain": false,
+   "appearances": 18,
+   "last_seen": "2026-11-27",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/brandsets/gilaguard.png?v=1791196678",
+   "icon": "assets/icons/brandsets/gilaguard.png",
+   "mission": "District Union Arena",
+   "mission_cn": "区联盟竞技场",
+   "faction": "Hyenas",
+   "faction_cn": "鬣狗"
+  },
+  {
+   "loot_en": "Murakami Industries",
+   "loot_cn": "村上工业",
+   "category": "brand",
+   "uncertain": false,
+   "appearances": 17,
+   "last_seen": "2026-11-27",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/brandsets/murakamiindustries.png?v=1791196678",
+   "icon": "assets/icons/brandsets/murakamiindustries.png",
+   "mission": "Roosevelt Island",
+   "mission_cn": "罗斯福岛",
+   "faction": "Outcasts",
+   "faction_cn": "流亡者"
+  },
+  {
+   "loot_en": "Brazos de Arcabuz",
+   "loot_cn": "阿卡布兹之臂※",
+   "category": "brand",
+   "uncertain": true,
+   "appearances": 10,
+   "last_seen": "2026-11-27",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/brandsets/brazosdearcabuz.png?v=1791196677",
+   "icon": "assets/icons/brandsets/brazosdearcabuz.png",
+   "mission": "Space Administration HQ",
+   "mission_cn": "太空管理局总部",
+   "faction": "True Sons",
+   "faction_cn": "真实之子"
+  }
+ ],
+ "caches": [
+  {
+   "loot_en": "Masks",
+   "loot_cn": "面具",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 42,
+   "last_seen": "2026-11-27",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/gear/mask.png",
+   "icon": "assets/icons/gear/mask.png",
+   "name": "Prototype Gear Cache",
+   "name_cn": "原型装备缓存"
+  },
+  {
+   "loot_en": "Pistols",
+   "loot_cn": "手枪",
+   "category": "slot",
+   "uncertain": false,
+   "appearances": 25,
+   "last_seen": "2026-11-27",
+   "last_seen_en": "1 day ago",
+   "priority": false,
+   "loot_src": "/assets/division2/weapons/pistol.png",
+   "icon": "assets/icons/weapons/pistol.png",
+   "name": "Prototype Weapon Cache",
+   "name_cn": "原型武器缓存"
+  }
+ ],
+ "unknown_names": [
+  "Field General"
+ ]
+}
